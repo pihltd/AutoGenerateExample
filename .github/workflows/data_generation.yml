@@ -1,0 +1,13 @@
+name: DataGen
+on:
+  push: 
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout data generator
+        uses: actions/checkout@main
+        with:
+          repository: CBIIT/bento-data-generator
+          path: ./bento-data-generator
