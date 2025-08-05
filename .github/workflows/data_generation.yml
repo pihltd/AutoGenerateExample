@@ -11,3 +11,4 @@ jobs:
         with:
           repository: CBIIT/bento-data-generator
           path: ./bento-data-generator
+          run: python -m pip3 install -r ./bento-data-generator/requirements.txt
