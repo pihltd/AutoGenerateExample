@@ -1,0 +1,6 @@
+NODE_FILE: ./model-desc/ctdc-model.yaml
+PROP_FILE: ./model-desc/ctdc-model-props.yaml
+SYNTHETIC_DATA_FILE: ./configs/ctdc-sythentic_data_values.xlsx
+DATA_SPEC_FILE: ./configs/ctdc-mock-data-specs_full.yaml
+ID_FILE: ./configs/props-ctdc.yml
+OUTPUT_FOLDER: ./loadsheets/
