@@ -11,6 +11,10 @@ jobs:
         with:
           repository: CBIIT/bento-data-generator
           path: ./bento-data-generator
-          run: python -m pip3 install -r ./bento-data-generator/requirements.txt
+          #run: python -m pip3 install -r ./bento-data-generator/requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./bento-data-generator/requirements.txt
       - name: Run data generator
         run: python ./bento-data-generator/bento-synthetic-data-generator.py ./configs/datagen_config.yml
