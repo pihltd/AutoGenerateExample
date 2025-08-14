@@ -21,5 +21,7 @@ jobs:
         with:
           repository: pihltd/AutoGenerateExample
           path: ./AutoGenerateExample
+      - name: Take a look
+        run: ls
       - name: Run data generator
         run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/configs/datagen_config.yml
