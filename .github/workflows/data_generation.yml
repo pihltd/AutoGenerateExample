@@ -34,9 +34,13 @@ jobs:
       # https://stackoverflow.com/questions/68057744/create-pull-request-with-github-action
       #  run: gh pr create -H
       - name: List output dir
-        run: ls ./AutoGenerateExample/loadsheets/
+        run: |
+          pwd
+          ls ./AutoGenerateExample/loadsheets/
       - name: List working dir
-        run: ls
+        run: |
+          pwd
+          ls
       - name: Commit and push
         uses: actions/checkout@main
       # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
