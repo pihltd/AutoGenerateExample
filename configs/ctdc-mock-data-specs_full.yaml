@@ -132,9 +132,9 @@ IncludeProperties:
     - targeted_therapy_id
     - targeted_therapy #6400634
 
-  therapy:
-    - therapy_id
-    - therapy #6400634
+  #therapy:
+  #  - therapy_id
+  #  - therapy #6400634
 
   surgical_procedure:
     - surgical_procedure_id
@@ -230,8 +230,8 @@ RelationshipSpecs:
       SrcNodeCount: fixed
     targeted_therapy:
       SrcNodeCount: fixed
-    therapy:
-      SrcNodeCount: fixed
+    #therapy:
+    #  SrcNodeCount: fixed
     surgical_procedure:
       SrcNodeCount: fixed
     radiological_procedure:
