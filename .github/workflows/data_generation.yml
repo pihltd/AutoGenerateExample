@@ -41,6 +41,6 @@ jobs:
       - run: |
           git config --global user.name 'Todd Pihl'
           git config --global user.email 'todd.pihl@nih.gov'
-          git commit -am "Auto Data Generation"
+          git commit -am "Auto Data Generation" ./AutoGenerateExample
           git push
-        working-directory: ./AutoGenerateExample
+        #working-directory: ./AutoGenerateExample
