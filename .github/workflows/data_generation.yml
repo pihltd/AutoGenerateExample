@@ -2,8 +2,6 @@ name: DataGen
 on:
   push: 
     branches: [main]
-#env:
-#  reponame: 'AutoGenerateExample'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,7 +11,6 @@ jobs:
         with:
           repository: CBIIT/bento-data-generator
           path: ./bento-data-generator
-          #run: python -m pip3 install -r ./bento-data-generator/requirements.txt
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -29,31 +26,15 @@ jobs:
           repository: pihltd/AutoGenerateExample
           path: ./AutoGenerateExample
       - name: Run data generator
-        run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/configs/datagen_config_1.yml
-      #- name: Generate Pull request
-      # https://stackoverflow.com/questions/68057744/create-pull-request-with-github-action
-      #  run: gh pr create -H
-      - name: List output dir
-        run: |
-          pwd
-          ls ./AutoGenerateExample/loadsheets/
-      - name: List working dir
-        run: |
-          pwd
-          ls
+        #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/configs/datagen_config_1.yml
+        run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/configs/datagen_config.yml
+
       - name: Commit and push
         run: |
-          ls
-          pwd
-          ls ./loadsheets/
           git config --global user.name 'Todd Pihl'
           git config --global user.email 'todd.pihl@nih.gov'
           git add ./loadsheets/*
           git commit -m "Auto Data Generation" 
           git push
         working-directory: ./AutoGenerateExample
-
-
-        #uses: actions/checkout@main
-      # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
-     
+    
