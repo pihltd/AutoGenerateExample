@@ -42,15 +42,21 @@ jobs:
           pwd
           ls
       - name: Commit and push
-        uses: actions/checkout@main
-      # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
-      - run: |
+        run: |
           ls
           pwd
           ls ./loadsheets/
-          git config --global user.name 'Todd Pihl'
-          git config --global user.email 'todd.pihl@nih.gov'
-          git add ./AutoGenerateExample/loadsheets/*
-          git commit -m "Auto Data Generation" 
-          git push
+          ls ./AutoGenerateExample/loadsheets/
+
+        #uses: actions/checkout@main
+      # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
+      #- run: |
+      #    ls
+      #    pwd
+      #    ls ./loadsheets/
+      #    git config --global user.name 'Todd Pihl'
+      #    git config --global user.email 'todd.pihl@nih.gov'
+      #    git add ./AutoGenerateExample/loadsheets/*
+      #    git commit -m "Auto Data Generation" 
+      #    git push
         #working-directory: AutoGenerateExample
