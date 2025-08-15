@@ -37,16 +37,13 @@ jobs:
         run: ls ./AutoGenerateExample/loadsheets/
       - name: List working dir
         run: ls
-      - name: Third party commit
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Auto data generation"
-      #- name: Commit and push
-      #  uses: actions/checkout@main
+      - name: Commit and push
+        uses: actions/checkout@main
       # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
-      #- run: |
-      #    git config --global user.name 'Todd Pihl'
-      #    git config --global user.email 'todd.pihl@nih.gov'
-      #    git commit -m "Auto Data Generation" 
-      #    git push
-        #working-directory: ./AutoGenerateExample
+      - run: |
+          ls
+          git config --global user.name 'Todd Pihl'
+          git config --global user.email 'todd.pihl@nih.gov'
+          git commit -m "Auto Data Generation" 
+          git push
+        working-directory: ./AutoGenerateExample
