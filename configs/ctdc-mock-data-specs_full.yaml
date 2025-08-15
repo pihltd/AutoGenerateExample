@@ -30,9 +30,9 @@ IncludeNodes:
   targeted_therapy:
     NodeCount: 128
     Prefix: CTDC-TARGETED-THERAPY
-  surgical_procedure:
-    NodeCount: 128
-    Prefix: CTDC-SURGICAL-PROCEDURE
+  #surgical_procedure:
+  #  NodeCount: 128
+  #  Prefix: CTDC-SURGICAL-PROCEDURE
   radiological_procedure:
     NodeCount: 128
     Prefix: CTDC-RADIOLOGICAL-PROCEDURE
@@ -136,9 +136,9 @@ IncludeProperties:
   #  - therapy_id
   #  - therapy #6400634
 
-  surgical_procedure:
-    - surgical_procedure_id
-    - surgical_procedure_name #6411539
+  #surgical_procedure:
+  #  - surgical_procedure_id
+  #  - surgical_procedure_name #6411539
 
   radiological_procedure:
     - radiological_procedure_id
@@ -232,8 +232,8 @@ RelationshipSpecs:
       SrcNodeCount: fixed
     #therapy:
     #  SrcNodeCount: fixed
-    surgical_procedure:
-      SrcNodeCount: fixed
+    #surgical_procedure:
+    #  SrcNodeCount: fixed
     radiological_procedure:
       SrcNodeCount: fixed
     subject_status:
