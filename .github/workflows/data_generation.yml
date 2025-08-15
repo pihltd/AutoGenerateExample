@@ -42,6 +42,7 @@ jobs:
       # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
       - run: |
           pwd
+          ls ./loadsheets
           git config --global user.name 'Todd Pihl'
           git config --global user.email 'todd.pihl@nih.gov'
           git add ./loadsheets/*
