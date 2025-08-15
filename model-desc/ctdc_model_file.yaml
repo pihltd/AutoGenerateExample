@@ -199,7 +199,7 @@ Nodes:
       - histological_subtype #14843594
       - stage_of_disease #3440332
       - tumor_grade #11325685
-      - date_of_diagnosis #2178801 # quantified in days indexed to date of trial enrollment 
+      #- date_of_diagnosis #2178801 # quantified in days indexed to date of trial enrollment 
       #- subject_age_at_diagnosis #10609539
       - crdc_id
   targeted_therapy:
