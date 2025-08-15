@@ -38,6 +38,6 @@ jobs:
       # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
       - run: |
           git config --global user.name 'Todd Pihl'
-          git config --glboal user.email 'todd.pihl@nih.gov'
+          git config --global user.email 'todd.pihl@nih.gov'
           git commit -am "Auto Data Generation"
           git push
