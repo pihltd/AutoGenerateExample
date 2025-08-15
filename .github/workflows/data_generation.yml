@@ -45,8 +45,13 @@ jobs:
         run: |
           ls
           pwd
-          ls ./loadsheets/
           ls ./AutoGenerateExample/loadsheets/
+          git config --global user.name 'Todd Pihl'
+          git config --global user.email 'todd.pihl@nih.gov'
+          git add ./AutoGenerateExample/loadsheets/*
+          git commit -m "Auto Data Generation" 
+          git push
+
 
         #uses: actions/checkout@main
       # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
