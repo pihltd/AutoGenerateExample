@@ -33,6 +33,8 @@ jobs:
       #- name: Generate Pull request
       # https://stackoverflow.com/questions/68057744/create-pull-request-with-github-action
       #  run: gh pr create -H
+      - name: List output dir
+        run: ls ./AutoGenerateExample/loadsheets/
       - name: Commit and push
         uses: actions/checkout@main
       # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action/58393457#58393457
