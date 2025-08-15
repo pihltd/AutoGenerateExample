@@ -46,4 +46,4 @@ jobs:
           git config --global user.email 'todd.pihl@nih.gov'
           git commit -m "Auto Data Generation" 
           git push
-        working-directory: AutoGenerateExample
+        #working-directory: AutoGenerateExample
