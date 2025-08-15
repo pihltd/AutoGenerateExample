@@ -51,6 +51,7 @@ jobs:
           git add ./AutoGenerateExample/loadsheets/*
           git commit -m "Auto Data Generation" 
           git push
+        working-directory: ./AutoGenerateExample
 
 
         #uses: actions/checkout@main
