@@ -44,6 +44,7 @@ jobs:
           pwd
           git config --global user.name 'Todd Pihl'
           git config --global user.email 'todd.pihl@nih.gov'
+          git add ./loadsheets/*
           git commit -m "Auto Data Generation" 
           git push
         #working-directory: AutoGenerateExample
