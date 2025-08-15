@@ -51,9 +51,9 @@ IncludeNodes:
   image_collection:
     NodeCount: 8
     Prefix: CTDC-IMAGE-COLLECTION
-  therapy:
-    NodeCount: 128
-    Prefix: CTDC-IMAGE-COLLECTION
+  #therapy:
+  #  NodeCount: 128
+  #  Prefix: CTDC-IMAGE-COLLECTION
   principal_investigator:
     NodeCount: 8
     Prefix: CTDC-PRINCIPAL-INVESTIGATOR
