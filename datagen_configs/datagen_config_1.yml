@@ -3,5 +3,5 @@ PROP_FILE: ./AutoGenerateExample/ctdc_configuration_files_1.0.0/ctdc_model_prope
 SYNTHETIC_DATA_FILE: ./AutoGenerateExample/ctdc_configuration_files_1.0.0/ctdc-synthetic_data_values.xlsx
 DATA_SPEC_FILE: ./AutoGenerateExample/ctdc_configuration_files_1.0.0/ctdc-mock-data-specs.yaml
 ID_FILE: ./AutoGenerateExample/ctdc_configuration_files_1.0.0/props-ctdc.yml
-OUTPUT_FOLDER: ./AutoGenerateExample/loadsheets/
+OUTPUT_FOLDER: ./AutoGenerateExample/example_loadsheets/
 DELETE_ERROR_FILE: False
