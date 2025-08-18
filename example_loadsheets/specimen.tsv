@@ -1,301 +1,301 @@
 type	participant.participant_id	specimen_record_id	specimen_type	specimen_category	anatomical_collection_site	tissue_category	assessment_timepoint	collection_date	crdc_id
-specimen	CTDC-PARTICIPANT-646708	CTDC-SPECIMEN-535981	Streck Blood	Fresh Tissue	a_bene_placito	Primary	Archival	545.89	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-646708	CTDC-SPECIMEN-341657	EDTA Blood	OTHER BODILY FLUIDs	scientiae_et_patriae	Metastatic	On Treatment (Fresh)	209.39	scientia_et_labor
-specimen	CTDC-PARTICIPANT-376581	CTDC-SPECIMEN-539707	Snap Frozen Tissue	Blood	id_quod_plerumque_accidit	Normal	On Treatment (Fresh)	908.17	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-376581	CTDC-SPECIMEN-338252	Formalin Fixed Tissue	BLOOD	nanos_gigantum_humeris_insidentes	Primary	Baseline (Fresh)	341.81	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-788868	CTDC-SPECIMEN-565933	Unstained Bone Marrow Aspirate Slide	Fresh Tissue	e_causa_ignota	Adjacent Non-Tumor	On Treatment (Fresh)	868.46	Obedientia_civium_urbis_felicitas
-specimen	CTDC-PARTICIPANT-788868	CTDC-SPECIMEN-762985	EDTA Blood	FRESH TISSUE	imperium_in_imperio	Adjacent Non-Tumor	Baseline (Fresh)	353.26	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-213235	CTDC-SPECIMEN-531949	Formalin Fixed Tissue	Frozen Tissue	pace_tua	Primary	On Treatment (Fresh)	812.83	scientia_et_labor
-specimen	CTDC-PARTICIPANT-213235	CTDC-SPECIMEN-988675	Bone Marrow Aspirate	Formalin Fixed Tissue	Macte_animo_Generose_puer_sic_itur_ad_astra	Normal	ON TREATMENT	98.68	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-563942	CTDC-SPECIMEN-558487	Stained Bone Marrow Aspirate Slide	Bone Marrow	Gallia_est_omnis_divisa_in_partes_tres	Adjacent Non-Tumor	Archival	434.8	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-563942	CTDC-SPECIMEN-118280	FORMALIN FIXED TISSUE	OTHER BODILY FLUIDs	sapiens_qui_prospicit	Primary	Archival	768.5	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-225405	CTDC-SPECIMEN-145407	Cell Block	Bone Marrow	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	ON TREATMENT	106.23	Obedientia_civium_urbis_felicitas
-specimen	CTDC-PARTICIPANT-225405	CTDC-SPECIMEN-960852	Unstained Bone Marrow Aspirate Slide	Blood	e_causa_ignota	Primary	Post-Treatment (No progression)	240.98	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-601918	CTDC-SPECIMEN-634045	Cell Block	BLOOD	e_causa_ignota	Normal	On Treatment (Fresh)	758.38	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-601918	CTDC-SPECIMEN-548068	Snap Frozen Tissue	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	cacatum_non_est_pictum	Primary	Post-Treatment (No progression)	128.33	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-936290	CTDC-SPECIMEN-456521	FORMALIN FIXED TISSUE	URINE	damnant_quod_non_intellegunt	Primary	Progression (Fresh)	484.37	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-936290	CTDC-SPECIMEN-622122	Formalin Fixed Tissue	Bone Marrow	Gallia_est_omnis_divisa_in_partes_tres	Metastatic	On Treatment (Fresh)	669.28	a_bene_placito
-specimen	CTDC-PARTICIPANT-234075	CTDC-SPECIMEN-474099	Unstained Bone Marrow Aspirate Slide	Blood	e_causa_ignota	Normal	PROGRESSION	853.71	scientia_et_labor
-specimen	CTDC-PARTICIPANT-234075	CTDC-SPECIMEN-506356	FORMALIN FIXED TISSUE	FORMALIN FIXED TISSUE	cacatum_non_est_pictum	Normal	ON TREATMENT	878.93	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-151055	CTDC-SPECIMEN-184643	Bone Marrow Aspirate	CEREBROSPINAL FLUID	Obedientia_civium_urbis_felicitas	Normal	ARCHIVAL	600.03	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-151055	CTDC-SPECIMEN-292087	Formalin Bone Marrow Biopsy	URINE	haec_olim_meminisse_iuvabit	Normal	BASELINE	162.25	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-989039	CTDC-SPECIMEN-849832	Formalin Bone Marrow Biopsy	Blood	scientia_et_labor	Normal	PROGRESSION	956.98	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-989039	CTDC-SPECIMEN-623919	Streck Blood to VARI	URINE	scientiae_et_patriae	Normal	Post-Treatment (No progression)	468.19	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-762076	CTDC-SPECIMEN-874750	Unstained Slide	BUCCAL CELL SAMPLE	scientia_imperii_decus_et_tutamen	Metastatic	ARCHIVAL	388.82	barba_crescit_caput_nescit
-specimen	CTDC-PARTICIPANT-762076	CTDC-SPECIMEN-132648	Bone Marrow Aspirate	OTHER BODILY FLUIDs	barba_crescit_caput_nescit	Metastatic	Archival	448.64	salus_in_arduis
-specimen	CTDC-PARTICIPANT-905972	CTDC-SPECIMEN-846995	Stained Bone Marrow Aspirate Slide	STOOL	nanos_gigantum_humeris_insidentes	Adjacent Non-Tumor	Archival	17.46	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-905972	CTDC-SPECIMEN-191994	Stained Bone Marrow Aspirate Slide	CEREBROSPINAL FLUID	Gallia_est_omnis_divisa_in_partes_tres	Normal	Baseline (Fresh)	660.52	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-798178	CTDC-SPECIMEN-728242	EDTA Blood	FRESH TISSUE	id_quod_plerumque_accidit	Normal	On Treatment (Fresh)	175.01	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-798178	CTDC-SPECIMEN-947981	Fresh Tissue in Media to PDMR	Formalin Fixed Tissue	haec_olim_meminisse_iuvabit	Primary	Archival	582.64	e_causa_ignota
-specimen	CTDC-PARTICIPANT-766840	CTDC-SPECIMEN-104288	Formalin Fixed Tissue	BONE MARROW	scientia_imperii_decus_et_tutamen	Normal	ON TREATMENT	683.4	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-766840	CTDC-SPECIMEN-645670	Unstained Bone Marrow Aspirate Slide	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	imperium_in_imperio	Adjacent Non-Tumor	ON TREATMENT	823.03	pace_tua
-specimen	CTDC-PARTICIPANT-589737	CTDC-SPECIMEN-733402	Streck Blood to VARI	BLOOD	scientia_imperii_decus_et_tutamen	Normal	ARCHIVAL	483.14	e_causa_ignota
-specimen	CTDC-PARTICIPANT-589737	CTDC-SPECIMEN-901612	Formalin Bone Marrow Biopsy	Frozen Tissue	e_causa_ignota	Metastatic	Baseline (Fresh)	404.72	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-932260	CTDC-SPECIMEN-610598	Stained Bone Marrow Aspirate Slide	BONE MARROW	scientiae_et_patriae	Metastatic	Progression (Fresh)	58.89	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-932260	CTDC-SPECIMEN-386810	Formalin Fixed Tissue	OTHER BODILY FLUIDs	cacatum_non_est_pictum	Metastatic	Post-Treatment (No progression)	427.78	barba_crescit_caput_nescit
-specimen	CTDC-PARTICIPANT-726434	CTDC-SPECIMEN-580654	Cell Block	OTHER BODILY FLUIDs	labor_ipse_voluptas	Normal	ON TREATMENT	537.7	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-726434	CTDC-SPECIMEN-417067	Stained Bone Marrow Aspirate Slide	STOOL	scientia_et_sapientia	Primary	BASELINE	400.95	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-833239	CTDC-SPECIMEN-852398	Streck Blood	CEREBROSPINAL FLUID	faber_est_suae_quisque_fortunae	Adjacent Non-Tumor	On Treatment (Fresh)	977.56	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-833239	CTDC-SPECIMEN-162422	Stained Bone Marrow Aspirate Slide	CEREBROSPINAL FLUID	saltus_in_demonstrando	Metastatic	Archival	703.28	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-751038	CTDC-SPECIMEN-371835	Formalin Fixed Tissue	BLOOD	haec_olim_meminisse_iuvabit	Adjacent Non-Tumor	Post-Treatment (No progression)	16.51	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-751038	CTDC-SPECIMEN-887861	Unstained Slide	FROZEN TISSUE	e_causa_ignota	Primary	ON TREATMENT	53.74	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-262760	CTDC-SPECIMEN-284369	Unstained Bone Marrow Aspirate Slide	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	Macte_animo_Generose_puer_sic_itur_ad_astra	Normal	Baseline (Fresh)	761.8	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-262760	CTDC-SPECIMEN-846182	FFPE Block	Frozen Tissue	faber_est_suae_quisque_fortunae	Adjacent Non-Tumor	PROGRESSION	473.39	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-385548	CTDC-SPECIMEN-836394	Snap Frozen Tissue	Bone Marrow	salus_in_arduis	Normal	ARCHIVAL	923.27	e_causa_ignota
-specimen	CTDC-PARTICIPANT-385548	CTDC-SPECIMEN-801303	Fresh Tissue in Media to PDMR	BLOOD	imperium_in_imperio	Primary	ARCHIVAL	12.92	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-453325	CTDC-SPECIMEN-646530	Formalin Bone Marrow Biopsy	FROZEN TISSUE	labor_ipse_voluptas	Normal	Progression (Fresh)	587.91	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-453325	CTDC-SPECIMEN-881159	Stained Bone Marrow Aspirate Slide	STOOL	scientia,_aere_perennius	Normal	Archival	102.16	salus_in_arduis
-specimen	CTDC-PARTICIPANT-792775	CTDC-SPECIMEN-797645	Streck Blood to PDMR	BUCCAL CELL SAMPLE	scientia_et_sapientia	Adjacent Non-Tumor	ON TREATMENT	60.75	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-792775	CTDC-SPECIMEN-202014	FORMALIN FIXED TISSUE	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	nanos_gigantum_humeris_insidentes	Metastatic	Post-Treatment (No progression)	955.89	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-171242	CTDC-SPECIMEN-761704	Cell Block	Bone Marrow	faber_est_suae_quisque_fortunae	Primary	On Treatment (Fresh)	834.39	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-171242	CTDC-SPECIMEN-226653	Fresh Tissue in Media to PDMR	URINE	Macte_animo_Generose_puer_sic_itur_ad_astra	Metastatic	Post-Treatment (No progression)	777.35	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-850080	CTDC-SPECIMEN-107976	Bone Marrow Aspirate	STOOL	scientia_et_sapientia	Adjacent Non-Tumor	ON TREATMENT	788.9	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-850080	CTDC-SPECIMEN-414796	Formalin Bone Marrow Biopsy	CEREBROSPINAL FLUID	labor_ipse_voluptas	Primary	Archival	241.2	salus_in_arduis
-specimen	CTDC-PARTICIPANT-347023	CTDC-SPECIMEN-762816	Unstained Bone Marrow Aspirate Slide	OTHER BODILY FLUIDs	scientia_imperii_decus_et_tutamen	Normal	Archival	811.09	damnant_quod_non_intellegunt
-specimen	CTDC-PARTICIPANT-347023	CTDC-SPECIMEN-589159	FORMALIN FIXED TISSUE	STOOL	scientia,_aere_perennius	Metastatic	ARCHIVAL	372.93	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-405269	CTDC-SPECIMEN-130607	Formalin Fixed Tissue	Blood	cacatum_non_est_pictum	Metastatic	Post-Treatment (No progression)	767.39	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-405269	CTDC-SPECIMEN-886468	Cell Block	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	saltus_in_demonstrando	Adjacent Non-Tumor	ON TREATMENT	407.17	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-604793	CTDC-SPECIMEN-633465	EDTA Blood	BLOOD	saltus_in_demonstrando	Metastatic	BASELINE	470.51	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-604793	CTDC-SPECIMEN-510984	EDTA Blood	Blood	id_quod_plerumque_accidit	Adjacent Non-Tumor	ARCHIVAL	518.14	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-802172	CTDC-SPECIMEN-656093	Unstained Bone Marrow Aspirate Slide	BONE MARROW	scientia_et_sapientia	Primary	Progression (Fresh)	511.47	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-802172	CTDC-SPECIMEN-716262	EDTA Blood	STOOL	faber_est_suae_quisque_fortunae	Normal	ON TREATMENT	657.46	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-445512	CTDC-SPECIMEN-535354	Unstained Slide	Frozen Tissue	id_quod_plerumque_accidit	Normal	Progression (Fresh)	349.59	barba_crescit_caput_nescit
-specimen	CTDC-PARTICIPANT-445512	CTDC-SPECIMEN-609968	Streck Blood to VARI	STOOL	barba_crescit_caput_nescit	Primary	On Treatment (Fresh)	62.88	pace_tua
-specimen	CTDC-PARTICIPANT-505872	CTDC-SPECIMEN-691747	Snap Frozen Tissue	OTHER BODILY FLUIDs	scientia_et_labor	Metastatic	BASELINE	132.78	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-505872	CTDC-SPECIMEN-169532	Unstained Bone Marrow Aspirate Slide	URINE	e_causa_ignota	Normal	ARCHIVAL	120.32	pace_tua
-specimen	CTDC-PARTICIPANT-307934	CTDC-SPECIMEN-496073	EDTA Blood	BLOOD	pace_tua	Metastatic	ON TREATMENT	68.99	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-307934	CTDC-SPECIMEN-289551	Formalin Bone Marrow Biopsy	Blood	Obedientia_civium_urbis_felicitas	Adjacent Non-Tumor	Progression (Fresh)	727.85	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-675604	CTDC-SPECIMEN-568403	Bone Marrow Aspirate	Fresh Tissue	scientiae_cedit_mare	Metastatic	Progression (Fresh)	158.12	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-675604	CTDC-SPECIMEN-890987	Streck Blood to PDMR	BONE MARROW	faber_est_suae_quisque_fortunae	Adjacent Non-Tumor	Archival	157.61	barba_crescit_caput_nescit
-specimen	CTDC-PARTICIPANT-544157	CTDC-SPECIMEN-437379	Cell Block	BONE MARROW	imperium_in_imperio	Normal	On Treatment (Fresh)	973.54	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-544157	CTDC-SPECIMEN-134395	Streck Blood	OTHER BODILY FLUIDs	saltus_in_demonstrando	Normal	On Treatment (Fresh)	134.34	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-823292	CTDC-SPECIMEN-410786	Cell Block	BUCCAL CELL SAMPLE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Normal	Post-Treatment (No progression)	383.3	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-823292	CTDC-SPECIMEN-754000	Streck Blood	STOOL	scientia,_aere_perennius	Adjacent Non-Tumor	Archival	860.15	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-473639	CTDC-SPECIMEN-427859	Streck Blood to PDMR	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	imperium_in_imperio	Adjacent Non-Tumor	Progression (Fresh)	659.65	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-473639	CTDC-SPECIMEN-303090	Streck Blood	Bone Marrow	nascentes_morimur_finisque_ab_origine_pendet	Adjacent Non-Tumor	ARCHIVAL	972.54	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-530027	CTDC-SPECIMEN-154163	Cell Block	SALIVA	scientiae_et_patriae	Primary	PROGRESSION	955.29	e_causa_ignota
-specimen	CTDC-PARTICIPANT-530027	CTDC-SPECIMEN-187004	Unstained Bone Marrow Aspirate Slide	Fresh Tissue	Obedientia_civium_urbis_felicitas	Metastatic	PROGRESSION	508.16	scientia_et_labor
-specimen	CTDC-PARTICIPANT-103341	CTDC-SPECIMEN-307413	Unstained Slide	OTHER BODILY FLUIDs	scientia_et_sapientia	Metastatic	ARCHIVAL	611.54	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-103341	CTDC-SPECIMEN-197450	Cell Block	Bone Marrow	e_causa_ignota	Metastatic	BASELINE	262.19	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-968101	CTDC-SPECIMEN-568886	FFPE Block	URINE	id_quod_plerumque_accidit	Primary	ON TREATMENT	330.48	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-968101	CTDC-SPECIMEN-783386	Streck Blood to VARI	Formalin Fixed Tissue	faber_est_suae_quisque_fortunae	Metastatic	Baseline (Fresh)	381.0	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-923203	CTDC-SPECIMEN-860839	Unstained Slide	BUCCAL CELL SAMPLE	salus_in_arduis	Normal	Post-Treatment (No progression)	271.62	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-923203	CTDC-SPECIMEN-852203	FORMALIN FIXED TISSUE	BUCCAL CELL SAMPLE	salus_in_arduis	Adjacent Non-Tumor	Progression (Fresh)	458.2	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-726624	CTDC-SPECIMEN-232856	Streck Blood to PDMR	BONE MARROW	nascentes_morimur_finisque_ab_origine_pendet	Primary	On Treatment (Fresh)	842.28	damnant_quod_non_intellegunt
-specimen	CTDC-PARTICIPANT-726624	CTDC-SPECIMEN-478655	Streck Blood to VARI	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	salus_in_arduis	Normal	ON TREATMENT	180.29	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-575612	CTDC-SPECIMEN-879751	Snap Frozen Tissue	URINE	barba_crescit_caput_nescit	Metastatic	BASELINE	481.12	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-575612	CTDC-SPECIMEN-431668	Streck Blood	CEREBROSPINAL FLUID	Gallia_est_omnis_divisa_in_partes_tres	Adjacent Non-Tumor	Post-Treatment (No progression)	884.72	damnant_quod_non_intellegunt
-specimen	CTDC-PARTICIPANT-416642	CTDC-SPECIMEN-831778	Cell Block	Formalin Fixed Tissue	id_quod_plerumque_accidit	Metastatic	ARCHIVAL	454.11	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-416642	CTDC-SPECIMEN-115042	Streck Blood	Blood	sapiens_qui_prospicit	Adjacent Non-Tumor	ON TREATMENT	838.34	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-769759	CTDC-SPECIMEN-226725	Formalin Bone Marrow Biopsy	BUCCAL CELL SAMPLE	scientiae_cedit_mare	Primary	Baseline (Fresh)	472.92	e_causa_ignota
-specimen	CTDC-PARTICIPANT-769759	CTDC-SPECIMEN-411286	Stained Bone Marrow Aspirate Slide	OTHER BODILY FLUIDs	saltus_in_demonstrando	Metastatic	Post-Treatment (No progression)	975.43	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-623337	CTDC-SPECIMEN-814188	EDTA Blood	Blood	scientia_imperii_decus_et_tutamen	Normal	Baseline (Fresh)	152.11	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-623337	CTDC-SPECIMEN-298079	Unstained Bone Marrow Aspirate Slide	Formalin Fixed Paraffin Embedded Tissue	scientia_imperii_decus_et_tutamen	Primary	Post-Treatment (No progression)	61.14	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-311912	CTDC-SPECIMEN-876467	EDTA Blood	BUCCAL CELL SAMPLE	damnant_quod_non_intellegunt	Primary	Progression (Fresh)	942.57	cacatum_non_est_pictum
-specimen	CTDC-PARTICIPANT-311912	CTDC-SPECIMEN-653834	Formalin Fixed Tissue	Frozen Tissue	haec_olim_meminisse_iuvabit	Adjacent Non-Tumor	Archival	354.03	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-225072	CTDC-SPECIMEN-561639	EDTA Blood	FORMALIN FIXED TISSUE	scientia_imperii_decus_et_tutamen	Primary	Archival	604.58	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-225072	CTDC-SPECIMEN-551774	Snap Frozen Tissue	SALIVA	nanos_gigantum_humeris_insidentes	Metastatic	ARCHIVAL	367.78	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-535236	CTDC-SPECIMEN-489698	Stained Bone Marrow Aspirate Slide	CEREBROSPINAL FLUID	Gallia_est_omnis_divisa_in_partes_tres	Primary	On Treatment (Fresh)	604.1	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-535236	CTDC-SPECIMEN-464975	Snap Frozen Tissue	BUCCAL CELL SAMPLE	barba_crescit_caput_nescit	Primary	PROGRESSION	233.56	e_causa_ignota
-specimen	CTDC-PARTICIPANT-378742	CTDC-SPECIMEN-368573	FORMALIN FIXED TISSUE	Formalin Fixed Tissue	sapiens_qui_prospicit	Primary	Archival	852.21	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-378742	CTDC-SPECIMEN-109972	Unstained Bone Marrow Aspirate Slide	FROZEN TISSUE	scientia_imperii_decus_et_tutamen	Adjacent Non-Tumor	Progression (Fresh)	901.36	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-631334	CTDC-SPECIMEN-619143	Streck Blood to VARI	OTHER BODILY FLUIDs	scientia_et_sapientia	Metastatic	On Treatment (Fresh)	78.95	a_bene_placito
-specimen	CTDC-PARTICIPANT-631334	CTDC-SPECIMEN-748014	Formalin Fixed Tissue	FRESH TISSUE	nascentes_morimur_finisque_ab_origine_pendet	Adjacent Non-Tumor	Baseline (Fresh)	376.57	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-694179	CTDC-SPECIMEN-341005	FORMALIN FIXED TISSUE	OTHER BODILY FLUIDs	id_quod_plerumque_accidit	Adjacent Non-Tumor	On Treatment (Fresh)	803.93	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-694179	CTDC-SPECIMEN-701108	Formalin Fixed Tissue	Blood	salus_in_arduis	Adjacent Non-Tumor	Post-Treatment (No progression)	755.2	salus_in_arduis
-specimen	CTDC-PARTICIPANT-580513	CTDC-SPECIMEN-611994	Snap Frozen Tissue	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	a_bene_placito	Normal	ARCHIVAL	771.81	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-580513	CTDC-SPECIMEN-413308	FFPE Block	FRESH TISSUE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Primary	ON TREATMENT	10.77	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-932287	CTDC-SPECIMEN-596509	Streck Blood	Blood	Macte_animo_Generose_puer_sic_itur_ad_astra	Metastatic	ON TREATMENT	700.88	scientia_et_labor
-specimen	CTDC-PARTICIPANT-932287	CTDC-SPECIMEN-444430	EDTA Blood	Fresh Tissue	e_causa_ignota	Metastatic	BASELINE	928.48	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-645708	CTDC-SPECIMEN-225154	Unstained Slide	STOOL	haec_olim_meminisse_iuvabit	Primary	On Treatment (Fresh)	179.88	cacatum_non_est_pictum
-specimen	CTDC-PARTICIPANT-645708	CTDC-SPECIMEN-468296	EDTA Blood	Blood	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Metastatic	PROGRESSION	612.82	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-814347	CTDC-SPECIMEN-133148	Bone Marrow Aspirate	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	faber_est_suae_quisque_fortunae	Normal	ARCHIVAL	332.88	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-814347	CTDC-SPECIMEN-422781	Streck Blood to VARI	CEREBROSPINAL FLUID	imperium_in_imperio	Normal	Post-Treatment (No progression)	622.01	pace_tua
-specimen	CTDC-PARTICIPANT-903074	CTDC-SPECIMEN-976871	Snap Frozen Tissue	BUCCAL CELL SAMPLE	scientia,_aere_perennius	Primary	ARCHIVAL	968.74	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-903074	CTDC-SPECIMEN-925295	Stained Bone Marrow Aspirate Slide	Formalin Fixed Tissue	id_quod_plerumque_accidit	Normal	Post-Treatment (No progression)	324.07	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-151302	CTDC-SPECIMEN-785768	EDTA Blood	FROZEN TISSUE	scientia_imperii_decus_et_tutamen	Primary	Archival	601.07	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-151302	CTDC-SPECIMEN-990962	FFPE Block	FRESH TISSUE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Adjacent Non-Tumor	Post-Treatment (No progression)	198.43	salus_in_arduis
-specimen	CTDC-PARTICIPANT-497986	CTDC-SPECIMEN-787994	Bone Marrow Aspirate	Bone Marrow	scientia,_aere_perennius	Primary	Progression (Fresh)	464.17	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-497986	CTDC-SPECIMEN-976397	Streck Blood to PDMR	BONE MARROW	saltus_in_demonstrando	Adjacent Non-Tumor	Progression (Fresh)	752.71	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-441705	CTDC-SPECIMEN-258779	Cell Block	FORMALIN FIXED TISSUE	e_causa_ignota	Adjacent Non-Tumor	ARCHIVAL	80.75	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-441705	CTDC-SPECIMEN-195016	FFPE Block	CEREBROSPINAL FLUID	Gallia_est_omnis_divisa_in_partes_tres	Primary	ARCHIVAL	545.0	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-823434	CTDC-SPECIMEN-492811	Snap Frozen Tissue	CEREBROSPINAL FLUID	scientiae_cedit_mare	Metastatic	Baseline (Fresh)	649.59	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-823434	CTDC-SPECIMEN-752788	Formalin Bone Marrow Biopsy	Frozen Tissue	a_bene_placito	Normal	PROGRESSION	614.11	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-599483	CTDC-SPECIMEN-319770	Unstained Bone Marrow Aspirate Slide	FRESH TISSUE	sapiens_qui_prospicit	Metastatic	Baseline (Fresh)	28.32	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-599483	CTDC-SPECIMEN-367095	Streck Blood to VARI	Bone Marrow	Obedientia_civium_urbis_felicitas	Primary	Archival	461.26	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-910994	CTDC-SPECIMEN-524739	Streck Blood to PDMR	CEREBROSPINAL FLUID	Obedientia_civium_urbis_felicitas	Metastatic	Progression (Fresh)	959.55	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-910994	CTDC-SPECIMEN-887866	Fresh Tissue in Media to PDMR	BLOOD	scientiae_cedit_mare	Adjacent Non-Tumor	BASELINE	124.24	salus_in_arduis
-specimen	CTDC-PARTICIPANT-849549	CTDC-SPECIMEN-622040	Unstained Slide	Fresh Tissue	faber_est_suae_quisque_fortunae	Metastatic	BASELINE	818.72	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-849549	CTDC-SPECIMEN-142434	Streck Blood to VARI	Formalin Fixed Tissue	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Normal	ON TREATMENT	371.42	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-774378	CTDC-SPECIMEN-354383	Stained Bone Marrow Aspirate Slide	CEREBROSPINAL FLUID	scientiae_et_patriae	Normal	Archival	653.75	Obedientia_civium_urbis_felicitas
-specimen	CTDC-PARTICIPANT-774378	CTDC-SPECIMEN-691591	Bone Marrow Aspirate	Frozen Tissue	damnant_quod_non_intellegunt	Primary	Post-Treatment (No progression)	326.44	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-845059	CTDC-SPECIMEN-223502	Streck Blood to VARI	BUCCAL CELL SAMPLE	labor_ipse_voluptas	Metastatic	ARCHIVAL	559.66	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-845059	CTDC-SPECIMEN-425769	Unstained Slide	Frozen Tissue	nanos_gigantum_humeris_insidentes	Primary	PROGRESSION	802.85	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-272138	CTDC-SPECIMEN-365400	Stained Bone Marrow Aspirate Slide	SALIVA	labor_ipse_voluptas	Metastatic	Baseline (Fresh)	707.63	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-272138	CTDC-SPECIMEN-917602	Fresh Tissue in Media to PDMR	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	labor_ipse_voluptas	Normal	PROGRESSION	798.97	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-960945	CTDC-SPECIMEN-840225	Streck Blood to VARI	FROZEN TISSUE	haec_olim_meminisse_iuvabit	Primary	PROGRESSION	305.73	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-960945	CTDC-SPECIMEN-701835	Snap Frozen Tissue	Blood	salus_in_arduis	Primary	Progression (Fresh)	474.91	barba_crescit_caput_nescit
-specimen	CTDC-PARTICIPANT-998237	CTDC-SPECIMEN-336982	Stained Bone Marrow Aspirate Slide	Bone Marrow	imperium_in_imperio	Normal	Progression (Fresh)	372.57	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-998237	CTDC-SPECIMEN-119537	Stained Bone Marrow Aspirate Slide	Frozen Tissue	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	PROGRESSION	67.75	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-916683	CTDC-SPECIMEN-900745	Fresh Tissue in Media to PDMR	STOOL	nanos_gigantum_humeris_insidentes	Primary	Baseline (Fresh)	899.91	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-916683	CTDC-SPECIMEN-191241	Stained Bone Marrow Aspirate Slide	Formalin Fixed Paraffin Embedded Tissue	faber_est_suae_quisque_fortunae	Normal	Baseline (Fresh)	333.7	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-456146	CTDC-SPECIMEN-969612	Streck Blood to PDMR	OTHER BODILY FLUIDs	e_causa_ignota	Metastatic	BASELINE	528.84	salus_in_arduis
-specimen	CTDC-PARTICIPANT-456146	CTDC-SPECIMEN-634690	Fresh Tissue in Media to PDMR	Formalin Fixed Paraffin Embedded Tissue	nascentes_morimur_finisque_ab_origine_pendet	Metastatic	Baseline (Fresh)	503.67	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-756314	CTDC-SPECIMEN-419889	Cell Block	Formalin Fixed Paraffin Embedded Tissue	id_quod_plerumque_accidit	Normal	Archival	81.05	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-756314	CTDC-SPECIMEN-174926	Snap Frozen Tissue	FRESH TISSUE	scientiae_et_patriae	Metastatic	On Treatment (Fresh)	197.2	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-116387	CTDC-SPECIMEN-373833	Streck Blood to PDMR	OTHER BODILY FLUIDs	a_bene_placito	Primary	ARCHIVAL	428.19	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-116387	CTDC-SPECIMEN-910365	Streck Blood to PDMR	Formalin Fixed Tissue	labor_ipse_voluptas	Adjacent Non-Tumor	Archival	425.22	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-113426	CTDC-SPECIMEN-453286	FFPE Block	OTHER BODILY FLUIDs	id_quod_plerumque_accidit	Normal	BASELINE	654.5	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-113426	CTDC-SPECIMEN-716910	Bone Marrow Aspirate	CEREBROSPINAL FLUID	scientiae_cedit_mare	Metastatic	Progression (Fresh)	346.54	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-643836	CTDC-SPECIMEN-996772	Streck Blood to PDMR	BUCCAL CELL SAMPLE	nascentes_morimur_finisque_ab_origine_pendet	Adjacent Non-Tumor	PROGRESSION	281.97	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-643836	CTDC-SPECIMEN-321313	FFPE Block	URINE	sapiens_qui_prospicit	Metastatic	Progression (Fresh)	740.87	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-991705	CTDC-SPECIMEN-455415	Streck Blood to PDMR	Formalin Fixed Paraffin Embedded Tissue	scientia,_aere_perennius	Primary	ARCHIVAL	429.9	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-991705	CTDC-SPECIMEN-725193	Streck Blood	URINE	salus_in_arduis	Metastatic	Progression (Fresh)	408.58	barba_crescit_caput_nescit
-specimen	CTDC-PARTICIPANT-987754	CTDC-SPECIMEN-824777	FORMALIN FIXED TISSUE	FORMALIN FIXED TISSUE	sapiens_qui_prospicit	Adjacent Non-Tumor	ON TREATMENT	367.8	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-987754	CTDC-SPECIMEN-485512	EDTA Blood	Frozen Tissue	scientia_et_sapientia	Adjacent Non-Tumor	ARCHIVAL	62.9	a_bene_placito
-specimen	CTDC-PARTICIPANT-954096	CTDC-SPECIMEN-129110	Unstained Bone Marrow Aspirate Slide	FROZEN TISSUE	a_bene_placito	Primary	ARCHIVAL	932.63	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-954096	CTDC-SPECIMEN-782620	Fresh Tissue in Media to PDMR	Formalin Fixed Paraffin Embedded Tissue	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Normal	Baseline (Fresh)	359.73	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-361747	CTDC-SPECIMEN-343792	Stained Bone Marrow Aspirate Slide	OTHER BODILY FLUIDs	nanos_gigantum_humeris_insidentes	Metastatic	PROGRESSION	823.65	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-361747	CTDC-SPECIMEN-387180	Snap Frozen Tissue	SALIVA	Macte_animo_Generose_puer_sic_itur_ad_astra	Metastatic	BASELINE	716.86	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-891946	CTDC-SPECIMEN-602171	FFPE Block	BLOOD	a_bene_placito	Primary	BASELINE	274.78	scientia_et_labor
-specimen	CTDC-PARTICIPANT-891946	CTDC-SPECIMEN-334867	Fresh Tissue in Media to PDMR	Fresh Tissue	scientia_imperii_decus_et_tutamen	Normal	PROGRESSION	487.18	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-854142	CTDC-SPECIMEN-583502	FFPE Block	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	Obedientia_civium_urbis_felicitas	Normal	Baseline (Fresh)	84.7	scientia_et_labor
-specimen	CTDC-PARTICIPANT-854142	CTDC-SPECIMEN-152488	Stained Bone Marrow Aspirate Slide	Blood	pace_tua	Adjacent Non-Tumor	ON TREATMENT	227.51	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-853652	CTDC-SPECIMEN-878801	EDTA Blood	Formalin Fixed Tissue	sapiens_qui_prospicit	Adjacent Non-Tumor	BASELINE	655.32	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-853652	CTDC-SPECIMEN-350413	Formalin Fixed Tissue	Formalin Fixed Paraffin Embedded Tissue	scientia_et_labor	Normal	ON TREATMENT	917.1	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-571761	CTDC-SPECIMEN-188018	Cell Block	FROZEN TISSUE	scientiae_et_patriae	Primary	Archival	24.75	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-571761	CTDC-SPECIMEN-542948	Bone Marrow Aspirate	OTHER BODILY FLUIDs	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Normal	Archival	693.99	pace_tua
-specimen	CTDC-PARTICIPANT-388704	CTDC-SPECIMEN-238820	Fresh Tissue in Media to PDMR	Frozen Tissue	haec_olim_meminisse_iuvabit	Normal	Post-Treatment (No progression)	577.08	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-388704	CTDC-SPECIMEN-538909	Cell Block	SALIVA	damnant_quod_non_intellegunt	Metastatic	BASELINE	328.45	damnant_quod_non_intellegunt
-specimen	CTDC-PARTICIPANT-645836	CTDC-SPECIMEN-958223	FFPE Block	BONE MARROW	id_quod_plerumque_accidit	Normal	Progression (Fresh)	585.64	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-645836	CTDC-SPECIMEN-768084	Streck Blood to PDMR	FORMALIN FIXED TISSUE	haec_olim_meminisse_iuvabit	Normal	Progression (Fresh)	64.19	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-962410	CTDC-SPECIMEN-186219	Bone Marrow Aspirate	URINE	a_bene_placito	Adjacent Non-Tumor	ON TREATMENT	407.55	cacatum_non_est_pictum
-specimen	CTDC-PARTICIPANT-962410	CTDC-SPECIMEN-781262	FORMALIN FIXED TISSUE	Blood	sapiens_qui_prospicit	Primary	ARCHIVAL	809.11	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-517155	CTDC-SPECIMEN-451287	Formalin Bone Marrow Biopsy	Bone Marrow	cacatum_non_est_pictum	Metastatic	Progression (Fresh)	569.56	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-517155	CTDC-SPECIMEN-525355	Stained Bone Marrow Aspirate Slide	Bone Marrow	scientiae_cedit_mare	Metastatic	Progression (Fresh)	859.13	e_causa_ignota
-specimen	CTDC-PARTICIPANT-349248	CTDC-SPECIMEN-292999	Formalin Bone Marrow Biopsy	URINE	salus_in_arduis	Primary	ON TREATMENT	464.91	cacatum_non_est_pictum
-specimen	CTDC-PARTICIPANT-349248	CTDC-SPECIMEN-239370	Fresh Tissue in Media to PDMR	URINE	Obedientia_civium_urbis_felicitas	Primary	ARCHIVAL	144.28	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-664320	CTDC-SPECIMEN-657869	FORMALIN FIXED TISSUE	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	cacatum_non_est_pictum	Primary	PROGRESSION	134.6	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-664320	CTDC-SPECIMEN-130576	EDTA Blood	STOOL	a_bene_placito	Metastatic	Baseline (Fresh)	995.12	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-296802	CTDC-SPECIMEN-843246	FORMALIN FIXED TISSUE	FRESH TISSUE	cacatum_non_est_pictum	Normal	Progression (Fresh)	495.53	pace_tua
-specimen	CTDC-PARTICIPANT-296802	CTDC-SPECIMEN-845444	EDTA Blood	BONE MARROW	nanos_gigantum_humeris_insidentes	Metastatic	Progression (Fresh)	966.22	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-744013	CTDC-SPECIMEN-899172	Unstained Slide	BUCCAL CELL SAMPLE	saltus_in_demonstrando	Metastatic	Baseline (Fresh)	54.88	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-744013	CTDC-SPECIMEN-290385	Unstained Slide	Blood	scientiae_cedit_mare	Primary	BASELINE	389.02	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-595534	CTDC-SPECIMEN-489028	Streck Blood to PDMR	BLOOD	scientiae_cedit_mare	Metastatic	BASELINE	545.71	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-595534	CTDC-SPECIMEN-630407	Unstained Bone Marrow Aspirate Slide	CEREBROSPINAL FLUID	pace_tua	Metastatic	ARCHIVAL	972.05	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-493196	CTDC-SPECIMEN-873788	FFPE Block	BLOOD	scientia_imperii_decus_et_tutamen	Normal	ON TREATMENT	574.14	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-493196	CTDC-SPECIMEN-437745	Snap Frozen Tissue	FRESH TISSUE	sapiens_qui_prospicit	Primary	PROGRESSION	747.77	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-958242	CTDC-SPECIMEN-879380	Fresh Tissue in Media to PDMR	Frozen Tissue	scientia,_aere_perennius	Metastatic	Baseline (Fresh)	456.42	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-958242	CTDC-SPECIMEN-998970	FORMALIN FIXED TISSUE	Formalin Fixed Paraffin Embedded Tissue	saltus_in_demonstrando	Normal	Progression (Fresh)	238.65	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-667194	CTDC-SPECIMEN-139045	FORMALIN FIXED TISSUE	SALIVA	sapiens_qui_prospicit	Primary	ON TREATMENT	971.93	salus_in_arduis
-specimen	CTDC-PARTICIPANT-667194	CTDC-SPECIMEN-549855	Stained Bone Marrow Aspirate Slide	FORMALIN FIXED TISSUE	nascentes_morimur_finisque_ab_origine_pendet	Normal	Post-Treatment (No progression)	785.21	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-399386	CTDC-SPECIMEN-150232	Stained Bone Marrow Aspirate Slide	Formalin Fixed Tissue	pace_tua	Primary	On Treatment (Fresh)	931.13	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-399386	CTDC-SPECIMEN-751163	Snap Frozen Tissue	FRESH TISSUE	id_quod_plerumque_accidit	Metastatic	Baseline (Fresh)	259.73	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-549985	CTDC-SPECIMEN-403847	Bone Marrow Aspirate	Frozen Tissue	pace_tua	Adjacent Non-Tumor	Progression (Fresh)	791.63	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-549985	CTDC-SPECIMEN-717568	Fresh Tissue in Media to PDMR	FROZEN TISSUE	barba_crescit_caput_nescit	Metastatic	PROGRESSION	669.83	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-643410	CTDC-SPECIMEN-587571	Unstained Slide	URINE	salus_in_arduis	Primary	PROGRESSION	489.25	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-643410	CTDC-SPECIMEN-292660	EDTA Blood	BLOOD	scientia_imperii_decus_et_tutamen	Adjacent Non-Tumor	PROGRESSION	820.56	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-335492	CTDC-SPECIMEN-127757	Formalin Bone Marrow Biopsy	FORMALIN FIXED TISSUE	labor_ipse_voluptas	Metastatic	Progression (Fresh)	501.72	cacatum_non_est_pictum
-specimen	CTDC-PARTICIPANT-335492	CTDC-SPECIMEN-120925	Bone Marrow Aspirate	FRESH TISSUE	haec_olim_meminisse_iuvabit	Metastatic	Baseline (Fresh)	18.77	a_bene_placito
-specimen	CTDC-PARTICIPANT-144477	CTDC-SPECIMEN-315681	Bone Marrow Aspirate	Blood	sapiens_qui_prospicit	Adjacent Non-Tumor	BASELINE	742.87	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-144477	CTDC-SPECIMEN-773394	Formalin Fixed Tissue	OTHER BODILY FLUIDs	salus_in_arduis	Normal	BASELINE	105.63	a_bene_placito
-specimen	CTDC-PARTICIPANT-329587	CTDC-SPECIMEN-151437	Streck Blood to PDMR	Formalin Fixed Tissue	scientiae_cedit_mare	Normal	ON TREATMENT	286.38	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-329587	CTDC-SPECIMEN-113461	Formalin Fixed Tissue	BLOOD	faber_est_suae_quisque_fortunae	Adjacent Non-Tumor	Progression (Fresh)	238.49	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-796503	CTDC-SPECIMEN-354301	FORMALIN FIXED TISSUE	Frozen Tissue	damnant_quod_non_intellegunt	Normal	ARCHIVAL	245.33	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-796503	CTDC-SPECIMEN-367025	Streck Blood to VARI	Blood	e_causa_ignota	Normal	Progression (Fresh)	283.59	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-232988	CTDC-SPECIMEN-996090	Unstained Slide	FROZEN TISSUE	scientia,_aere_perennius	Normal	On Treatment (Fresh)	650.58	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-232988	CTDC-SPECIMEN-569194	Streck Blood to PDMR	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	id_quod_plerumque_accidit	Adjacent Non-Tumor	ON TREATMENT	798.88	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-324141	CTDC-SPECIMEN-726284	Snap Frozen Tissue	Bone Marrow	damnant_quod_non_intellegunt	Normal	Baseline (Fresh)	383.26	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-324141	CTDC-SPECIMEN-726370	Streck Blood to VARI	Fresh Tissue	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	Post-Treatment (No progression)	255.77	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-204266	CTDC-SPECIMEN-526135	Stained Bone Marrow Aspirate Slide	BLOOD	scientiae_cedit_mare	Metastatic	Baseline (Fresh)	607.75	salus_in_arduis
-specimen	CTDC-PARTICIPANT-204266	CTDC-SPECIMEN-353909	Unstained Slide	STOOL	scientia_imperii_decus_et_tutamen	Normal	PROGRESSION	582.71	scientia_et_labor
-specimen	CTDC-PARTICIPANT-484691	CTDC-SPECIMEN-585236	Streck Blood	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	sapiens_qui_prospicit	Metastatic	ON TREATMENT	40.75	salus_in_arduis
-specimen	CTDC-PARTICIPANT-484691	CTDC-SPECIMEN-967829	Bone Marrow Aspirate	Formalin Fixed Paraffin Embedded Tissue	haec_olim_meminisse_iuvabit	Metastatic	On Treatment (Fresh)	686.48	damnant_quod_non_intellegunt
-specimen	CTDC-PARTICIPANT-142506	CTDC-SPECIMEN-764262	EDTA Blood	SALIVA	scientia_et_sapientia	Metastatic	On Treatment (Fresh)	68.04	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-142506	CTDC-SPECIMEN-368867	Fresh Tissue in Media to PDMR	FRESH TISSUE	nanos_gigantum_humeris_insidentes	Primary	On Treatment (Fresh)	971.5	salus_in_arduis
-specimen	CTDC-PARTICIPANT-710505	CTDC-SPECIMEN-214663	Streck Blood	Blood	imperium_in_imperio	Metastatic	ARCHIVAL	386.92	a_bene_placito
-specimen	CTDC-PARTICIPANT-710505	CTDC-SPECIMEN-477188	Unstained Slide	FORMALIN FIXED TISSUE	labor_ipse_voluptas	Adjacent Non-Tumor	On Treatment (Fresh)	22.17	pace_tua
-specimen	CTDC-PARTICIPANT-415715	CTDC-SPECIMEN-330872	Fresh Tissue in Media to PDMR	FRESH TISSUE	e_causa_ignota	Primary	PROGRESSION	618.61	barba_crescit_caput_nescit
-specimen	CTDC-PARTICIPANT-415715	CTDC-SPECIMEN-944395	Cell Block	BLOOD	Macte_animo_Generose_puer_sic_itur_ad_astra	Adjacent Non-Tumor	ON TREATMENT	698.52	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-592470	CTDC-SPECIMEN-597165	Streck Blood to VARI	BUCCAL CELL SAMPLE	Macte_animo_Generose_puer_sic_itur_ad_astra	Normal	BASELINE	205.92	a_bene_placito
-specimen	CTDC-PARTICIPANT-592470	CTDC-SPECIMEN-179915	Fresh Tissue in Media to PDMR	FORMALIN FIXED TISSUE	pace_tua	Primary	Post-Treatment (No progression)	707.44	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-705444	CTDC-SPECIMEN-120548	EDTA Blood	Bone Marrow	cacatum_non_est_pictum	Primary	ARCHIVAL	814.5	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-705444	CTDC-SPECIMEN-500621	Stained Bone Marrow Aspirate Slide	URINE	id_quod_plerumque_accidit	Adjacent Non-Tumor	On Treatment (Fresh)	684.74	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-942009	CTDC-SPECIMEN-271312	FFPE Block	SALIVA	scientia_et_sapientia	Metastatic	ON TREATMENT	691.49	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-942009	CTDC-SPECIMEN-877020	FORMALIN FIXED TISSUE	OTHER BODILY FLUIDs	scientia_imperii_decus_et_tutamen	Metastatic	Archival	318.06	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-699404	CTDC-SPECIMEN-485910	Formalin Fixed Tissue	URINE	faber_est_suae_quisque_fortunae	Normal	BASELINE	543.53	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-699404	CTDC-SPECIMEN-770161	Fresh Tissue in Media to PDMR	Formalin Fixed Paraffin Embedded Tissue	e_causa_ignota	Metastatic	Archival	790.99	scientia_et_sapientia
-specimen	CTDC-PARTICIPANT-341932	CTDC-SPECIMEN-861702	Stained Bone Marrow Aspirate Slide	STOOL	a_bene_placito	Metastatic	On Treatment (Fresh)	649.78	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-341932	CTDC-SPECIMEN-899857	Formalin Fixed Tissue	Fresh Tissue	salus_in_arduis	Primary	Baseline (Fresh)	603.0	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-993554	CTDC-SPECIMEN-286673	Cell Block	URINE	a_bene_placito	Primary	ON TREATMENT	405.78	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-993554	CTDC-SPECIMEN-726185	Formalin Fixed Tissue	Blood	imperium_in_imperio	Normal	On Treatment (Fresh)	392.13	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-852709	CTDC-SPECIMEN-721992	EDTA Blood	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	sapiens_qui_prospicit	Adjacent Non-Tumor	PROGRESSION	40.28	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-852709	CTDC-SPECIMEN-261411	Formalin Fixed Tissue	BONE MARROW	imperium_in_imperio	Normal	ON TREATMENT	786.15	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-255469	CTDC-SPECIMEN-816078	Formalin Bone Marrow Biopsy	Formalin Fixed Paraffin Embedded Tissue	scientia_et_labor	Normal	ARCHIVAL	972.04	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-255469	CTDC-SPECIMEN-918996	Fresh Tissue in Media to PDMR	Fresh Tissue	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Primary	Progression (Fresh)	27.18	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-990542	CTDC-SPECIMEN-223978	Snap Frozen Tissue	FROZEN TISSUE	scientiae_et_patriae	Adjacent Non-Tumor	Progression (Fresh)	924.67	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-990542	CTDC-SPECIMEN-415367	Streck Blood to VARI	OTHER BODILY FLUIDs	scientia,_aere_perennius	Primary	Archival	187.86	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-724801	CTDC-SPECIMEN-271376	Stained Bone Marrow Aspirate Slide	Bone Marrow	pace_tua	Normal	ON TREATMENT	746.55	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-724801	CTDC-SPECIMEN-523240	Formalin Bone Marrow Biopsy	BONE MARROW	scientia_imperii_decus_et_tutamen	Adjacent Non-Tumor	PROGRESSION	933.52	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-147445	CTDC-SPECIMEN-304771	Unstained Slide	Frozen Tissue	imperium_in_imperio	Primary	PROGRESSION	757.67	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-147445	CTDC-SPECIMEN-805578	EDTA Blood	BLOOD	nanos_gigantum_humeris_insidentes	Normal	Baseline (Fresh)	187.63	salus_in_arduis
-specimen	CTDC-PARTICIPANT-711417	CTDC-SPECIMEN-213159	Cell Block	Fresh Tissue	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	Archival	81.88	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-711417	CTDC-SPECIMEN-583362	Cell Block	Blood	imperium_in_imperio	Adjacent Non-Tumor	PROGRESSION	809.3	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-617762	CTDC-SPECIMEN-619008	Unstained Slide	SALIVA	scientiae_cedit_mare	Adjacent Non-Tumor	PROGRESSION	972.52	damnant_quod_non_intellegunt
-specimen	CTDC-PARTICIPANT-617762	CTDC-SPECIMEN-855673	Formalin Bone Marrow Biopsy	URINE	scientia,_aere_perennius	Primary	On Treatment (Fresh)	241.53	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-288235	CTDC-SPECIMEN-584844	EDTA Blood	STOOL	scientia_imperii_decus_et_tutamen	Metastatic	Baseline (Fresh)	533.36	scientia_et_labor
-specimen	CTDC-PARTICIPANT-288235	CTDC-SPECIMEN-407264	Formalin Fixed Tissue	BONE MARROW	salus_in_arduis	Adjacent Non-Tumor	PROGRESSION	230.68	a_bene_placito
-specimen	CTDC-PARTICIPANT-148409	CTDC-SPECIMEN-935271	Streck Blood to VARI	BUCCAL CELL SAMPLE	haec_olim_meminisse_iuvabit	Primary	On Treatment (Fresh)	309.17	a_bene_placito
-specimen	CTDC-PARTICIPANT-148409	CTDC-SPECIMEN-344238	Formalin Bone Marrow Biopsy	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	pace_tua	Adjacent Non-Tumor	ON TREATMENT	751.92	a_bene_placito
-specimen	CTDC-PARTICIPANT-117346	CTDC-SPECIMEN-355470	Snap Frozen Tissue	STOOL	nanos_gigantum_humeris_insidentes	Primary	On Treatment (Fresh)	159.08	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-117346	CTDC-SPECIMEN-598016	FFPE Block	FROZEN TISSUE	faber_est_suae_quisque_fortunae	Metastatic	BASELINE	603.45	barba_crescit_caput_nescit
-specimen	CTDC-PARTICIPANT-482899	CTDC-SPECIMEN-597479	Streck Blood	Fresh Tissue	labor_ipse_voluptas	Metastatic	Archival	419.86	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-specimen	CTDC-PARTICIPANT-482899	CTDC-SPECIMEN-684716	Stained Bone Marrow Aspirate Slide	Frozen Tissue	nanos_gigantum_humeris_insidentes	Adjacent Non-Tumor	Progression (Fresh)	509.99	salus_in_arduis
-specimen	CTDC-PARTICIPANT-446227	CTDC-SPECIMEN-133899	Streck Blood to PDMR	BONE MARROW	id_quod_plerumque_accidit	Metastatic	Progression (Fresh)	276.87	scientiae_cedit_mare
-specimen	CTDC-PARTICIPANT-446227	CTDC-SPECIMEN-945032	Bone Marrow Aspirate	FROZEN TISSUE	damnant_quod_non_intellegunt	Metastatic	Progression (Fresh)	809.87	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-580128	CTDC-SPECIMEN-496534	Unstained Bone Marrow Aspirate Slide	OTHER BODILY FLUIDs	imperium_in_imperio	Adjacent Non-Tumor	On Treatment (Fresh)	631.96	sapiens_qui_prospicit
-specimen	CTDC-PARTICIPANT-580128	CTDC-SPECIMEN-351512	Streck Blood	URINE	id_quod_plerumque_accidit	Metastatic	Post-Treatment (No progression)	331.37	a_bene_placito
-specimen	CTDC-PARTICIPANT-143698	CTDC-SPECIMEN-500625	Formalin Bone Marrow Biopsy	OTHER BODILY FLUIDs	barba_crescit_caput_nescit	Normal	Archival	282.14	pace_tua
-specimen	CTDC-PARTICIPANT-143698	CTDC-SPECIMEN-136226	Formalin Bone Marrow Biopsy	CEREBROSPINAL FLUID	Gallia_est_omnis_divisa_in_partes_tres	Primary	ARCHIVAL	524.57	scientia_et_labor
-specimen	CTDC-PARTICIPANT-197270	CTDC-SPECIMEN-483952	FFPE Block	SALIVA	pace_tua	Normal	Post-Treatment (No progression)	400.67	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-197270	CTDC-SPECIMEN-365876	Cell Block	Bone Marrow	id_quod_plerumque_accidit	Primary	PROGRESSION	363.2	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-785681	CTDC-SPECIMEN-438299	Fresh Tissue in Media to PDMR	Formalin Fixed Tissue	pace_tua	Adjacent Non-Tumor	ARCHIVAL	853.91	pace_tua
-specimen	CTDC-PARTICIPANT-785681	CTDC-SPECIMEN-575389	Streck Blood to VARI	Formalin Fixed Tissue	faber_est_suae_quisque_fortunae	Metastatic	Archival	912.97	e_causa_ignota
-specimen	CTDC-PARTICIPANT-988719	CTDC-SPECIMEN-401975	Unstained Bone Marrow Aspirate Slide	BLOOD	sapiens_qui_prospicit	Adjacent Non-Tumor	Baseline (Fresh)	398.1	scientia_imperii_decus_et_tutamen
-specimen	CTDC-PARTICIPANT-988719	CTDC-SPECIMEN-418673	Formalin Bone Marrow Biopsy	URINE	pace_tua	Adjacent Non-Tumor	Post-Treatment (No progression)	141.43	scientia_et_labor
-specimen	CTDC-PARTICIPANT-105178	CTDC-SPECIMEN-588364	Stained Bone Marrow Aspirate Slide	SALIVA	nascentes_morimur_finisque_ab_origine_pendet	Adjacent Non-Tumor	Post-Treatment (No progression)	238.22	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-105178	CTDC-SPECIMEN-398725	FFPE Block	FROZEN TISSUE	scientia_imperii_decus_et_tutamen	Metastatic	Progression (Fresh)	612.58	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-720001	CTDC-SPECIMEN-422177	Unstained Slide	FRESH TISSUE	faber_est_suae_quisque_fortunae	Normal	On Treatment (Fresh)	778.25	e_causa_ignota
-specimen	CTDC-PARTICIPANT-720001	CTDC-SPECIMEN-737891	FORMALIN FIXED TISSUE	BUCCAL CELL SAMPLE	saltus_in_demonstrando	Primary	ON TREATMENT	233.48	damnant_quod_non_intellegunt
-specimen	CTDC-PARTICIPANT-261239	CTDC-SPECIMEN-736633	Stained Bone Marrow Aspirate Slide	Blood	damnant_quod_non_intellegunt	Adjacent Non-Tumor	PROGRESSION	27.44	nascentes_morimur_finisque_ab_origine_pendet
-specimen	CTDC-PARTICIPANT-261239	CTDC-SPECIMEN-180818	Formalin Fixed Tissue	SALIVA	pace_tua	Normal	ON TREATMENT	224.79	saltus_in_demonstrando
-specimen	CTDC-PARTICIPANT-881273	CTDC-SPECIMEN-701630	Stained Bone Marrow Aspirate Slide	FORMALIN FIXED TISSUE	damnant_quod_non_intellegunt	Metastatic	Archival	660.28	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-881273	CTDC-SPECIMEN-480841	Unstained Slide	FROZEN TISSUE	Macte_animo_Generose_puer_sic_itur_ad_astra	Normal	ON TREATMENT	100.21	scientia_et_labor
-specimen	CTDC-PARTICIPANT-262205	CTDC-SPECIMEN-787675	Fresh Tissue in Media to PDMR	FORMALIN FIXED TISSUE	Gallia_est_omnis_divisa_in_partes_tres	Adjacent Non-Tumor	Progression (Fresh)	130.04	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-262205	CTDC-SPECIMEN-766600	Snap Frozen Tissue	URINE	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	BASELINE	322.54	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-944911	CTDC-SPECIMEN-260496	Formalin Fixed Tissue	FORMALIN FIXED TISSUE	Gallia_est_omnis_divisa_in_partes_tres	Adjacent Non-Tumor	Archival	567.48	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-944911	CTDC-SPECIMEN-873347	Bone Marrow Aspirate	Formalin Fixed Paraffin Embedded Tissue	haec_olim_meminisse_iuvabit	Adjacent Non-Tumor	Baseline (Fresh)	179.61	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-488616	CTDC-SPECIMEN-256887	Stained Bone Marrow Aspirate Slide	Blood	pace_tua	Metastatic	Post-Treatment (No progression)	275.5	Gallia_est_omnis_divisa_in_partes_tres
-specimen	CTDC-PARTICIPANT-488616	CTDC-SPECIMEN-227681	Streck Blood to PDMR	SALIVA	damnant_quod_non_intellegunt	Metastatic	Progression (Fresh)	954.37	id_quod_plerumque_accidit
-specimen	CTDC-PARTICIPANT-433621	CTDC-SPECIMEN-703774	Stained Bone Marrow Aspirate Slide	Fresh Tissue	scientia_et_sapientia	Normal	PROGRESSION	266.35	faber_est_suae_quisque_fortunae
-specimen	CTDC-PARTICIPANT-433621	CTDC-SPECIMEN-333975	Streck Blood	BUCCAL CELL SAMPLE	e_causa_ignota	Metastatic	Archival	113.28	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-286969	CTDC-SPECIMEN-143270	Stained Bone Marrow Aspirate Slide	STOOL	Obedientia_civium_urbis_felicitas	Normal	Progression (Fresh)	491.8	scientiae_et_patriae
-specimen	CTDC-PARTICIPANT-286969	CTDC-SPECIMEN-267711	Unstained Slide	BLOOD	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Metastatic	Archival	937.1	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-900563	CTDC-SPECIMEN-108815	FFPE Block	BONE MARROW	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	Archival	773.99	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-900563	CTDC-SPECIMEN-947898	Fresh Tissue in Media to PDMR	FROZEN TISSUE	sapiens_qui_prospicit	Adjacent Non-Tumor	BASELINE	891.01	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-793481	CTDC-SPECIMEN-422495	Streck Blood	BONE MARROW	damnant_quod_non_intellegunt	Primary	On Treatment (Fresh)	401.43	Obedientia_civium_urbis_felicitas
-specimen	CTDC-PARTICIPANT-793481	CTDC-SPECIMEN-151007	Fresh Tissue in Media to PDMR	FROZEN TISSUE	Obedientia_civium_urbis_felicitas	Normal	BASELINE	96.49	cacatum_non_est_pictum
-specimen	CTDC-PARTICIPANT-636487	CTDC-SPECIMEN-248766	EDTA Blood	Bone Marrow	a_bene_placito	Adjacent Non-Tumor	Archival	628.18	salus_in_arduis
-specimen	CTDC-PARTICIPANT-636487	CTDC-SPECIMEN-476614	Bone Marrow Aspirate	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	sapiens_qui_prospicit	Normal	Archival	403.11	haec_olim_meminisse_iuvabit
-specimen	CTDC-PARTICIPANT-289786	CTDC-SPECIMEN-109726	Streck Blood to PDMR	Fresh Tissue	damnant_quod_non_intellegunt	Normal	ARCHIVAL	808.45	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-289786	CTDC-SPECIMEN-951025	Formalin Bone Marrow Biopsy	Bone Marrow	sapiens_qui_prospicit	Metastatic	PROGRESSION	707.85	a_bene_placito
-specimen	CTDC-PARTICIPANT-465808	CTDC-SPECIMEN-523345	Bone Marrow Aspirate	Frozen Tissue	salus_in_arduis	Adjacent Non-Tumor	Progression (Fresh)	981.04	Macte_animo_Generose_puer_sic_itur_ad_astra
-specimen	CTDC-PARTICIPANT-465808	CTDC-SPECIMEN-840160	Streck Blood	BONE MARROW	e_causa_ignota	Primary	Progression (Fresh)	117.26	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-346202	CTDC-SPECIMEN-867244	Streck Blood to VARI	BLOOD	cacatum_non_est_pictum	Adjacent Non-Tumor	Progression (Fresh)	448.48	Obedientia_civium_urbis_felicitas
-specimen	CTDC-PARTICIPANT-346202	CTDC-SPECIMEN-974881	Unstained Slide	URINE	e_causa_ignota	Primary	Post-Treatment (No progression)	352.1	scientia,_aere_perennius
-specimen	CTDC-PARTICIPANT-690036	CTDC-SPECIMEN-361303	Fresh Tissue in Media to PDMR	STOOL	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	On Treatment (Fresh)	860.25	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-690036	CTDC-SPECIMEN-252486	Fresh Tissue in Media to PDMR	FRESH TISSUE	labor_ipse_voluptas	Primary	On Treatment (Fresh)	250.13	nanos_gigantum_humeris_insidentes
-specimen	CTDC-PARTICIPANT-959881	CTDC-SPECIMEN-557388	Streck Blood to VARI	Formalin Fixed Tissue	Macte_animo_Generose_puer_sic_itur_ad_astra	Normal	Post-Treatment (No progression)	827.13	imperium_in_imperio
-specimen	CTDC-PARTICIPANT-959881	CTDC-SPECIMEN-720398	Unstained Slide	Formalin Fixed Paraffin Embedded Tissue	haec_olim_meminisse_iuvabit	Adjacent Non-Tumor	PROGRESSION	704.64	labor_ipse_voluptas
-specimen	CTDC-PARTICIPANT-115675	CTDC-SPECIMEN-105297	Snap Frozen Tissue	BONE MARROW	saltus_in_demonstrando	Adjacent Non-Tumor	PROGRESSION	119.79	cacatum_non_est_pictum
-specimen	CTDC-PARTICIPANT-115675	CTDC-SPECIMEN-608122	Streck Blood	FORMALIN FIXED TISSUE	scientia,_aere_perennius	Primary	ON TREATMENT	442.27	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-946082	CTDC-SPECIMEN-474955	Stained Bone Marrow Aspirate Slide	Blood	Gallia_est_omnis_divisa_in_partes_tres	Metastatic	Archival	928.86	scientia_et_labor
+specimen	CTDC-PARTICIPANT-946082	CTDC-SPECIMEN-365453	Bone Marrow Aspirate	BLOOD	Gallia_est_omnis_divisa_in_partes_tres	Primary	ON TREATMENT	438.02	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-693605	CTDC-SPECIMEN-920746	Snap Frozen Tissue	Fresh Tissue	scientiae_et_patriae	Adjacent Non-Tumor	Baseline (Fresh)	752.44	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-693605	CTDC-SPECIMEN-709708	FFPE Block	Blood	Obedientia_civium_urbis_felicitas	Primary	Progression (Fresh)	726.81	pace_tua
+specimen	CTDC-PARTICIPANT-239570	CTDC-SPECIMEN-947979	Bone Marrow Aspirate	SALIVA	e_causa_ignota	Normal	Archival	772.72	salus_in_arduis
+specimen	CTDC-PARTICIPANT-239570	CTDC-SPECIMEN-551234	Fresh Tissue in Media to PDMR	BUCCAL CELL SAMPLE	labor_ipse_voluptas	Adjacent Non-Tumor	BASELINE	877.31	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-169045	CTDC-SPECIMEN-485620	Streck Blood to PDMR	Bone Marrow	scientia,_aere_perennius	Primary	Progression (Fresh)	550.11	pace_tua
+specimen	CTDC-PARTICIPANT-169045	CTDC-SPECIMEN-359727	FORMALIN FIXED TISSUE	SALIVA	e_causa_ignota	Primary	On Treatment (Fresh)	206.28	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-482408	CTDC-SPECIMEN-801240	Cell Block	Frozen Tissue	Gallia_est_omnis_divisa_in_partes_tres	Metastatic	PROGRESSION	352.15	scientia_et_labor
+specimen	CTDC-PARTICIPANT-482408	CTDC-SPECIMEN-297022	Formalin Fixed Tissue	URINE	scientiae_cedit_mare	Adjacent Non-Tumor	Progression (Fresh)	714.17	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-216971	CTDC-SPECIMEN-257473	Unstained Slide	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	Gallia_est_omnis_divisa_in_partes_tres	Normal	PROGRESSION	798.27	salus_in_arduis
+specimen	CTDC-PARTICIPANT-216971	CTDC-SPECIMEN-349586	Unstained Slide	FRESH TISSUE	labor_ipse_voluptas	Adjacent Non-Tumor	Progression (Fresh)	450.3	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-669334	CTDC-SPECIMEN-175271	Formalin Bone Marrow Biopsy	Formalin Fixed Paraffin Embedded Tissue	Obedientia_civium_urbis_felicitas	Metastatic	PROGRESSION	144.07	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-669334	CTDC-SPECIMEN-630070	FORMALIN FIXED TISSUE	STOOL	scientiae_cedit_mare	Primary	On Treatment (Fresh)	255.34	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-723859	CTDC-SPECIMEN-910038	EDTA Blood	FROZEN TISSUE	scientia_et_sapientia	Metastatic	Archival	392.82	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-723859	CTDC-SPECIMEN-648047	Streck Blood	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	sapiens_qui_prospicit	Metastatic	BASELINE	361.64	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-553528	CTDC-SPECIMEN-789032	FORMALIN FIXED TISSUE	BUCCAL CELL SAMPLE	scientia_et_labor	Metastatic	On Treatment (Fresh)	914.28	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-553528	CTDC-SPECIMEN-487313	Unstained Bone Marrow Aspirate Slide	BONE MARROW	saltus_in_demonstrando	Primary	BASELINE	346.54	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-421529	CTDC-SPECIMEN-907926	Cell Block	CEREBROSPINAL FLUID	damnant_quod_non_intellegunt	Normal	On Treatment (Fresh)	195.79	e_causa_ignota
+specimen	CTDC-PARTICIPANT-421529	CTDC-SPECIMEN-703207	Unstained Slide	Bone Marrow	Gallia_est_omnis_divisa_in_partes_tres	Normal	ARCHIVAL	962.42	damnant_quod_non_intellegunt
+specimen	CTDC-PARTICIPANT-586970	CTDC-SPECIMEN-966489	Snap Frozen Tissue	STOOL	a_bene_placito	Normal	Post-Treatment (No progression)	602.87	e_causa_ignota
+specimen	CTDC-PARTICIPANT-586970	CTDC-SPECIMEN-890511	Fresh Tissue in Media to PDMR	BLOOD	scientiae_et_patriae	Primary	Baseline (Fresh)	640.67	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-725352	CTDC-SPECIMEN-490975	Formalin Fixed Tissue	STOOL	cacatum_non_est_pictum	Adjacent Non-Tumor	Baseline (Fresh)	272.04	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-725352	CTDC-SPECIMEN-360193	Unstained Bone Marrow Aspirate Slide	Bone Marrow	scientiae_et_patriae	Normal	On Treatment (Fresh)	61.57	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-187352	CTDC-SPECIMEN-277765	Streck Blood	Fresh Tissue	id_quod_plerumque_accidit	Metastatic	Baseline (Fresh)	448.71	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-187352	CTDC-SPECIMEN-377406	Unstained Bone Marrow Aspirate Slide	SALIVA	Gallia_est_omnis_divisa_in_partes_tres	Metastatic	ARCHIVAL	200.96	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-691506	CTDC-SPECIMEN-306063	Snap Frozen Tissue	BUCCAL CELL SAMPLE	a_bene_placito	Primary	PROGRESSION	132.34	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-691506	CTDC-SPECIMEN-771316	Formalin Fixed Tissue	STOOL	pace_tua	Metastatic	ON TREATMENT	622.87	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-191175	CTDC-SPECIMEN-761954	Unstained Slide	BLOOD	Macte_animo_Generose_puer_sic_itur_ad_astra	Adjacent Non-Tumor	ON TREATMENT	839.71	nanos_gigantum_humeris_insidentes
+specimen	CTDC-PARTICIPANT-191175	CTDC-SPECIMEN-773608	Streck Blood	Blood	barba_crescit_caput_nescit	Metastatic	Progression (Fresh)	934.0	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-286041	CTDC-SPECIMEN-652969	Stained Bone Marrow Aspirate Slide	Frozen Tissue	faber_est_suae_quisque_fortunae	Primary	Archival	164.92	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-286041	CTDC-SPECIMEN-789993	Fresh Tissue in Media to PDMR	Formalin Fixed Paraffin Embedded Tissue	salus_in_arduis	Normal	Post-Treatment (No progression)	636.59	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-804232	CTDC-SPECIMEN-681844	Bone Marrow Aspirate	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	scientia_et_sapientia	Primary	BASELINE	710.64	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-804232	CTDC-SPECIMEN-459671	Formalin Bone Marrow Biopsy	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Metastatic	ON TREATMENT	964.48	e_causa_ignota
+specimen	CTDC-PARTICIPANT-574775	CTDC-SPECIMEN-404729	EDTA Blood	Blood	barba_crescit_caput_nescit	Metastatic	Post-Treatment (No progression)	233.55	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-574775	CTDC-SPECIMEN-303058	Formalin Fixed Tissue	OTHER BODILY FLUIDs	damnant_quod_non_intellegunt	Primary	Post-Treatment (No progression)	953.05	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-711770	CTDC-SPECIMEN-417574	Formalin Bone Marrow Biopsy	Bone Marrow	a_bene_placito	Normal	PROGRESSION	483.38	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-711770	CTDC-SPECIMEN-149547	Snap Frozen Tissue	OTHER BODILY FLUIDs	scientia_et_labor	Adjacent Non-Tumor	Archival	756.98	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-918442	CTDC-SPECIMEN-841776	Streck Blood to PDMR	OTHER BODILY FLUIDs	scientia_et_labor	Adjacent Non-Tumor	Progression (Fresh)	38.14	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-918442	CTDC-SPECIMEN-111965	Bone Marrow Aspirate	FRESH TISSUE	scientia,_aere_perennius	Normal	PROGRESSION	60.12	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-411406	CTDC-SPECIMEN-141945	FORMALIN FIXED TISSUE	CEREBROSPINAL FLUID	Gallia_est_omnis_divisa_in_partes_tres	Normal	BASELINE	93.16	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-411406	CTDC-SPECIMEN-522560	Streck Blood to VARI	CEREBROSPINAL FLUID	salus_in_arduis	Metastatic	Progression (Fresh)	735.88	salus_in_arduis
+specimen	CTDC-PARTICIPANT-973480	CTDC-SPECIMEN-633749	Fresh Tissue in Media to PDMR	BLOOD	sapiens_qui_prospicit	Metastatic	Archival	531.84	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-973480	CTDC-SPECIMEN-844089	Streck Blood to PDMR	OTHER BODILY FLUIDs	scientia_imperii_decus_et_tutamen	Metastatic	Progression (Fresh)	335.74	damnant_quod_non_intellegunt
+specimen	CTDC-PARTICIPANT-153187	CTDC-SPECIMEN-331417	EDTA Blood	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	haec_olim_meminisse_iuvabit	Adjacent Non-Tumor	Progression (Fresh)	99.29	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-153187	CTDC-SPECIMEN-138931	Streck Blood	BUCCAL CELL SAMPLE	saltus_in_demonstrando	Normal	Archival	742.92	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-926449	CTDC-SPECIMEN-669339	Formalin Fixed Tissue	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	nanos_gigantum_humeris_insidentes	Adjacent Non-Tumor	Baseline (Fresh)	350.55	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-926449	CTDC-SPECIMEN-631782	FFPE Block	Bone Marrow	barba_crescit_caput_nescit	Metastatic	Baseline (Fresh)	550.33	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-983679	CTDC-SPECIMEN-266757	Formalin Fixed Tissue	Blood	salus_in_arduis	Metastatic	On Treatment (Fresh)	252.0	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-983679	CTDC-SPECIMEN-999906	FFPE Block	FROZEN TISSUE	pace_tua	Adjacent Non-Tumor	Progression (Fresh)	993.89	nanos_gigantum_humeris_insidentes
+specimen	CTDC-PARTICIPANT-687692	CTDC-SPECIMEN-799379	Streck Blood to PDMR	Frozen Tissue	Obedientia_civium_urbis_felicitas	Primary	PROGRESSION	669.53	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-687692	CTDC-SPECIMEN-971799	Formalin Fixed Tissue	STOOL	scientia_et_labor	Primary	Post-Treatment (No progression)	640.71	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-620597	CTDC-SPECIMEN-704283	FORMALIN FIXED TISSUE	Bone Marrow	scientiae_cedit_mare	Metastatic	Baseline (Fresh)	661.84	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-620597	CTDC-SPECIMEN-365068	Snap Frozen Tissue	Fresh Tissue	scientiae_cedit_mare	Primary	On Treatment (Fresh)	306.64	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-706795	CTDC-SPECIMEN-213977	Streck Blood to VARI	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Normal	BASELINE	754.7	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-706795	CTDC-SPECIMEN-506454	Stained Bone Marrow Aspirate Slide	Fresh Tissue	salus_in_arduis	Normal	Post-Treatment (No progression)	387.85	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-216653	CTDC-SPECIMEN-541914	Cell Block	STOOL	scientiae_cedit_mare	Normal	Post-Treatment (No progression)	619.69	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-216653	CTDC-SPECIMEN-243849	FORMALIN FIXED TISSUE	Bone Marrow	salus_in_arduis	Adjacent Non-Tumor	Baseline (Fresh)	185.83	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-966553	CTDC-SPECIMEN-212176	Stained Bone Marrow Aspirate Slide	OTHER BODILY FLUIDs	imperium_in_imperio	Metastatic	Post-Treatment (No progression)	703.25	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-966553	CTDC-SPECIMEN-193362	Formalin Fixed Tissue	BONE MARROW	cacatum_non_est_pictum	Metastatic	ARCHIVAL	572.78	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-194258	CTDC-SPECIMEN-626353	Snap Frozen Tissue	FROZEN TISSUE	pace_tua	Normal	Baseline (Fresh)	636.32	pace_tua
+specimen	CTDC-PARTICIPANT-194258	CTDC-SPECIMEN-657765	Formalin Bone Marrow Biopsy	BLOOD	nanos_gigantum_humeris_insidentes	Adjacent Non-Tumor	Progression (Fresh)	667.96	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-698017	CTDC-SPECIMEN-583624	Formalin Bone Marrow Biopsy	Frozen Tissue	barba_crescit_caput_nescit	Normal	Archival	46.4	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-698017	CTDC-SPECIMEN-736767	Formalin Bone Marrow Biopsy	BUCCAL CELL SAMPLE	barba_crescit_caput_nescit	Adjacent Non-Tumor	BASELINE	47.33	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-918728	CTDC-SPECIMEN-381340	Stained Bone Marrow Aspirate Slide	Formalin Fixed Paraffin Embedded Tissue	Gallia_est_omnis_divisa_in_partes_tres	Adjacent Non-Tumor	Post-Treatment (No progression)	15.44	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-918728	CTDC-SPECIMEN-803796	Streck Blood to VARI	Formalin Fixed Tissue	cacatum_non_est_pictum	Primary	Archival	263.26	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-959636	CTDC-SPECIMEN-106634	Formalin Bone Marrow Biopsy	BLOOD	Gallia_est_omnis_divisa_in_partes_tres	Adjacent Non-Tumor	On Treatment (Fresh)	736.2	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-959636	CTDC-SPECIMEN-956049	Cell Block	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	scientia,_aere_perennius	Primary	On Treatment (Fresh)	734.15	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-337700	CTDC-SPECIMEN-203873	Unstained Slide	FORMALIN FIXED TISSUE	sapiens_qui_prospicit	Primary	ON TREATMENT	165.48	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-337700	CTDC-SPECIMEN-812383	Streck Blood	Formalin Fixed Tissue	Gallia_est_omnis_divisa_in_partes_tres	Primary	PROGRESSION	269.2	a_bene_placito
+specimen	CTDC-PARTICIPANT-645100	CTDC-SPECIMEN-875205	Unstained Slide	SALIVA	salus_in_arduis	Normal	PROGRESSION	303.1	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-645100	CTDC-SPECIMEN-427676	Formalin Fixed Tissue	STOOL	faber_est_suae_quisque_fortunae	Primary	On Treatment (Fresh)	384.9	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-202242	CTDC-SPECIMEN-634876	Bone Marrow Aspirate	Formalin Fixed Paraffin Embedded Tissue	haec_olim_meminisse_iuvabit	Adjacent Non-Tumor	ARCHIVAL	36.74	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-202242	CTDC-SPECIMEN-461536	Fresh Tissue in Media to PDMR	Frozen Tissue	scientiae_cedit_mare	Adjacent Non-Tumor	ARCHIVAL	303.95	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-801977	CTDC-SPECIMEN-404883	Unstained Slide	Bone Marrow	nanos_gigantum_humeris_insidentes	Metastatic	PROGRESSION	770.9	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-801977	CTDC-SPECIMEN-435520	Unstained Slide	CEREBROSPINAL FLUID	Macte_animo_Generose_puer_sic_itur_ad_astra	Adjacent Non-Tumor	Progression (Fresh)	253.74	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-775032	CTDC-SPECIMEN-912179	Formalin Fixed Tissue	OTHER BODILY FLUIDs	damnant_quod_non_intellegunt	Primary	ARCHIVAL	824.69	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-775032	CTDC-SPECIMEN-986945	FFPE Block	BONE MARROW	labor_ipse_voluptas	Primary	ON TREATMENT	871.47	e_causa_ignota
+specimen	CTDC-PARTICIPANT-428665	CTDC-SPECIMEN-588990	Snap Frozen Tissue	BLOOD	scientiae_et_patriae	Normal	ON TREATMENT	161.81	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-428665	CTDC-SPECIMEN-473853	Unstained Slide	Fresh Tissue	faber_est_suae_quisque_fortunae	Normal	On Treatment (Fresh)	970.86	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-992290	CTDC-SPECIMEN-327229	Streck Blood to PDMR	FROZEN TISSUE	labor_ipse_voluptas	Primary	On Treatment (Fresh)	517.76	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-992290	CTDC-SPECIMEN-215224	Stained Bone Marrow Aspirate Slide	Fresh Tissue	faber_est_suae_quisque_fortunae	Primary	Post-Treatment (No progression)	764.47	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-132725	CTDC-SPECIMEN-464484	Fresh Tissue in Media to PDMR	Frozen Tissue	cacatum_non_est_pictum	Metastatic	Post-Treatment (No progression)	18.93	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-132725	CTDC-SPECIMEN-804891	Bone Marrow Aspirate	Frozen Tissue	damnant_quod_non_intellegunt	Primary	Progression (Fresh)	349.51	salus_in_arduis
+specimen	CTDC-PARTICIPANT-110851	CTDC-SPECIMEN-975303	Cell Block	BONE MARROW	a_bene_placito	Adjacent Non-Tumor	Archival	463.13	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-110851	CTDC-SPECIMEN-384228	Unstained Bone Marrow Aspirate Slide	Formalin Fixed Tissue	Gallia_est_omnis_divisa_in_partes_tres	Metastatic	PROGRESSION	90.09	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-319407	CTDC-SPECIMEN-562292	FORMALIN FIXED TISSUE	FROZEN TISSUE	cacatum_non_est_pictum	Adjacent Non-Tumor	On Treatment (Fresh)	427.24	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-319407	CTDC-SPECIMEN-933990	EDTA Blood	BUCCAL CELL SAMPLE	saltus_in_demonstrando	Metastatic	BASELINE	429.48	e_causa_ignota
+specimen	CTDC-PARTICIPANT-864152	CTDC-SPECIMEN-610967	FORMALIN FIXED TISSUE	Bone Marrow	damnant_quod_non_intellegunt	Metastatic	ARCHIVAL	824.41	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-864152	CTDC-SPECIMEN-773595	Fresh Tissue in Media to PDMR	Bone Marrow	Obedientia_civium_urbis_felicitas	Adjacent Non-Tumor	Progression (Fresh)	401.28	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-216125	CTDC-SPECIMEN-376274	Bone Marrow Aspirate	STOOL	scientia_imperii_decus_et_tutamen	Adjacent Non-Tumor	Archival	361.54	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-216125	CTDC-SPECIMEN-258783	FORMALIN FIXED TISSUE	Formalin Fixed Paraffin Embedded Tissue	a_bene_placito	Adjacent Non-Tumor	Post-Treatment (No progression)	202.2	pace_tua
+specimen	CTDC-PARTICIPANT-622180	CTDC-SPECIMEN-726403	Stained Bone Marrow Aspirate Slide	Bone Marrow	a_bene_placito	Adjacent Non-Tumor	PROGRESSION	641.77	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-622180	CTDC-SPECIMEN-770043	FORMALIN FIXED TISSUE	Fresh Tissue	damnant_quod_non_intellegunt	Normal	Baseline (Fresh)	88.18	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-147568	CTDC-SPECIMEN-977526	Streck Blood to VARI	SALIVA	nascentes_morimur_finisque_ab_origine_pendet	Primary	Baseline (Fresh)	931.03	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-147568	CTDC-SPECIMEN-486237	Streck Blood to PDMR	Fresh Tissue	scientia_et_sapientia	Metastatic	ON TREATMENT	154.2	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-584066	CTDC-SPECIMEN-869701	Fresh Tissue in Media to PDMR	Frozen Tissue	imperium_in_imperio	Normal	Post-Treatment (No progression)	248.69	imperium_in_imperio
+specimen	CTDC-PARTICIPANT-584066	CTDC-SPECIMEN-627848	Stained Bone Marrow Aspirate Slide	SALIVA	cacatum_non_est_pictum	Primary	Baseline (Fresh)	335.19	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-144117	CTDC-SPECIMEN-479677	FORMALIN FIXED TISSUE	Formalin Fixed Paraffin Embedded Tissue	saltus_in_demonstrando	Normal	Archival	268.57	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-144117	CTDC-SPECIMEN-155501	Unstained Bone Marrow Aspirate Slide	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	nanos_gigantum_humeris_insidentes	Adjacent Non-Tumor	On Treatment (Fresh)	799.04	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-158665	CTDC-SPECIMEN-590736	EDTA Blood	Bone Marrow	scientia_et_sapientia	Adjacent Non-Tumor	On Treatment (Fresh)	245.74	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-158665	CTDC-SPECIMEN-650283	FFPE Block	STOOL	id_quod_plerumque_accidit	Normal	BASELINE	858.77	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-854329	CTDC-SPECIMEN-257737	FFPE Block	OTHER BODILY FLUIDs	Gallia_est_omnis_divisa_in_partes_tres	Normal	Archival	143.66	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-854329	CTDC-SPECIMEN-991282	Stained Bone Marrow Aspirate Slide	BLOOD	saltus_in_demonstrando	Primary	Archival	832.36	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-743633	CTDC-SPECIMEN-879153	Formalin Bone Marrow Biopsy	Blood	id_quod_plerumque_accidit	Normal	ON TREATMENT	963.69	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-743633	CTDC-SPECIMEN-615043	Formalin Bone Marrow Biopsy	URINE	labor_ipse_voluptas	Metastatic	Archival	738.28	cacatum_non_est_pictum
+specimen	CTDC-PARTICIPANT-927032	CTDC-SPECIMEN-127853	Cell Block	BONE MARROW	scientia_imperii_decus_et_tutamen	Normal	Baseline (Fresh)	763.76	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-927032	CTDC-SPECIMEN-298995	Unstained Slide	FRESH TISSUE	salus_in_arduis	Metastatic	ON TREATMENT	693.94	imperium_in_imperio
+specimen	CTDC-PARTICIPANT-496371	CTDC-SPECIMEN-395834	Cell Block	Fresh Tissue	haec_olim_meminisse_iuvabit	Normal	BASELINE	680.82	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-496371	CTDC-SPECIMEN-387082	Fresh Tissue in Media to PDMR	URINE	scientiae_cedit_mare	Normal	BASELINE	482.2	pace_tua
+specimen	CTDC-PARTICIPANT-670665	CTDC-SPECIMEN-134829	Stained Bone Marrow Aspirate Slide	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	e_causa_ignota	Primary	On Treatment (Fresh)	542.1	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-670665	CTDC-SPECIMEN-639855	Formalin Fixed Tissue	BUCCAL CELL SAMPLE	e_causa_ignota	Primary	BASELINE	309.99	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-690103	CTDC-SPECIMEN-131005	Fresh Tissue in Media to PDMR	Bone Marrow	damnant_quod_non_intellegunt	Metastatic	ON TREATMENT	418.62	a_bene_placito
+specimen	CTDC-PARTICIPANT-690103	CTDC-SPECIMEN-846176	Fresh Tissue in Media to PDMR	FROZEN TISSUE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Metastatic	ARCHIVAL	385.06	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-319843	CTDC-SPECIMEN-621351	Formalin Bone Marrow Biopsy	Formalin Fixed Paraffin Embedded Tissue	nanos_gigantum_humeris_insidentes	Normal	Post-Treatment (No progression)	730.16	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-319843	CTDC-SPECIMEN-307661	Bone Marrow Aspirate	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	Gallia_est_omnis_divisa_in_partes_tres	Adjacent Non-Tumor	Baseline (Fresh)	257.21	scientia_et_labor
+specimen	CTDC-PARTICIPANT-877744	CTDC-SPECIMEN-785601	Formalin Fixed Tissue	Bone Marrow	nanos_gigantum_humeris_insidentes	Metastatic	Post-Treatment (No progression)	724.24	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-877744	CTDC-SPECIMEN-638122	Cell Block	URINE	Macte_animo_Generose_puer_sic_itur_ad_astra	Adjacent Non-Tumor	Archival	918.28	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-450420	CTDC-SPECIMEN-734854	Streck Blood to PDMR	OTHER BODILY FLUIDs	salus_in_arduis	Normal	On Treatment (Fresh)	841.53	imperium_in_imperio
+specimen	CTDC-PARTICIPANT-450420	CTDC-SPECIMEN-552073	FFPE Block	SALIVA	salus_in_arduis	Metastatic	Post-Treatment (No progression)	765.26	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-602449	CTDC-SPECIMEN-791664	Snap Frozen Tissue	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	scientia_imperii_decus_et_tutamen	Metastatic	ON TREATMENT	355.25	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-602449	CTDC-SPECIMEN-795958	Stained Bone Marrow Aspirate Slide	URINE	scientia,_aere_perennius	Normal	Post-Treatment (No progression)	409.57	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-979484	CTDC-SPECIMEN-154527	Streck Blood to PDMR	BONE MARROW	Gallia_est_omnis_divisa_in_partes_tres	Metastatic	Progression (Fresh)	101.11	damnant_quod_non_intellegunt
+specimen	CTDC-PARTICIPANT-979484	CTDC-SPECIMEN-533198	Formalin Bone Marrow Biopsy	BLOOD	cacatum_non_est_pictum	Metastatic	ARCHIVAL	855.66	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-853798	CTDC-SPECIMEN-496169	Formalin Fixed Tissue	FRESH TISSUE	nascentes_morimur_finisque_ab_origine_pendet	Normal	Progression (Fresh)	374.95	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-853798	CTDC-SPECIMEN-355819	FFPE Block	BLOOD	scientia_et_labor	Normal	Progression (Fresh)	13.88	pace_tua
+specimen	CTDC-PARTICIPANT-446598	CTDC-SPECIMEN-397628	Bone Marrow Aspirate	BONE MARROW	salus_in_arduis	Normal	Archival	562.21	a_bene_placito
+specimen	CTDC-PARTICIPANT-446598	CTDC-SPECIMEN-350442	Streck Blood to VARI	Fresh Tissue	sapiens_qui_prospicit	Metastatic	Archival	541.07	a_bene_placito
+specimen	CTDC-PARTICIPANT-696601	CTDC-SPECIMEN-137662	Snap Frozen Tissue	STOOL	barba_crescit_caput_nescit	Primary	PROGRESSION	554.02	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-696601	CTDC-SPECIMEN-853308	Unstained Slide	Formalin Fixed Tissue	faber_est_suae_quisque_fortunae	Metastatic	Archival	391.11	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-785376	CTDC-SPECIMEN-648434	Streck Blood	CEREBROSPINAL FLUID	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Primary	On Treatment (Fresh)	602.86	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-785376	CTDC-SPECIMEN-497972	Streck Blood	URINE	a_bene_placito	Primary	Post-Treatment (No progression)	248.79	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-718050	CTDC-SPECIMEN-702612	FORMALIN FIXED TISSUE	Formalin Fixed Tissue	scientiae_cedit_mare	Normal	Baseline (Fresh)	469.49	scientia_et_labor
+specimen	CTDC-PARTICIPANT-718050	CTDC-SPECIMEN-783886	Formalin Fixed Tissue	Frozen Tissue	sapiens_qui_prospicit	Primary	Progression (Fresh)	857.18	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-749225	CTDC-SPECIMEN-222418	Unstained Bone Marrow Aspirate Slide	Frozen Tissue	scientiae_et_patriae	Primary	BASELINE	329.42	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-749225	CTDC-SPECIMEN-979819	Streck Blood to VARI	CEREBROSPINAL FLUID	id_quod_plerumque_accidit	Normal	ARCHIVAL	431.17	a_bene_placito
+specimen	CTDC-PARTICIPANT-738448	CTDC-SPECIMEN-883718	EDTA Blood	Bone Marrow	faber_est_suae_quisque_fortunae	Metastatic	Baseline (Fresh)	484.79	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-738448	CTDC-SPECIMEN-734575	Streck Blood to PDMR	Blood	a_bene_placito	Normal	Archival	750.79	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-583553	CTDC-SPECIMEN-809475	Streck Blood to PDMR	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	cacatum_non_est_pictum	Metastatic	On Treatment (Fresh)	450.26	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-583553	CTDC-SPECIMEN-746518	Cell Block	URINE	scientia_et_sapientia	Metastatic	ARCHIVAL	184.06	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-180459	CTDC-SPECIMEN-580456	FFPE Block	Formalin Fixed Paraffin Embedded Tissue	sapiens_qui_prospicit	Primary	Archival	746.8	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-180459	CTDC-SPECIMEN-154284	Formalin Fixed Tissue	FROZEN TISSUE	a_bene_placito	Normal	ON TREATMENT	603.81	damnant_quod_non_intellegunt
+specimen	CTDC-PARTICIPANT-634334	CTDC-SPECIMEN-303644	Unstained Bone Marrow Aspirate Slide	STOOL	scientia,_aere_perennius	Metastatic	ARCHIVAL	734.6	e_causa_ignota
+specimen	CTDC-PARTICIPANT-634334	CTDC-SPECIMEN-337490	Fresh Tissue in Media to PDMR	Blood	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Primary	ON TREATMENT	951.36	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-765678	CTDC-SPECIMEN-501398	Unstained Slide	CEREBROSPINAL FLUID	scientia,_aere_perennius	Primary	Baseline (Fresh)	606.42	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-765678	CTDC-SPECIMEN-663054	Streck Blood	FROZEN TISSUE	a_bene_placito	Adjacent Non-Tumor	Baseline (Fresh)	100.76	a_bene_placito
+specimen	CTDC-PARTICIPANT-150754	CTDC-SPECIMEN-524725	Snap Frozen Tissue	FROZEN TISSUE	id_quod_plerumque_accidit	Primary	Post-Treatment (No progression)	812.59	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-150754	CTDC-SPECIMEN-453900	Formalin Bone Marrow Biopsy	Blood	scientiae_cedit_mare	Metastatic	Baseline (Fresh)	606.29	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-192143	CTDC-SPECIMEN-887304	Cell Block	FORMALIN FIXED TISSUE	scientia_imperii_decus_et_tutamen	Metastatic	Archival	612.68	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-192143	CTDC-SPECIMEN-737436	FFPE Block	Formalin Fixed Paraffin Embedded Tissue	scientia,_aere_perennius	Normal	PROGRESSION	577.44	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-110345	CTDC-SPECIMEN-728047	Cell Block	Formalin Fixed Tissue	nanos_gigantum_humeris_insidentes	Normal	BASELINE	765.86	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-110345	CTDC-SPECIMEN-942172	EDTA Blood	CEREBROSPINAL FLUID	nascentes_morimur_finisque_ab_origine_pendet	Normal	Post-Treatment (No progression)	978.58	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-845862	CTDC-SPECIMEN-484585	Fresh Tissue in Media to PDMR	FRESH TISSUE	nascentes_morimur_finisque_ab_origine_pendet	Normal	ARCHIVAL	932.19	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-845862	CTDC-SPECIMEN-240866	Formalin Bone Marrow Biopsy	URINE	id_quod_plerumque_accidit	Normal	ON TREATMENT	66.98	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-614426	CTDC-SPECIMEN-585020	Streck Blood	SALIVA	scientia,_aere_perennius	Primary	PROGRESSION	773.95	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-614426	CTDC-SPECIMEN-842889	Formalin Fixed Tissue	Formalin Fixed Tissue	Obedientia_civium_urbis_felicitas	Normal	PROGRESSION	955.21	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-748135	CTDC-SPECIMEN-235278	Snap Frozen Tissue	FROZEN TISSUE	labor_ipse_voluptas	Normal	Post-Treatment (No progression)	753.1	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-748135	CTDC-SPECIMEN-842318	Streck Blood to PDMR	STOOL	barba_crescit_caput_nescit	Metastatic	Archival	138.97	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-494145	CTDC-SPECIMEN-470260	Streck Blood to PDMR	URINE	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	On Treatment (Fresh)	460.5	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-494145	CTDC-SPECIMEN-639448	Formalin Fixed Tissue	STOOL	barba_crescit_caput_nescit	Metastatic	Baseline (Fresh)	371.87	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-680194	CTDC-SPECIMEN-670556	Unstained Slide	Frozen Tissue	scientiae_cedit_mare	Normal	ON TREATMENT	871.61	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-680194	CTDC-SPECIMEN-578653	Fresh Tissue in Media to PDMR	URINE	scientiae_et_patriae	Metastatic	ON TREATMENT	49.87	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-303474	CTDC-SPECIMEN-275941	Stained Bone Marrow Aspirate Slide	FRESH TISSUE	e_causa_ignota	Normal	BASELINE	324.19	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-303474	CTDC-SPECIMEN-839384	Stained Bone Marrow Aspirate Slide	Fresh Tissue	Gallia_est_omnis_divisa_in_partes_tres	Normal	On Treatment (Fresh)	513.4	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-363513	CTDC-SPECIMEN-848136	Streck Blood to VARI	STOOL	saltus_in_demonstrando	Normal	Post-Treatment (No progression)	458.75	damnant_quod_non_intellegunt
+specimen	CTDC-PARTICIPANT-363513	CTDC-SPECIMEN-243810	Formalin Fixed Tissue	FRESH TISSUE	scientia_et_sapientia	Adjacent Non-Tumor	ARCHIVAL	777.3	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-178397	CTDC-SPECIMEN-137812	Snap Frozen Tissue	FROZEN TISSUE	faber_est_suae_quisque_fortunae	Normal	On Treatment (Fresh)	70.2	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-178397	CTDC-SPECIMEN-427047	Formalin Bone Marrow Biopsy	Formalin Fixed Paraffin Embedded Tissue	salus_in_arduis	Normal	Archival	686.37	nanos_gigantum_humeris_insidentes
+specimen	CTDC-PARTICIPANT-871364	CTDC-SPECIMEN-629225	FFPE Block	BUCCAL CELL SAMPLE	id_quod_plerumque_accidit	Adjacent Non-Tumor	PROGRESSION	896.18	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-871364	CTDC-SPECIMEN-907066	Snap Frozen Tissue	URINE	Obedientia_civium_urbis_felicitas	Normal	Archival	494.29	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-274217	CTDC-SPECIMEN-231243	Bone Marrow Aspirate	STOOL	haec_olim_meminisse_iuvabit	Primary	ARCHIVAL	201.4	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-274217	CTDC-SPECIMEN-255608	Cell Block	BLOOD	salus_in_arduis	Adjacent Non-Tumor	BASELINE	353.05	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-466409	CTDC-SPECIMEN-389800	Bone Marrow Aspirate	BUCCAL CELL SAMPLE	id_quod_plerumque_accidit	Metastatic	BASELINE	819.88	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-466409	CTDC-SPECIMEN-559057	Streck Blood to PDMR	Fresh Tissue	scientia_et_labor	Adjacent Non-Tumor	Archival	235.36	cacatum_non_est_pictum
+specimen	CTDC-PARTICIPANT-975063	CTDC-SPECIMEN-705166	Cell Block	URINE	scientiae_et_patriae	Normal	On Treatment (Fresh)	661.1	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-975063	CTDC-SPECIMEN-687165	Streck Blood to VARI	CEREBROSPINAL FLUID	scientia,_aere_perennius	Normal	Archival	794.02	pace_tua
+specimen	CTDC-PARTICIPANT-377282	CTDC-SPECIMEN-268093	Streck Blood to VARI	STOOL	nascentes_morimur_finisque_ab_origine_pendet	Normal	ARCHIVAL	237.47	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-377282	CTDC-SPECIMEN-537209	Formalin Fixed Tissue	SALIVA	pace_tua	Adjacent Non-Tumor	ON TREATMENT	289.34	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-438140	CTDC-SPECIMEN-677656	Formalin Bone Marrow Biopsy	Formalin Fixed Tissue	imperium_in_imperio	Metastatic	Post-Treatment (No progression)	760.83	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-438140	CTDC-SPECIMEN-962719	Cell Block	SALIVA	saltus_in_demonstrando	Adjacent Non-Tumor	Post-Treatment (No progression)	932.17	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-706691	CTDC-SPECIMEN-296021	Formalin Bone Marrow Biopsy	STOOL	nascentes_morimur_finisque_ab_origine_pendet	Adjacent Non-Tumor	Baseline (Fresh)	955.36	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-706691	CTDC-SPECIMEN-297372	Unstained Slide	Formalin Fixed Paraffin Embedded Tissue	scientia,_aere_perennius	Adjacent Non-Tumor	ARCHIVAL	943.7	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-399087	CTDC-SPECIMEN-619836	Unstained Bone Marrow Aspirate Slide	FORMALIN FIXED TISSUE	labor_ipse_voluptas	Normal	Progression (Fresh)	127.19	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-399087	CTDC-SPECIMEN-663914	Unstained Bone Marrow Aspirate Slide	Formalin Fixed Tissue	nanos_gigantum_humeris_insidentes	Primary	PROGRESSION	444.29	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-232383	CTDC-SPECIMEN-627289	Streck Blood	BUCCAL CELL SAMPLE	pace_tua	Metastatic	Post-Treatment (No progression)	776.81	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-232383	CTDC-SPECIMEN-919200	Stained Bone Marrow Aspirate Slide	SALIVA	a_bene_placito	Metastatic	ARCHIVAL	504.3	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-534168	CTDC-SPECIMEN-832691	Snap Frozen Tissue	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	Gallia_est_omnis_divisa_in_partes_tres	Primary	Post-Treatment (No progression)	374.3	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-534168	CTDC-SPECIMEN-699543	Snap Frozen Tissue	BONE MARROW	scientia,_aere_perennius	Metastatic	Archival	867.79	cacatum_non_est_pictum
+specimen	CTDC-PARTICIPANT-165865	CTDC-SPECIMEN-523534	Stained Bone Marrow Aspirate Slide	Fresh Tissue	haec_olim_meminisse_iuvabit	Metastatic	Post-Treatment (No progression)	791.15	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-165865	CTDC-SPECIMEN-741641	Streck Blood to VARI	CEREBROSPINAL FLUID	imperium_in_imperio	Metastatic	Baseline (Fresh)	460.25	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-475991	CTDC-SPECIMEN-523515	Streck Blood to VARI	Bone Marrow	nascentes_morimur_finisque_ab_origine_pendet	Primary	ARCHIVAL	383.68	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-475991	CTDC-SPECIMEN-939321	Stained Bone Marrow Aspirate Slide	Fresh Tissue	barba_crescit_caput_nescit	Metastatic	Baseline (Fresh)	55.22	nanos_gigantum_humeris_insidentes
+specimen	CTDC-PARTICIPANT-213985	CTDC-SPECIMEN-599584	Streck Blood to PDMR	BUCCAL CELL SAMPLE	nanos_gigantum_humeris_insidentes	Normal	ARCHIVAL	194.99	salus_in_arduis
+specimen	CTDC-PARTICIPANT-213985	CTDC-SPECIMEN-668810	Streck Blood to VARI	BUCCAL CELL SAMPLE	salus_in_arduis	Metastatic	BASELINE	242.63	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-111717	CTDC-SPECIMEN-763697	FFPE Block	Formalin Fixed Tissue	Macte_animo_Generose_puer_sic_itur_ad_astra	Normal	ARCHIVAL	38.82	scientia_et_labor
+specimen	CTDC-PARTICIPANT-111717	CTDC-SPECIMEN-760816	Unstained Bone Marrow Aspirate Slide	OTHER BODILY FLUIDs	scientia,_aere_perennius	Normal	ON TREATMENT	352.01	salus_in_arduis
+specimen	CTDC-PARTICIPANT-918427	CTDC-SPECIMEN-943575	Formalin Bone Marrow Biopsy	FORMALIN FIXED TISSUE	damnant_quod_non_intellegunt	Normal	Post-Treatment (No progression)	46.29	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-918427	CTDC-SPECIMEN-428998	Formalin Bone Marrow Biopsy	FORMALIN FIXED TISSUE	id_quod_plerumque_accidit	Primary	Baseline (Fresh)	630.49	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-318974	CTDC-SPECIMEN-585778	Snap Frozen Tissue	FORMALIN FIXED TISSUE	nascentes_morimur_finisque_ab_origine_pendet	Normal	BASELINE	551.28	salus_in_arduis
+specimen	CTDC-PARTICIPANT-318974	CTDC-SPECIMEN-665356	Formalin Fixed Tissue	FROZEN TISSUE	haec_olim_meminisse_iuvabit	Adjacent Non-Tumor	ARCHIVAL	769.86	damnant_quod_non_intellegunt
+specimen	CTDC-PARTICIPANT-880722	CTDC-SPECIMEN-146833	FFPE Block	STOOL	e_causa_ignota	Metastatic	Progression (Fresh)	444.26	e_causa_ignota
+specimen	CTDC-PARTICIPANT-880722	CTDC-SPECIMEN-124432	Streck Blood to PDMR	Formalin Fixed Paraffin Embedded Tissue	scientiae_cedit_mare	Primary	Post-Treatment (No progression)	479.62	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-299062	CTDC-SPECIMEN-138408	Streck Blood	BONE MARROW	salus_in_arduis	Adjacent Non-Tumor	Post-Treatment (No progression)	723.61	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-299062	CTDC-SPECIMEN-240075	Formalin Fixed Tissue	BLOOD	scientiae_cedit_mare	Primary	Post-Treatment (No progression)	978.76	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-565416	CTDC-SPECIMEN-930614	Cell Block	FROZEN TISSUE	sapiens_qui_prospicit	Normal	ARCHIVAL	113.07	scientia_et_labor
+specimen	CTDC-PARTICIPANT-565416	CTDC-SPECIMEN-243399	Unstained Bone Marrow Aspirate Slide	Blood	e_causa_ignota	Primary	ARCHIVAL	837.78	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-354342	CTDC-SPECIMEN-196939	Unstained Bone Marrow Aspirate Slide	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Adjacent Non-Tumor	On Treatment (Fresh)	814.12	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-354342	CTDC-SPECIMEN-188495	FFPE Block	SALIVA	faber_est_suae_quisque_fortunae	Primary	PROGRESSION	654.5	pace_tua
+specimen	CTDC-PARTICIPANT-713818	CTDC-SPECIMEN-284745	Snap Frozen Tissue	CEREBROSPINAL FLUID	e_causa_ignota	Metastatic	Baseline (Fresh)	777.53	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-713818	CTDC-SPECIMEN-248893	Unstained Bone Marrow Aspirate Slide	FRESH TISSUE	scientia,_aere_perennius	Normal	On Treatment (Fresh)	308.25	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-104868	CTDC-SPECIMEN-912602	Formalin Fixed Tissue	Frozen Tissue	labor_ipse_voluptas	Primary	Baseline (Fresh)	347.27	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-104868	CTDC-SPECIMEN-891244	FORMALIN FIXED TISSUE	FORMALIN FIXED TISSUE	sapiens_qui_prospicit	Metastatic	Baseline (Fresh)	434.73	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-917726	CTDC-SPECIMEN-797550	Cell Block	CEREBROSPINAL FLUID	scientiae_cedit_mare	Primary	Progression (Fresh)	793.69	a_bene_placito
+specimen	CTDC-PARTICIPANT-917726	CTDC-SPECIMEN-310735	Unstained Slide	FORMALIN FIXED TISSUE	id_quod_plerumque_accidit	Primary	Archival	554.11	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-663219	CTDC-SPECIMEN-328030	Formalin Fixed Tissue	OTHER BODILY FLUIDs	a_bene_placito	Metastatic	PROGRESSION	350.82	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-663219	CTDC-SPECIMEN-265163	EDTA Blood	STOOL	cacatum_non_est_pictum	Metastatic	Baseline (Fresh)	131.27	imperium_in_imperio
+specimen	CTDC-PARTICIPANT-557972	CTDC-SPECIMEN-279502	Unstained Slide	Formalin Fixed Tissue	saltus_in_demonstrando	Normal	ON TREATMENT	594.9	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-557972	CTDC-SPECIMEN-848153	Formalin Fixed Tissue	Formalin Fixed Tissue	cacatum_non_est_pictum	Metastatic	ARCHIVAL	782.57	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-728197	CTDC-SPECIMEN-132210	Formalin Bone Marrow Biopsy	SALIVA	damnant_quod_non_intellegunt	Adjacent Non-Tumor	Baseline (Fresh)	870.05	cacatum_non_est_pictum
+specimen	CTDC-PARTICIPANT-728197	CTDC-SPECIMEN-963982	EDTA Blood	SALIVA	cacatum_non_est_pictum	Normal	Baseline (Fresh)	148.79	salus_in_arduis
+specimen	CTDC-PARTICIPANT-751304	CTDC-SPECIMEN-337497	Unstained Bone Marrow Aspirate Slide	Frozen Tissue	cacatum_non_est_pictum	Metastatic	PROGRESSION	690.96	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-751304	CTDC-SPECIMEN-218097	Formalin Bone Marrow Biopsy	Frozen Tissue	nascentes_morimur_finisque_ab_origine_pendet	Primary	Post-Treatment (No progression)	455.74	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-194446	CTDC-SPECIMEN-765366	FORMALIN FIXED TISSUE	Formalin Fixed Tissue	a_bene_placito	Metastatic	Progression (Fresh)	888.54	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-194446	CTDC-SPECIMEN-123378	EDTA Blood	Formalin Fixed Tissue	a_bene_placito	Metastatic	BASELINE	839.51	id_quod_plerumque_accidit
+specimen	CTDC-PARTICIPANT-688482	CTDC-SPECIMEN-907440	Stained Bone Marrow Aspirate Slide	Frozen Tissue	scientia_imperii_decus_et_tutamen	Normal	ARCHIVAL	776.76	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-688482	CTDC-SPECIMEN-519123	Streck Blood to PDMR	Blood	Macte_animo_Generose_puer_sic_itur_ad_astra	Primary	BASELINE	357.97	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-689311	CTDC-SPECIMEN-319332	Formalin Fixed Tissue	Bone Marrow	pace_tua	Primary	Post-Treatment (No progression)	293.92	cacatum_non_est_pictum
+specimen	CTDC-PARTICIPANT-689311	CTDC-SPECIMEN-105461	FFPE Block	URINE	scientia_imperii_decus_et_tutamen	Normal	Archival	661.69	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-875374	CTDC-SPECIMEN-695763	FFPE Block	FRESH TISSUE	scientiae_et_patriae	Primary	Baseline (Fresh)	726.02	e_causa_ignota
+specimen	CTDC-PARTICIPANT-875374	CTDC-SPECIMEN-415134	Streck Blood	Blood	scientiae_et_patriae	Primary	ON TREATMENT	363.66	salus_in_arduis
+specimen	CTDC-PARTICIPANT-276502	CTDC-SPECIMEN-385152	Stained Bone Marrow Aspirate Slide	URINE	nascentes_morimur_finisque_ab_origine_pendet	Metastatic	ARCHIVAL	627.07	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-276502	CTDC-SPECIMEN-884135	FFPE Block	CEREBROSPINAL FLUID	Obedientia_civium_urbis_felicitas	Adjacent Non-Tumor	PROGRESSION	89.45	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-376333	CTDC-SPECIMEN-256072	Cell Block	SALIVA	Gallia_est_omnis_divisa_in_partes_tres	Normal	BASELINE	979.84	e_causa_ignota
+specimen	CTDC-PARTICIPANT-376333	CTDC-SPECIMEN-662278	Unstained Slide	FRESH TISSUE	scientia_et_labor	Adjacent Non-Tumor	PROGRESSION	371.55	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-785012	CTDC-SPECIMEN-423612	Formalin Fixed Tissue	Frozen Tissue	cacatum_non_est_pictum	Normal	Post-Treatment (No progression)	546.11	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-785012	CTDC-SPECIMEN-238108	Formalin Bone Marrow Biopsy	BONE MARROW	saltus_in_demonstrando	Metastatic	ON TREATMENT	366.21	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-314894	CTDC-SPECIMEN-584174	Formalin Bone Marrow Biopsy	Formalin Fixed Paraffin Embedded Tissue	Macte_animo_Generose_puer_sic_itur_ad_astra	Metastatic	Archival	812.03	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-314894	CTDC-SPECIMEN-942622	Cell Block	URINE	scientia_imperii_decus_et_tutamen	Adjacent Non-Tumor	PROGRESSION	377.08	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-854943	CTDC-SPECIMEN-232797	Bone Marrow Aspirate	BONE MARROW	imperium_in_imperio	Metastatic	PROGRESSION	763.55	imperium_in_imperio
+specimen	CTDC-PARTICIPANT-854943	CTDC-SPECIMEN-330887	EDTA Blood	URINE	labor_ipse_voluptas	Adjacent Non-Tumor	Baseline (Fresh)	715.27	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-633168	CTDC-SPECIMEN-735632	FORMALIN FIXED TISSUE	FROZEN TISSUE	Obedientia_civium_urbis_felicitas	Adjacent Non-Tumor	Progression (Fresh)	298.98	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-633168	CTDC-SPECIMEN-880895	Formalin Fixed Tissue	Formalin Fixed Paraffin Embedded Tissue	nanos_gigantum_humeris_insidentes	Metastatic	Baseline (Fresh)	991.86	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-438852	CTDC-SPECIMEN-187412	Snap Frozen Tissue	FORMALIN FIXED TISSUE	barba_crescit_caput_nescit	Adjacent Non-Tumor	PROGRESSION	929.98	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-438852	CTDC-SPECIMEN-509201	Streck Blood	Formalin Fixed Paraffin Embedded Tissue	salus_in_arduis	Primary	Archival	215.51	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-464680	CTDC-SPECIMEN-414028	Snap Frozen Tissue	Bone Marrow	Obedientia_civium_urbis_felicitas	Primary	Archival	378.18	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-464680	CTDC-SPECIMEN-211853	Streck Blood to PDMR	Fresh Tissue	faber_est_suae_quisque_fortunae	Primary	Progression (Fresh)	317.47	scientia_et_sapientia
+specimen	CTDC-PARTICIPANT-320201	CTDC-SPECIMEN-248019	Unstained Bone Marrow Aspirate Slide	OTHER BODILY FLUIDs	pace_tua	Adjacent Non-Tumor	Baseline (Fresh)	682.94	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-320201	CTDC-SPECIMEN-996667	Streck Blood to VARI	BUCCAL CELL SAMPLE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Primary	ON TREATMENT	624.08	salus_in_arduis
+specimen	CTDC-PARTICIPANT-858106	CTDC-SPECIMEN-482852	Fresh Tissue in Media to PDMR	BUCCAL CELL SAMPLE	labor_ipse_voluptas	Adjacent Non-Tumor	Archival	305.77	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-858106	CTDC-SPECIMEN-978729	FORMALIN FIXED TISSUE	FRESH TISSUE	salus_in_arduis	Primary	Archival	762.2	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-598125	CTDC-SPECIMEN-665695	Streck Blood to VARI	FRESH TISSUE	pace_tua	Metastatic	Baseline (Fresh)	698.97	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-598125	CTDC-SPECIMEN-605124	Streck Blood to VARI	STOOL	haec_olim_meminisse_iuvabit	Adjacent Non-Tumor	Archival	278.78	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-464774	CTDC-SPECIMEN-407227	Unstained Slide	STOOL	scientia_et_labor	Primary	Post-Treatment (No progression)	949.93	barba_crescit_caput_nescit
+specimen	CTDC-PARTICIPANT-464774	CTDC-SPECIMEN-287284	Snap Frozen Tissue	URINE	cacatum_non_est_pictum	Adjacent Non-Tumor	On Treatment (Fresh)	552.25	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-243648	CTDC-SPECIMEN-998897	Unstained Slide	OTHER BODILY FLUIDs	scientia_imperii_decus_et_tutamen	Normal	Progression (Fresh)	738.58	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-243648	CTDC-SPECIMEN-648042	Snap Frozen Tissue	FORMALIN FIXED TISSUE	nascentes_morimur_finisque_ab_origine_pendet	Adjacent Non-Tumor	Progression (Fresh)	324.01	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-814096	CTDC-SPECIMEN-837275	Streck Blood to VARI	Formalin Fixed Paraffin Embedded Tissue	cacatum_non_est_pictum	Primary	Progression (Fresh)	203.16	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-814096	CTDC-SPECIMEN-309301	Snap Frozen Tissue	SALIVA	saltus_in_demonstrando	Metastatic	ARCHIVAL	347.64	labor_ipse_voluptas
+specimen	CTDC-PARTICIPANT-868611	CTDC-SPECIMEN-682173	Fresh Tissue in Media to PDMR	Frozen Tissue	a_bene_placito	Adjacent Non-Tumor	Archival	447.13	scientia_et_labor
+specimen	CTDC-PARTICIPANT-868611	CTDC-SPECIMEN-321251	Formalin Fixed Tissue	FRESH TISSUE	e_causa_ignota	Adjacent Non-Tumor	Archival	82.07	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-188508	CTDC-SPECIMEN-313928	Cell Block	BONE MARROW	barba_crescit_caput_nescit	Metastatic	Baseline (Fresh)	706.7	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-188508	CTDC-SPECIMEN-554257	Unstained Slide	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	nanos_gigantum_humeris_insidentes	Adjacent Non-Tumor	Progression (Fresh)	505.7	scientiae_cedit_mare
+specimen	CTDC-PARTICIPANT-766996	CTDC-SPECIMEN-166761	Bone Marrow Aspirate	FRESH TISSUE	pace_tua	Primary	On Treatment (Fresh)	734.55	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-766996	CTDC-SPECIMEN-973257	Unstained Slide	FORMALIN FIXED TISSUE	sapiens_qui_prospicit	Normal	Progression (Fresh)	224.2	scientia_et_labor
+specimen	CTDC-PARTICIPANT-617452	CTDC-SPECIMEN-492867	FORMALIN FIXED TISSUE	FRESH TISSUE	a_bene_placito	Primary	PROGRESSION	932.89	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-617452	CTDC-SPECIMEN-548024	Unstained Slide	Formalin Fixed Tissue	damnant_quod_non_intellegunt	Primary	BASELINE	843.75	faber_est_suae_quisque_fortunae
+specimen	CTDC-PARTICIPANT-413592	CTDC-SPECIMEN-265658	Formalin Bone Marrow Biopsy	FRESH TISSUE	sapiens_qui_prospicit	Adjacent Non-Tumor	On Treatment (Fresh)	489.71	nanos_gigantum_humeris_insidentes
+specimen	CTDC-PARTICIPANT-413592	CTDC-SPECIMEN-622575	FFPE Block	SALIVA	haec_olim_meminisse_iuvabit	Normal	ON TREATMENT	323.21	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-633095	CTDC-SPECIMEN-952964	Bone Marrow Aspirate	OTHER BODILY FLUIDs	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Adjacent Non-Tumor	Archival	851.63	pace_tua
+specimen	CTDC-PARTICIPANT-633095	CTDC-SPECIMEN-138076	Stained Bone Marrow Aspirate Slide	Blood	nascentes_morimur_finisque_ab_origine_pendet	Metastatic	On Treatment (Fresh)	577.68	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-267717	CTDC-SPECIMEN-314627	Formalin Bone Marrow Biopsy	Fresh Tissue	scientia_imperii_decus_et_tutamen	Primary	Archival	217.27	e_causa_ignota
+specimen	CTDC-PARTICIPANT-267717	CTDC-SPECIMEN-934768	Formalin Bone Marrow Biopsy	SALIVA	scientia_et_labor	Normal	Archival	381.81	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-764413	CTDC-SPECIMEN-537891	Unstained Bone Marrow Aspirate Slide	Blood	scientiae_cedit_mare	Normal	PROGRESSION	155.71	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-764413	CTDC-SPECIMEN-230438	Snap Frozen Tissue	SALIVA	scientia,_aere_perennius	Adjacent Non-Tumor	ARCHIVAL	596.21	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-651369	CTDC-SPECIMEN-607210	Bone Marrow Aspirate	BLOOD	Gallia_est_omnis_divisa_in_partes_tres	Metastatic	ON TREATMENT	786.6	scientia,_aere_perennius
+specimen	CTDC-PARTICIPANT-651369	CTDC-SPECIMEN-233507	Bone Marrow Aspirate	BLOOD	damnant_quod_non_intellegunt	Normal	PROGRESSION	581.45	cacatum_non_est_pictum
+specimen	CTDC-PARTICIPANT-386575	CTDC-SPECIMEN-285282	Bone Marrow Aspirate	Bone Marrow	imperium_in_imperio	Normal	ON TREATMENT	829.3	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+specimen	CTDC-PARTICIPANT-386575	CTDC-SPECIMEN-637019	Streck Blood to PDMR	CEREBROSPINAL FLUID	pace_tua	Primary	Archival	540.54	nascentes_morimur_finisque_ab_origine_pendet
+specimen	CTDC-PARTICIPANT-675956	CTDC-SPECIMEN-870472	Stained Bone Marrow Aspirate Slide	BUCCAL CELL SAMPLE	cacatum_non_est_pictum	Primary	BASELINE	893.1	a_bene_placito
+specimen	CTDC-PARTICIPANT-675956	CTDC-SPECIMEN-717331	Formalin Fixed Tissue	SALIVA	labor_ipse_voluptas	Metastatic	Post-Treatment (No progression)	791.76	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-386275	CTDC-SPECIMEN-411240	EDTA Blood	Fresh Tissue	scientia_imperii_decus_et_tutamen	Normal	Progression (Fresh)	587.46	salus_in_arduis
+specimen	CTDC-PARTICIPANT-386275	CTDC-SPECIMEN-352654	Unstained Slide	Bone Marrow	barba_crescit_caput_nescit	Normal	ON TREATMENT	923.36	pace_tua
+specimen	CTDC-PARTICIPANT-190323	CTDC-SPECIMEN-978843	Streck Blood to PDMR	Bone Marrow	scientiae_cedit_mare	Primary	ARCHIVAL	55.22	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-190323	CTDC-SPECIMEN-229325	Formalin Bone Marrow Biopsy	URINE	scientia_imperii_decus_et_tutamen	Primary	PROGRESSION	398.45	saltus_in_demonstrando
+specimen	CTDC-PARTICIPANT-403585	CTDC-SPECIMEN-580050	FORMALIN FIXED TISSUE	FORMALIN FIXED PARAFFIN EMBEDDED TISSUE	scientiae_cedit_mare	Adjacent Non-Tumor	Baseline (Fresh)	704.04	Obedientia_civium_urbis_felicitas
+specimen	CTDC-PARTICIPANT-403585	CTDC-SPECIMEN-413311	Streck Blood	FORMALIN FIXED TISSUE	a_bene_placito	Normal	Progression (Fresh)	608.92	Macte_animo_Generose_puer_sic_itur_ad_astra
+specimen	CTDC-PARTICIPANT-137623	CTDC-SPECIMEN-836630	FFPE Block	OTHER BODILY FLUIDs	scientia,_aere_perennius	Adjacent Non-Tumor	Post-Treatment (No progression)	400.87	pace_tua
+specimen	CTDC-PARTICIPANT-137623	CTDC-SPECIMEN-970053	Streck Blood to PDMR	Formalin Fixed Paraffin Embedded Tissue	Gallia_est_omnis_divisa_in_partes_tres	Metastatic	BASELINE	564.18	a_bene_placito
+specimen	CTDC-PARTICIPANT-782444	CTDC-SPECIMEN-289894	Fresh Tissue in Media to PDMR	Blood	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Normal	Progression (Fresh)	153.6	a_bene_placito
+specimen	CTDC-PARTICIPANT-782444	CTDC-SPECIMEN-718282	Fresh Tissue in Media to PDMR	URINE	scientiae_et_patriae	Normal	Progression (Fresh)	686.62	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-571688	CTDC-SPECIMEN-670903	Unstained Slide	FRESH TISSUE	cacatum_non_est_pictum	Adjacent Non-Tumor	ARCHIVAL	497.4	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-571688	CTDC-SPECIMEN-776024	Stained Bone Marrow Aspirate Slide	Fresh Tissue	haec_olim_meminisse_iuvabit	Normal	Baseline (Fresh)	746.15	scientia_imperii_decus_et_tutamen
+specimen	CTDC-PARTICIPANT-580270	CTDC-SPECIMEN-724551	Unstained Slide	FROZEN TISSUE	scientiae_et_patriae	Adjacent Non-Tumor	PROGRESSION	427.23	sapiens_qui_prospicit
+specimen	CTDC-PARTICIPANT-580270	CTDC-SPECIMEN-984087	Formalin Bone Marrow Biopsy	Bone Marrow	salus_in_arduis	Normal	ON TREATMENT	56.97	a_bene_placito
+specimen	CTDC-PARTICIPANT-177691	CTDC-SPECIMEN-925033	Cell Block	CEREBROSPINAL FLUID	scientia_imperii_decus_et_tutamen	Adjacent Non-Tumor	On Treatment (Fresh)	69.89	scientiae_et_patriae
+specimen	CTDC-PARTICIPANT-177691	CTDC-SPECIMEN-806022	Snap Frozen Tissue	CEREBROSPINAL FLUID	imperium_in_imperio	Adjacent Non-Tumor	On Treatment (Fresh)	315.44	nanos_gigantum_humeris_insidentes
+specimen	CTDC-PARTICIPANT-781636	CTDC-SPECIMEN-407298	Unstained Bone Marrow Aspirate Slide	STOOL	scientia_imperii_decus_et_tutamen	Metastatic	PROGRESSION	414.38	haec_olim_meminisse_iuvabit
+specimen	CTDC-PARTICIPANT-781636	CTDC-SPECIMEN-634224	Stained Bone Marrow Aspirate Slide	BONE MARROW	salus_in_arduis	Metastatic	Post-Treatment (No progression)	411.46	pace_tua
+specimen	CTDC-PARTICIPANT-432361	CTDC-SPECIMEN-240702	FFPE Block	BLOOD	imperium_in_imperio	Metastatic	Baseline (Fresh)	225.32	Gallia_est_omnis_divisa_in_partes_tres
+specimen	CTDC-PARTICIPANT-432361	CTDC-SPECIMEN-260325	Formalin Fixed Tissue	Bone Marrow	saltus_in_demonstrando	Normal	Post-Treatment (No progression)	564.47	labor_ipse_voluptas
