@@ -42,7 +42,7 @@ IncludeNodes:
   specimen:
     NodeCount: 128
     Prefix: CTDC-SPECIMEN
-  data_file:
+  file:
     NodeCount: 256
     Prefix: CTDC-DATA-FILE
   associated_link:
@@ -172,7 +172,7 @@ IncludeProperties:
     - tissue_category # this would be the Catalog Site's "Tissue Category" i.e. the indicator as to normal vs primary vs metastatic, which appears within at least two of the DDs as Tissue Type
     - assessment_timepoint # this appears to be the Catalog Site's "Collection Timepoint" caDSR 7065963
 
-  data_file:
+  file:
     - data_file_name #11284037
     - data_file_type
     - data_file_description #11280338
@@ -211,7 +211,7 @@ RelationshipSpecs:
   study:
     #subject:
     #  SrcNodeCount: fixed
-    data_file:
+    file:
       SrcNodeCount: fixed
     associated_link:
       SrcNodeCount: fixed
