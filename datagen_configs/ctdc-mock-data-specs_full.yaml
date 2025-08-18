@@ -33,9 +33,9 @@ IncludeNodes:
   #surgical_procedure:
   #  NodeCount: 128
   #  Prefix: CTDC-SURGICAL-PROCEDURE
-  radiological_procedure:
-    NodeCount: 128
-    Prefix: CTDC-RADIOLOGICAL-PROCEDURE
+  #radiological_procedure:
+  #  NodeCount: 128
+  #  Prefix: CTDC-RADIOLOGICAL-PROCEDURE
   subject_status:
     NodeCount: 64
     Prefix: CTDC-SUBJECT-STATUS
@@ -140,9 +140,9 @@ IncludeProperties:
   #  - surgical_procedure_id
   #  - surgical_procedure_name #6411539
 
-  radiological_procedure:
-    - radiological_procedure_id
-    - radiological_procedure_name #6411539
+  #radiological_procedure:
+  #  - radiological_procedure_id
+  #  - radiological_procedure_name #6411539
 
   subject_status:
     - subject_status_id
@@ -234,8 +234,8 @@ RelationshipSpecs:
     #  SrcNodeCount: fixed
     #surgical_procedure:
     #  SrcNodeCount: fixed
-    radiological_procedure:
-      SrcNodeCount: fixed
+    #radiological_procedure:
+    #  SrcNodeCount: fixed
     subject_status:
       SrcNodeCount: fixed
     specimen:

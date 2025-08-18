@@ -1,6 +1,0 @@
-NODE_FILE: ./AutoGenerateExample/model-desc/ctdc_model_file.yaml
-PROP_FILE: ./AutoGenerateExample/model-desc/ctdc_model_properties_file.yaml
-SYNTHETIC_DATA_FILE: ./AutoGenerateExample/configs/ctdc-synthetic_data_values.xlsx
-DATA_SPEC_FILE: ./AutoGenerateExample/configs/ctdc-mock-data-specs_full.yaml
-ID_FILE: ./AutoGenerateExample/configs/props-ctdc.yml
-OUTPUT_FOLDER: ./AutoGenerateExample/loadsheet_example/
