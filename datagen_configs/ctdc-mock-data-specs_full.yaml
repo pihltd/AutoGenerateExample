@@ -9,9 +9,9 @@ HeadNode:
 #Only nodes in the IncludeNodes section will be created.
 #Includes nodes in the hierarchy in which they occur in the model.
 IncludeNodes:
-  project:
-    NodeCount: 2
-    Prefix: CTDC-PROJECT
+  #project:
+  #  NodeCount: 2
+  #  Prefix: CTDC-PROJECT
   study:
     NodeCount: 4
     Prefix: CTDC-STUDY
@@ -66,9 +66,9 @@ IncludeProperties:
     - program_name #11444542
     - program_short_name #11459801
 
-  project:
-    - project_name #11459804
-    - project_short_name #11459806
+  #project:
+  #  - project_name #11459804
+  #  - project_short_name #11459806
 
   study:
     - study_name #11459810
@@ -193,21 +193,21 @@ IncludeProperties:
 
 RelationshipSpecs:
   program:
-    project:
-      SrcNodeCount: fixed
+    #project:
+    #  SrcNodeCount: fixed
     study:
       SrcNodeCount: fixed
-  project:
-    study:
-      SrcNodeCount: fixed
-    principal_investigator:
-      SrcNodeCount: fixed
-    data_file:
-      SrcNodeCount: fixed
-    associated_link:
-      SrcNodeCount: fixed
-    image_collection:
-      SrcNodeCount: fixed
+  #project:
+  #  study:
+  #    SrcNodeCount: fixed
+  #  principal_investigator:
+  #    SrcNodeCount: fixed
+  #  data_file:
+  #    SrcNodeCount: fixed
+  #  associated_link:
+  #    SrcNodeCount: fixed
+  #  image_collection:
+  #    SrcNodeCount: fixed
   study:
     subject:
       SrcNodeCount: fixed
