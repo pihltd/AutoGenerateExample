@@ -15,9 +15,9 @@ IncludeNodes:
   study:
     NodeCount: 4
     Prefix: CTDC-STUDY
-  subject:
-    NodeCount: 64
-    Prefix: CTDC-SUBJECT
+  #subject:
+  #  NodeCount: 64
+  #  Prefix: CTDC-SUBJECT
   demographic:
     NodeCount: 64
     Prefix: CTDC-DEMOGRAPHIC
@@ -95,12 +95,12 @@ IncludeProperties:
     - repository_name
     - collection_access
   
-  subject:
-    - subject_id
-    - biomarker_results_available
-    - radiology_report_available #6944764
-    - radiology_images_available
-    - histology_images_available
+  #subject:
+  #  - subject_id
+  #  - biomarker_results_available
+  #  - radiology_report_available #6944764
+  #  - radiology_images_available
+  #  - histology_images_available
 
   demographic:
     - demographic_id
@@ -209,8 +209,8 @@ RelationshipSpecs:
   #  image_collection:
   #    SrcNodeCount: fixed
   study:
-    subject:
-      SrcNodeCount: fixed
+    #subject:
+    #  SrcNodeCount: fixed
     data_file:
       SrcNodeCount: fixed
     associated_link:
@@ -219,28 +219,28 @@ RelationshipSpecs:
       SrcNodeCount: fixed
     principal_investigator:
       SrcNodeCount: fixed
-  subject:
-    data_file:
-      SrcNodeCount: fixed
-    demographic:
-      SrcNodeCount: fixed
-    exposure:
-      SrcNodeCount: fixed
-    diagnosis:
-      SrcNodeCount: fixed
-    targeted_therapy:
-      SrcNodeCount: fixed
+  #subject:
+  #  data_file:
+  #    SrcNodeCount: fixed
+  #  demographic:
+  #    SrcNodeCount: fixed
+  #  exposure:
+  #    SrcNodeCount: fixed
+  #  diagnosis:
+  #    SrcNodeCount: fixed
+  #  targeted_therapy:
+  #    SrcNodeCount: fixed
     #therapy:
     #  SrcNodeCount: fixed
     #surgical_procedure:
     #  SrcNodeCount: fixed
     #radiological_procedure:
     #  SrcNodeCount: fixed
-    subject_status:
-      SrcNodeCount: fixed
-    specimen:
-      SrcNodeCount: fixed
-  specimen:
-    data_file:
-      SrcNodeCount: fixed
+  #  subject_status:
+  #    SrcNodeCount: fixed
+  #  specimen:
+  #    SrcNodeCount: fixed
+  #specimen:
+  #  data_file:
+  #    SrcNodeCount: fixed
 
