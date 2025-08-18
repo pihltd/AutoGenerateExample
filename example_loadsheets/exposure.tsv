@@ -1,201 +1,201 @@
 type	participant.participant_id	exposure_record_id	environmental_exposure_type	carcinogen_exposure	crdc_id
-exposure	CTDC-PARTICIPANT-593114	CTDC-EXPOSURE-132213	Asbestos Exposure	No	e_causa_ignota
-exposure	CTDC-PARTICIPANT-413103	CTDC-EXPOSURE-902999	Radiation Exposure	No	scientiae_cedit_mare
-exposure	CTDC-PARTICIPANT-153413	CTDC-EXPOSURE-292164	Chemical Exposure	Unknown	e_causa_ignota
-exposure	CTDC-PARTICIPANT-996891	CTDC-EXPOSURE-985719	Chemical Exposure	Yes	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-847972	CTDC-EXPOSURE-595100	Asbestos Exposure	No	scientia_imperii_decus_et_tutamen
-exposure	CTDC-PARTICIPANT-764470	CTDC-EXPOSURE-935722	Tobacco Related Exposure	Yes	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-266465	CTDC-EXPOSURE-698488	Smokeless Tobacco Exposure	No	pace_tua
-exposure	CTDC-PARTICIPANT-284597	CTDC-EXPOSURE-632532	Smoke Exposure	Yes	scientia_et_labor
-exposure	CTDC-PARTICIPANT-422022	CTDC-EXPOSURE-335288	Chemical Exposure	No	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-877622	CTDC-EXPOSURE-949489	Smoke Exposure	Unknown	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-280047	CTDC-EXPOSURE-835568	Smokeless Tobacco Exposure	No	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-259438	CTDC-EXPOSURE-540240	Radiation Exposure	No	damnant_quod_non_intellegunt
-exposure	CTDC-PARTICIPANT-519697	CTDC-EXPOSURE-127662	Tobacco Related Exposure	Unknown	a_bene_placito
-exposure	CTDC-PARTICIPANT-248891	CTDC-EXPOSURE-870404	Smokeless Tobacco Exposure	No	sapiens_qui_prospicit
-exposure	CTDC-PARTICIPANT-967962	CTDC-EXPOSURE-680503	Smokeless Tobacco Exposure	Unknown	damnant_quod_non_intellegunt
-exposure	CTDC-PARTICIPANT-530401	CTDC-EXPOSURE-305728	Wood Dust Exposure	No	e_causa_ignota
-exposure	CTDC-PARTICIPANT-778074	CTDC-EXPOSURE-202348	Smokeless Tobacco Exposure	No	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-908207	CTDC-EXPOSURE-673972	Chemical Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
-exposure	CTDC-PARTICIPANT-792921	CTDC-EXPOSURE-939841	Chemical Exposure	No	pace_tua
-exposure	CTDC-PARTICIPANT-918151	CTDC-EXPOSURE-627350	Wood Dust Exposure	Unknown	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-124033	CTDC-EXPOSURE-120170	Tobacco Related Exposure	Yes	sapiens_qui_prospicit
-exposure	CTDC-PARTICIPANT-504062	CTDC-EXPOSURE-237651	Smoke Exposure	No	e_causa_ignota
-exposure	CTDC-PARTICIPANT-184011	CTDC-EXPOSURE-277627	Radon Exposure	Yes	cacatum_non_est_pictum
-exposure	CTDC-PARTICIPANT-237028	CTDC-EXPOSURE-576013	Radiation Exposure	Unknown	barba_crescit_caput_nescit
-exposure	CTDC-PARTICIPANT-861688	CTDC-EXPOSURE-400813	Smoke Exposure	No	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-429652	CTDC-EXPOSURE-109546	Smoke Exposure	Unknown	e_causa_ignota
-exposure	CTDC-PARTICIPANT-741671	CTDC-EXPOSURE-878082	Wood Dust Exposure	Unknown	salus_in_arduis
-exposure	CTDC-PARTICIPANT-643081	CTDC-EXPOSURE-543529	Respirable Crystalline Silica Exposure	Unknown	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-695826	CTDC-EXPOSURE-333126	Asbestos Exposure	No	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-629540	CTDC-EXPOSURE-860818	Wood Dust Exposure	Unknown	salus_in_arduis
-exposure	CTDC-PARTICIPANT-403281	CTDC-EXPOSURE-629226	Radon Exposure	Unknown	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-955016	CTDC-EXPOSURE-341387	Smokeless Tobacco Exposure	Yes	labor_ipse_voluptas
-exposure	CTDC-PARTICIPANT-953549	CTDC-EXPOSURE-482684	Asbestos Exposure	Unknown	haec_olim_meminisse_iuvabit
-exposure	CTDC-PARTICIPANT-932479	CTDC-EXPOSURE-749899	Smoke Exposure	No	scientia_et_labor
-exposure	CTDC-PARTICIPANT-330869	CTDC-EXPOSURE-301280	Asbestos Exposure	Yes	imperium_in_imperio
-exposure	CTDC-PARTICIPANT-961115	CTDC-EXPOSURE-234752	Tobacco Related Exposure	No	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-599971	CTDC-EXPOSURE-534912	Tobacco Related Exposure	No	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-380448	CTDC-EXPOSURE-969620	Wood Dust Exposure	Unknown	cacatum_non_est_pictum
-exposure	CTDC-PARTICIPANT-906159	CTDC-EXPOSURE-249388	Wood Dust Exposure	Yes	scientia_imperii_decus_et_tutamen
-exposure	CTDC-PARTICIPANT-901468	CTDC-EXPOSURE-874895	Radiation Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
-exposure	CTDC-PARTICIPANT-371196	CTDC-EXPOSURE-777003	Smokeless Tobacco Exposure	No	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-624976	CTDC-EXPOSURE-462611	Respirable Crystalline Silica Exposure	Unknown	e_causa_ignota
-exposure	CTDC-PARTICIPANT-117975	CTDC-EXPOSURE-224371	Wood Dust Exposure	No	a_bene_placito
-exposure	CTDC-PARTICIPANT-341760	CTDC-EXPOSURE-417738	Smokeless Tobacco Exposure	No	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-364342	CTDC-EXPOSURE-174175	Smoke Exposure	No	labor_ipse_voluptas
-exposure	CTDC-PARTICIPANT-136152	CTDC-EXPOSURE-653722	Wood Dust Exposure	Unknown	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-908243	CTDC-EXPOSURE-419887	Chemical Exposure	No	haec_olim_meminisse_iuvabit
-exposure	CTDC-PARTICIPANT-395244	CTDC-EXPOSURE-202536	Tobacco Related Exposure	Yes	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-880804	CTDC-EXPOSURE-624799	Chemical Exposure	No	e_causa_ignota
-exposure	CTDC-PARTICIPANT-515186	CTDC-EXPOSURE-445436	Wood Dust Exposure	Unknown	salus_in_arduis
-exposure	CTDC-PARTICIPANT-457430	CTDC-EXPOSURE-853387	Marijuana Smoke Exposure	Unknown	sapiens_qui_prospicit
-exposure	CTDC-PARTICIPANT-287764	CTDC-EXPOSURE-313233	Marijuana Smoke Exposure	Yes	sapiens_qui_prospicit
-exposure	CTDC-PARTICIPANT-164098	CTDC-EXPOSURE-148851	Tobacco Related Exposure	Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra
-exposure	CTDC-PARTICIPANT-829528	CTDC-EXPOSURE-219731	Smokeless Tobacco Exposure	No	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-961434	CTDC-EXPOSURE-727255	Smoke Exposure	Unknown	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-498552	CTDC-EXPOSURE-558052	Radon Exposure	Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-exposure	CTDC-PARTICIPANT-492668	CTDC-EXPOSURE-573950	Chemical Exposure	Yes	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-210427	CTDC-EXPOSURE-728767	Radon Exposure	Unknown	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-581526	CTDC-EXPOSURE-699748	Radon Exposure	Unknown	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-700520	CTDC-EXPOSURE-530161	Marijuana Smoke Exposure	Unknown	nascentes_morimur_finisque_ab_origine_pendet
-exposure	CTDC-PARTICIPANT-940887	CTDC-EXPOSURE-712838	Tobacco Related Exposure	No	imperium_in_imperio
-exposure	CTDC-PARTICIPANT-902783	CTDC-EXPOSURE-449040	Radiation Exposure	No	scientiae_cedit_mare
-exposure	CTDC-PARTICIPANT-994474	CTDC-EXPOSURE-601853	Tobacco Related Exposure	No	pace_tua
-exposure	CTDC-PARTICIPANT-613270	CTDC-EXPOSURE-716884	Tobacco Related Exposure	Unknown	scientiae_cedit_mare
-exposure	CTDC-PARTICIPANT-604144	CTDC-EXPOSURE-467525	Asbestos Exposure	Unknown	labor_ipse_voluptas
-exposure	CTDC-PARTICIPANT-790888	CTDC-EXPOSURE-142537	Asbestos Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
-exposure	CTDC-PARTICIPANT-727495	CTDC-EXPOSURE-636677	Asbestos Exposure	Unknown	scientia_et_labor
-exposure	CTDC-PARTICIPANT-363489	CTDC-EXPOSURE-669433	Radon Exposure	Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra
-exposure	CTDC-PARTICIPANT-170910	CTDC-EXPOSURE-518605	Radiation Exposure	No	scientiae_cedit_mare
-exposure	CTDC-PARTICIPANT-642408	CTDC-EXPOSURE-762962	Asbestos Exposure	Unknown	scientia_imperii_decus_et_tutamen
-exposure	CTDC-PARTICIPANT-602611	CTDC-EXPOSURE-950323	Radon Exposure	Yes	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-937664	CTDC-EXPOSURE-963138	Radon Exposure	Yes	labor_ipse_voluptas
-exposure	CTDC-PARTICIPANT-289805	CTDC-EXPOSURE-499973	Radon Exposure	Yes	scientiae_cedit_mare
-exposure	CTDC-PARTICIPANT-931065	CTDC-EXPOSURE-919244	Smoke Exposure	No	nascentes_morimur_finisque_ab_origine_pendet
-exposure	CTDC-PARTICIPANT-358155	CTDC-EXPOSURE-934910	Chemical Exposure	Yes	scientia_imperii_decus_et_tutamen
-exposure	CTDC-PARTICIPANT-390237	CTDC-EXPOSURE-160568	Smokeless Tobacco Exposure	Unknown	sapiens_qui_prospicit
-exposure	CTDC-PARTICIPANT-483151	CTDC-EXPOSURE-987930	Asbestos Exposure	Yes	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-671563	CTDC-EXPOSURE-631024	Chemical Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
-exposure	CTDC-PARTICIPANT-459237	CTDC-EXPOSURE-811783	Respirable Crystalline Silica Exposure	Unknown	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-645434	CTDC-EXPOSURE-290142	Asbestos Exposure	Yes	salus_in_arduis
-exposure	CTDC-PARTICIPANT-587019	CTDC-EXPOSURE-188301	Smoke Exposure	No	imperium_in_imperio
-exposure	CTDC-PARTICIPANT-563654	CTDC-EXPOSURE-927484	Radon Exposure	Yes	damnant_quod_non_intellegunt
-exposure	CTDC-PARTICIPANT-419467	CTDC-EXPOSURE-882257	Respirable Crystalline Silica Exposure	Unknown	haec_olim_meminisse_iuvabit
-exposure	CTDC-PARTICIPANT-205519	CTDC-EXPOSURE-691880	Tobacco Related Exposure	Yes	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-814768	CTDC-EXPOSURE-232468	Radon Exposure	No	salus_in_arduis
-exposure	CTDC-PARTICIPANT-358193	CTDC-EXPOSURE-585898	Tobacco Related Exposure	No	e_causa_ignota
-exposure	CTDC-PARTICIPANT-831254	CTDC-EXPOSURE-483909	Tobacco Related Exposure	Unknown	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-460910	CTDC-EXPOSURE-240917	Radon Exposure	No	imperium_in_imperio
-exposure	CTDC-PARTICIPANT-577852	CTDC-EXPOSURE-483859	Asbestos Exposure	Yes	pace_tua
-exposure	CTDC-PARTICIPANT-877592	CTDC-EXPOSURE-699465	Chemical Exposure	No	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-784757	CTDC-EXPOSURE-530478	Smoke Exposure	Yes	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-265111	CTDC-EXPOSURE-976021	Smoke Exposure	Unknown	salus_in_arduis
-exposure	CTDC-PARTICIPANT-135717	CTDC-EXPOSURE-354917	Smoke Exposure	No	labor_ipse_voluptas
-exposure	CTDC-PARTICIPANT-531902	CTDC-EXPOSURE-806735	Asbestos Exposure	No	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-exposure	CTDC-PARTICIPANT-688972	CTDC-EXPOSURE-683799	Asbestos Exposure	No	scientia_et_labor
-exposure	CTDC-PARTICIPANT-493793	CTDC-EXPOSURE-993079	Asbestos Exposure	Yes	scientia_et_sapientia
-exposure	CTDC-PARTICIPANT-420250	CTDC-EXPOSURE-114290	Radiation Exposure	No	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-422072	CTDC-EXPOSURE-972377	Respirable Crystalline Silica Exposure	No	scientia_et_sapientia
-exposure	CTDC-PARTICIPANT-686959	CTDC-EXPOSURE-423979	Radon Exposure	Unknown	salus_in_arduis
-exposure	CTDC-PARTICIPANT-745238	CTDC-EXPOSURE-814916	Respirable Crystalline Silica Exposure	No	barba_crescit_caput_nescit
-exposure	CTDC-PARTICIPANT-368623	CTDC-EXPOSURE-548606	Smokeless Tobacco Exposure	Yes	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-819882	CTDC-EXPOSURE-441238	Asbestos Exposure	Unknown	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-537354	CTDC-EXPOSURE-474190	Smokeless Tobacco Exposure	Unknown	scientia_imperii_decus_et_tutamen
-exposure	CTDC-PARTICIPANT-671203	CTDC-EXPOSURE-343204	Marijuana Smoke Exposure	No	e_causa_ignota
-exposure	CTDC-PARTICIPANT-318740	CTDC-EXPOSURE-165680	Smokeless Tobacco Exposure	Unknown	e_causa_ignota
-exposure	CTDC-PARTICIPANT-630078	CTDC-EXPOSURE-367209	Chemical Exposure	Unknown	scientia_et_labor
-exposure	CTDC-PARTICIPANT-130166	CTDC-EXPOSURE-792896	Respirable Crystalline Silica Exposure	No	barba_crescit_caput_nescit
-exposure	CTDC-PARTICIPANT-762786	CTDC-EXPOSURE-229624	Radiation Exposure	No	saltus_in_demonstrando
-exposure	CTDC-PARTICIPANT-676074	CTDC-EXPOSURE-188699	Asbestos Exposure	Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra
-exposure	CTDC-PARTICIPANT-280306	CTDC-EXPOSURE-108567	Marijuana Smoke Exposure	Unknown	e_causa_ignota
-exposure	CTDC-PARTICIPANT-124747	CTDC-EXPOSURE-496619	Wood Dust Exposure	Unknown	salus_in_arduis
-exposure	CTDC-PARTICIPANT-232808	CTDC-EXPOSURE-204016	Respirable Crystalline Silica Exposure	Unknown	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-610732	CTDC-EXPOSURE-407005	Smoke Exposure	No	e_causa_ignota
-exposure	CTDC-PARTICIPANT-534834	CTDC-EXPOSURE-946529	Marijuana Smoke Exposure	Yes	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-109324	CTDC-EXPOSURE-695204	Smokeless Tobacco Exposure	Unknown	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-686871	CTDC-EXPOSURE-148182	Respirable Crystalline Silica Exposure	Unknown	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-725797	CTDC-EXPOSURE-681813	Asbestos Exposure	Unknown	pace_tua
-exposure	CTDC-PARTICIPANT-431547	CTDC-EXPOSURE-865601	Respirable Crystalline Silica Exposure	Yes	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-exposure	CTDC-PARTICIPANT-737688	CTDC-EXPOSURE-496414	Marijuana Smoke Exposure	Unknown	scientia_imperii_decus_et_tutamen
-exposure	CTDC-PARTICIPANT-798930	CTDC-EXPOSURE-679023	Respirable Crystalline Silica Exposure	Yes	scientiae_cedit_mare
-exposure	CTDC-PARTICIPANT-544945	CTDC-EXPOSURE-410360	Radiation Exposure	No	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-412997	CTDC-EXPOSURE-403608	Respirable Crystalline Silica Exposure	Yes	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-exposure	CTDC-PARTICIPANT-217787	CTDC-EXPOSURE-623263	Tobacco Related Exposure	Yes	scientia_et_sapientia
-exposure	CTDC-PARTICIPANT-431131	CTDC-EXPOSURE-585942	Wood Dust Exposure	No	nascentes_morimur_finisque_ab_origine_pendet
-exposure	CTDC-PARTICIPANT-620193	CTDC-EXPOSURE-581142	Smokeless Tobacco Exposure	No	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-967614	CTDC-EXPOSURE-647967	Marijuana Smoke Exposure	No	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-507847	CTDC-EXPOSURE-374906	Smoke Exposure	No	damnant_quod_non_intellegunt
-exposure	CTDC-PARTICIPANT-231704	CTDC-EXPOSURE-536711	Tobacco Related Exposure	Unknown	e_causa_ignota
-exposure	CTDC-PARTICIPANT-936588	CTDC-EXPOSURE-548731	Marijuana Smoke Exposure	Yes	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-365897	CTDC-EXPOSURE-681178	Smoke Exposure	No	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-605467	CTDC-EXPOSURE-467376	Asbestos Exposure	Unknown	damnant_quod_non_intellegunt
-exposure	CTDC-PARTICIPANT-568155	CTDC-EXPOSURE-828164	Chemical Exposure	Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-exposure	CTDC-PARTICIPANT-500573	CTDC-EXPOSURE-895149	Chemical Exposure	No	a_bene_placito
-exposure	CTDC-PARTICIPANT-218943	CTDC-EXPOSURE-852448	Respirable Crystalline Silica Exposure	Yes	Gallia_est_omnis_divisa_in_partes_tres
-exposure	CTDC-PARTICIPANT-731379	CTDC-EXPOSURE-577737	Tobacco Related Exposure	Unknown	cacatum_non_est_pictum
-exposure	CTDC-PARTICIPANT-943853	CTDC-EXPOSURE-636919	Tobacco Related Exposure	Unknown	haec_olim_meminisse_iuvabit
-exposure	CTDC-PARTICIPANT-377218	CTDC-EXPOSURE-613826	Chemical Exposure	Unknown	e_causa_ignota
-exposure	CTDC-PARTICIPANT-159140	CTDC-EXPOSURE-303987	Radon Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
-exposure	CTDC-PARTICIPANT-102685	CTDC-EXPOSURE-942025	Tobacco Related Exposure	Yes	e_causa_ignota
-exposure	CTDC-PARTICIPANT-954625	CTDC-EXPOSURE-494310	Smoke Exposure	Yes	e_causa_ignota
-exposure	CTDC-PARTICIPANT-477013	CTDC-EXPOSURE-165748	Respirable Crystalline Silica Exposure	No	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-719737	CTDC-EXPOSURE-989068	Radiation Exposure	Unknown	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-980808	CTDC-EXPOSURE-298118	Chemical Exposure	Unknown	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-126991	CTDC-EXPOSURE-421735	Radiation Exposure	Unknown	cacatum_non_est_pictum
-exposure	CTDC-PARTICIPANT-423143	CTDC-EXPOSURE-513695	Respirable Crystalline Silica Exposure	No	nascentes_morimur_finisque_ab_origine_pendet
-exposure	CTDC-PARTICIPANT-960326	CTDC-EXPOSURE-596327	Asbestos Exposure	Yes	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-836476	CTDC-EXPOSURE-174094	Wood Dust Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
-exposure	CTDC-PARTICIPANT-468840	CTDC-EXPOSURE-836740	Wood Dust Exposure	Unknown	a_bene_placito
-exposure	CTDC-PARTICIPANT-717020	CTDC-EXPOSURE-794151	Tobacco Related Exposure	Yes	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-686907	Respirable Crystalline Silica Exposure	Yes	a_bene_placito
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-997783	Tobacco Related Exposure	No	a_bene_placito
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-965872	Radiation Exposure	Unknown	imperium_in_imperio
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-154607	Tobacco Related Exposure	Unknown	cacatum_non_est_pictum
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-822677	Asbestos Exposure	No	scientia_imperii_decus_et_tutamen
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-527318	Smoke Exposure	Unknown	imperium_in_imperio
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-406974	Smoke Exposure	Unknown	e_causa_ignota
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-979740	Radiation Exposure	Yes	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-754398	Wood Dust Exposure	Unknown	scientiae_cedit_mare
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-322136	Marijuana Smoke Exposure	Unknown	scientiae_cedit_mare
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-289041	Asbestos Exposure	No	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-806813	Tobacco Related Exposure	No	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-527915	Respirable Crystalline Silica Exposure	No	damnant_quod_non_intellegunt
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-226132	Smoke Exposure	Unknown	cacatum_non_est_pictum
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-600785	Chemical Exposure	Yes	nascentes_morimur_finisque_ab_origine_pendet
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-203760	Marijuana Smoke Exposure	Yes	a_bene_placito
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-141314	Radiation Exposure	No	Macte_animo_Generose_puer_sic_itur_ad_astra
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-474010	Smokeless Tobacco Exposure	Unknown	faber_est_suae_quisque_fortunae
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-871037	Smokeless Tobacco Exposure	Yes	labor_ipse_voluptas
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-253597	Wood Dust Exposure	Yes	sapiens_qui_prospicit
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-889620	Marijuana Smoke Exposure	Unknown	Obedientia_civium_urbis_felicitas
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-888662	Respirable Crystalline Silica Exposure	No	nascentes_morimur_finisque_ab_origine_pendet
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-954016	Respirable Crystalline Silica Exposure	No	imperium_in_imperio
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-116432	Respirable Crystalline Silica Exposure	Yes	a_bene_placito
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-109609	Wood Dust Exposure	Unknown	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-626931	Smokeless Tobacco Exposure	Yes	barba_crescit_caput_nescit
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-791561	Smoke Exposure	Unknown	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-251439	Asbestos Exposure	Yes	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-997055	Respirable Crystalline Silica Exposure	No	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-325061	Tobacco Related Exposure	Yes	scientia_et_sapientia
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-959812	Tobacco Related Exposure	Yes	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-151934	Wood Dust Exposure	No	a_bene_placito
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-981351	Smoke Exposure	Yes	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-514265	Radon Exposure	No	imperium_in_imperio
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-266504	Radiation Exposure	Unknown	scientia,_aere_perennius
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-900547	Wood Dust Exposure	Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-521029	Radon Exposure	Yes	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-305958	Smokeless Tobacco Exposure	No	id_quod_plerumque_accidit
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-191533	Chemical Exposure	Yes	damnant_quod_non_intellegunt
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-769043	Tobacco Related Exposure	Yes	e_causa_ignota
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-259577	Tobacco Related Exposure	No	nanos_gigantum_humeris_insidentes
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-822746	Asbestos Exposure	Yes	pace_tua
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-882098	Marijuana Smoke Exposure	Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-491942	Marijuana Smoke Exposure	Yes	barba_crescit_caput_nescit
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-609434	Radon Exposure	Yes	scientiae_et_patriae
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-411924	Wood Dust Exposure	No	saltus_in_demonstrando
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-476444	Asbestos Exposure	No	sapiens_qui_prospicit
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-206284	Radiation Exposure	Unknown	Gallia_est_omnis_divisa_in_partes_tres
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-504441	Radiation Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-118332	Asbestos Exposure	Yes	e_causa_ignota
-exposure	CTDC-PARTICIPANT-412877	CTDC-EXPOSURE-957412	Radiation Exposure	Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-646708	CTDC-EXPOSURE-829638	Marijuana Smoke Exposure	No	e_causa_ignota
+exposure	CTDC-PARTICIPANT-376581	CTDC-EXPOSURE-382454	Tobacco Related Exposure	Yes	e_causa_ignota
+exposure	CTDC-PARTICIPANT-788868	CTDC-EXPOSURE-538962	Marijuana Smoke Exposure	Yes	faber_est_suae_quisque_fortunae
+exposure	CTDC-PARTICIPANT-213235	CTDC-EXPOSURE-642170	Wood Dust Exposure	Yes	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-563942	CTDC-EXPOSURE-976764	Radon Exposure	No	scientia_et_labor
+exposure	CTDC-PARTICIPANT-225405	CTDC-EXPOSURE-372854	Tobacco Related Exposure	No	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-601918	CTDC-EXPOSURE-929186	Marijuana Smoke Exposure	Yes	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-936290	CTDC-EXPOSURE-323562	Wood Dust Exposure	Unknown	Obedientia_civium_urbis_felicitas
+exposure	CTDC-PARTICIPANT-234075	CTDC-EXPOSURE-108649	Tobacco Related Exposure	Yes	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-151055	CTDC-EXPOSURE-416559	Respirable Crystalline Silica Exposure	Yes	nascentes_morimur_finisque_ab_origine_pendet
+exposure	CTDC-PARTICIPANT-989039	CTDC-EXPOSURE-243065	Radiation Exposure	Unknown	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-762076	CTDC-EXPOSURE-552787	Chemical Exposure	Yes	saltus_in_demonstrando
+exposure	CTDC-PARTICIPANT-905972	CTDC-EXPOSURE-650623	Wood Dust Exposure	Unknown	e_causa_ignota
+exposure	CTDC-PARTICIPANT-798178	CTDC-EXPOSURE-746793	Smokeless Tobacco Exposure	Yes	e_causa_ignota
+exposure	CTDC-PARTICIPANT-766840	CTDC-EXPOSURE-295766	Wood Dust Exposure	Yes	faber_est_suae_quisque_fortunae
+exposure	CTDC-PARTICIPANT-589737	CTDC-EXPOSURE-303804	Chemical Exposure	No	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-932260	CTDC-EXPOSURE-781678	Wood Dust Exposure	Unknown	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-726434	CTDC-EXPOSURE-802396	Respirable Crystalline Silica Exposure	No	pace_tua
+exposure	CTDC-PARTICIPANT-833239	CTDC-EXPOSURE-116568	Smoke Exposure	Yes	Gallia_est_omnis_divisa_in_partes_tres
+exposure	CTDC-PARTICIPANT-751038	CTDC-EXPOSURE-975121	Chemical Exposure	No	imperium_in_imperio
+exposure	CTDC-PARTICIPANT-262760	CTDC-EXPOSURE-374549	Asbestos Exposure	Unknown	a_bene_placito
+exposure	CTDC-PARTICIPANT-385548	CTDC-EXPOSURE-993842	Chemical Exposure	Yes	salus_in_arduis
+exposure	CTDC-PARTICIPANT-453325	CTDC-EXPOSURE-893699	Chemical Exposure	No	Obedientia_civium_urbis_felicitas
+exposure	CTDC-PARTICIPANT-792775	CTDC-EXPOSURE-288765	Radon Exposure	Yes	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-171242	CTDC-EXPOSURE-424289	Wood Dust Exposure	No	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-850080	CTDC-EXPOSURE-534418	Wood Dust Exposure	Unknown	barba_crescit_caput_nescit
+exposure	CTDC-PARTICIPANT-347023	CTDC-EXPOSURE-383412	Smoke Exposure	No	salus_in_arduis
+exposure	CTDC-PARTICIPANT-405269	CTDC-EXPOSURE-971064	Wood Dust Exposure	Yes	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+exposure	CTDC-PARTICIPANT-604793	CTDC-EXPOSURE-297480	Wood Dust Exposure	No	scientia,_aere_perennius
+exposure	CTDC-PARTICIPANT-802172	CTDC-EXPOSURE-500104	Radon Exposure	Unknown	haec_olim_meminisse_iuvabit
+exposure	CTDC-PARTICIPANT-445512	CTDC-EXPOSURE-659732	Marijuana Smoke Exposure	No	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-505872	CTDC-EXPOSURE-659130	Respirable Crystalline Silica Exposure	Unknown	scientiae_cedit_mare
+exposure	CTDC-PARTICIPANT-307934	CTDC-EXPOSURE-198142	Smoke Exposure	Yes	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-675604	CTDC-EXPOSURE-357932	Chemical Exposure	Unknown	e_causa_ignota
+exposure	CTDC-PARTICIPANT-544157	CTDC-EXPOSURE-680249	Respirable Crystalline Silica Exposure	Yes	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-823292	CTDC-EXPOSURE-937672	Smoke Exposure	No	imperium_in_imperio
+exposure	CTDC-PARTICIPANT-473639	CTDC-EXPOSURE-235256	Wood Dust Exposure	Yes	salus_in_arduis
+exposure	CTDC-PARTICIPANT-530027	CTDC-EXPOSURE-584628	Radiation Exposure	Yes	saltus_in_demonstrando
+exposure	CTDC-PARTICIPANT-103341	CTDC-EXPOSURE-873114	Chemical Exposure	Unknown	scientiae_cedit_mare
+exposure	CTDC-PARTICIPANT-968101	CTDC-EXPOSURE-903661	Radiation Exposure	No	labor_ipse_voluptas
+exposure	CTDC-PARTICIPANT-923203	CTDC-EXPOSURE-257815	Smokeless Tobacco Exposure	Yes	nascentes_morimur_finisque_ab_origine_pendet
+exposure	CTDC-PARTICIPANT-726624	CTDC-EXPOSURE-292833	Asbestos Exposure	Unknown	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-575612	CTDC-EXPOSURE-463293	Marijuana Smoke Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
+exposure	CTDC-PARTICIPANT-416642	CTDC-EXPOSURE-177180	Marijuana Smoke Exposure	Yes	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-769759	CTDC-EXPOSURE-939861	Smokeless Tobacco Exposure	No	haec_olim_meminisse_iuvabit
+exposure	CTDC-PARTICIPANT-623337	CTDC-EXPOSURE-677603	Smoke Exposure	Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+exposure	CTDC-PARTICIPANT-311912	CTDC-EXPOSURE-109721	Radon Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-225072	CTDC-EXPOSURE-293081	Tobacco Related Exposure	No	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-535236	CTDC-EXPOSURE-702067	Radiation Exposure	No	saltus_in_demonstrando
+exposure	CTDC-PARTICIPANT-378742	CTDC-EXPOSURE-771293	Marijuana Smoke Exposure	Unknown	scientia_et_sapientia
+exposure	CTDC-PARTICIPANT-631334	CTDC-EXPOSURE-457407	Wood Dust Exposure	Unknown	nascentes_morimur_finisque_ab_origine_pendet
+exposure	CTDC-PARTICIPANT-694179	CTDC-EXPOSURE-353821	Chemical Exposure	Unknown	nanos_gigantum_humeris_insidentes
+exposure	CTDC-PARTICIPANT-580513	CTDC-EXPOSURE-120616	Smokeless Tobacco Exposure	Yes	nascentes_morimur_finisque_ab_origine_pendet
+exposure	CTDC-PARTICIPANT-932287	CTDC-EXPOSURE-592033	Marijuana Smoke Exposure	Unknown	scientiae_cedit_mare
+exposure	CTDC-PARTICIPANT-645708	CTDC-EXPOSURE-195179	Radon Exposure	Unknown	e_causa_ignota
+exposure	CTDC-PARTICIPANT-814347	CTDC-EXPOSURE-649577	Smokeless Tobacco Exposure	Yes	scientia,_aere_perennius
+exposure	CTDC-PARTICIPANT-903074	CTDC-EXPOSURE-232687	Wood Dust Exposure	Yes	a_bene_placito
+exposure	CTDC-PARTICIPANT-151302	CTDC-EXPOSURE-549366	Radiation Exposure	No	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+exposure	CTDC-PARTICIPANT-497986	CTDC-EXPOSURE-386403	Smoke Exposure	No	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-441705	CTDC-EXPOSURE-356402	Asbestos Exposure	No	scientia_et_labor
+exposure	CTDC-PARTICIPANT-823434	CTDC-EXPOSURE-717994	Respirable Crystalline Silica Exposure	No	e_causa_ignota
+exposure	CTDC-PARTICIPANT-599483	CTDC-EXPOSURE-201818	Tobacco Related Exposure	Unknown	nanos_gigantum_humeris_insidentes
+exposure	CTDC-PARTICIPANT-910994	CTDC-EXPOSURE-857415	Tobacco Related Exposure	No	barba_crescit_caput_nescit
+exposure	CTDC-PARTICIPANT-849549	CTDC-EXPOSURE-392813	Smoke Exposure	No	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-774378	CTDC-EXPOSURE-191436	Radon Exposure	Unknown	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-845059	CTDC-EXPOSURE-706312	Tobacco Related Exposure	Yes	scientia_et_labor
+exposure	CTDC-PARTICIPANT-272138	CTDC-EXPOSURE-286360	Respirable Crystalline Silica Exposure	No	imperium_in_imperio
+exposure	CTDC-PARTICIPANT-960945	CTDC-EXPOSURE-647537	Asbestos Exposure	Yes	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-998237	CTDC-EXPOSURE-234799	Wood Dust Exposure	Yes	nanos_gigantum_humeris_insidentes
+exposure	CTDC-PARTICIPANT-916683	CTDC-EXPOSURE-847472	Wood Dust Exposure	Yes	faber_est_suae_quisque_fortunae
+exposure	CTDC-PARTICIPANT-456146	CTDC-EXPOSURE-514582	Smokeless Tobacco Exposure	No	scientia_et_sapientia
+exposure	CTDC-PARTICIPANT-756314	CTDC-EXPOSURE-630848	Chemical Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-116387	CTDC-EXPOSURE-621692	Wood Dust Exposure	Yes	scientia,_aere_perennius
+exposure	CTDC-PARTICIPANT-113426	CTDC-EXPOSURE-953808	Smokeless Tobacco Exposure	Unknown	scientiae_cedit_mare
+exposure	CTDC-PARTICIPANT-643836	CTDC-EXPOSURE-496028	Smokeless Tobacco Exposure	Yes	haec_olim_meminisse_iuvabit
+exposure	CTDC-PARTICIPANT-991705	CTDC-EXPOSURE-618310	Wood Dust Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
+exposure	CTDC-PARTICIPANT-987754	CTDC-EXPOSURE-341696	Tobacco Related Exposure	Yes	nascentes_morimur_finisque_ab_origine_pendet
+exposure	CTDC-PARTICIPANT-954096	CTDC-EXPOSURE-800841	Chemical Exposure	No	Obedientia_civium_urbis_felicitas
+exposure	CTDC-PARTICIPANT-361747	CTDC-EXPOSURE-281402	Smokeless Tobacco Exposure	No	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-891946	CTDC-EXPOSURE-227676	Marijuana Smoke Exposure	No	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-854142	CTDC-EXPOSURE-184492	Smoke Exposure	Yes	scientia_et_labor
+exposure	CTDC-PARTICIPANT-853652	CTDC-EXPOSURE-305663	Marijuana Smoke Exposure	Yes	pace_tua
+exposure	CTDC-PARTICIPANT-571761	CTDC-EXPOSURE-111137	Marijuana Smoke Exposure	Unknown	nanos_gigantum_humeris_insidentes
+exposure	CTDC-PARTICIPANT-388704	CTDC-EXPOSURE-258723	Smokeless Tobacco Exposure	Unknown	labor_ipse_voluptas
+exposure	CTDC-PARTICIPANT-645836	CTDC-EXPOSURE-806721	Radiation Exposure	Yes	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-962410	CTDC-EXPOSURE-171210	Smoke Exposure	Unknown	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-517155	CTDC-EXPOSURE-606514	Chemical Exposure	Unknown	salus_in_arduis
+exposure	CTDC-PARTICIPANT-349248	CTDC-EXPOSURE-121685	Marijuana Smoke Exposure	Unknown	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-664320	CTDC-EXPOSURE-512033	Respirable Crystalline Silica Exposure	No	scientia_et_labor
+exposure	CTDC-PARTICIPANT-296802	CTDC-EXPOSURE-892590	Tobacco Related Exposure	Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+exposure	CTDC-PARTICIPANT-744013	CTDC-EXPOSURE-939683	Chemical Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
+exposure	CTDC-PARTICIPANT-595534	CTDC-EXPOSURE-770731	Asbestos Exposure	Yes	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-493196	CTDC-EXPOSURE-577304	Radon Exposure	No	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-958242	CTDC-EXPOSURE-507258	Wood Dust Exposure	Unknown	scientia,_aere_perennius
+exposure	CTDC-PARTICIPANT-667194	CTDC-EXPOSURE-229619	Wood Dust Exposure	Unknown	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-399386	CTDC-EXPOSURE-894982	Respirable Crystalline Silica Exposure	Yes	Gallia_est_omnis_divisa_in_partes_tres
+exposure	CTDC-PARTICIPANT-549985	CTDC-EXPOSURE-416848	Marijuana Smoke Exposure	Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-643410	CTDC-EXPOSURE-132577	Radon Exposure	No	haec_olim_meminisse_iuvabit
+exposure	CTDC-PARTICIPANT-335492	CTDC-EXPOSURE-310383	Radiation Exposure	Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+exposure	CTDC-PARTICIPANT-144477	CTDC-EXPOSURE-694756	Radon Exposure	Unknown	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-329587	CTDC-EXPOSURE-901151	Wood Dust Exposure	Unknown	e_causa_ignota
+exposure	CTDC-PARTICIPANT-796503	CTDC-EXPOSURE-253938	Respirable Crystalline Silica Exposure	No	sapiens_qui_prospicit
+exposure	CTDC-PARTICIPANT-232988	CTDC-EXPOSURE-425269	Smokeless Tobacco Exposure	No	sapiens_qui_prospicit
+exposure	CTDC-PARTICIPANT-324141	CTDC-EXPOSURE-831598	Radiation Exposure	Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+exposure	CTDC-PARTICIPANT-204266	CTDC-EXPOSURE-135433	Smoke Exposure	Yes	saltus_in_demonstrando
+exposure	CTDC-PARTICIPANT-484691	CTDC-EXPOSURE-297454	Chemical Exposure	Yes	salus_in_arduis
+exposure	CTDC-PARTICIPANT-142506	CTDC-EXPOSURE-477105	Marijuana Smoke Exposure	Unknown	labor_ipse_voluptas
+exposure	CTDC-PARTICIPANT-710505	CTDC-EXPOSURE-965039	Smokeless Tobacco Exposure	No	scientia_et_sapientia
+exposure	CTDC-PARTICIPANT-415715	CTDC-EXPOSURE-593540	Smoke Exposure	Unknown	scientia_et_sapientia
+exposure	CTDC-PARTICIPANT-592470	CTDC-EXPOSURE-147934	Wood Dust Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-705444	CTDC-EXPOSURE-235164	Tobacco Related Exposure	Yes	imperium_in_imperio
+exposure	CTDC-PARTICIPANT-942009	CTDC-EXPOSURE-420262	Asbestos Exposure	No	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-699404	CTDC-EXPOSURE-695835	Radon Exposure	Unknown	a_bene_placito
+exposure	CTDC-PARTICIPANT-341932	CTDC-EXPOSURE-802130	Smoke Exposure	Yes	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-993554	CTDC-EXPOSURE-178433	Asbestos Exposure	Unknown	scientiae_cedit_mare
+exposure	CTDC-PARTICIPANT-852709	CTDC-EXPOSURE-780426	Smoke Exposure	Unknown	salus_in_arduis
+exposure	CTDC-PARTICIPANT-255469	CTDC-EXPOSURE-784549	Respirable Crystalline Silica Exposure	Yes	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-990542	CTDC-EXPOSURE-641976	Tobacco Related Exposure	Unknown	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-724801	CTDC-EXPOSURE-457965	Smokeless Tobacco Exposure	No	scientia_et_labor
+exposure	CTDC-PARTICIPANT-147445	CTDC-EXPOSURE-119805	Asbestos Exposure	Unknown	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-711417	CTDC-EXPOSURE-116945	Tobacco Related Exposure	Unknown	a_bene_placito
+exposure	CTDC-PARTICIPANT-617762	CTDC-EXPOSURE-297151	Radiation Exposure	Yes	pace_tua
+exposure	CTDC-PARTICIPANT-288235	CTDC-EXPOSURE-671265	Tobacco Related Exposure	No	imperium_in_imperio
+exposure	CTDC-PARTICIPANT-148409	CTDC-EXPOSURE-203423	Smokeless Tobacco Exposure	Yes	Obedientia_civium_urbis_felicitas
+exposure	CTDC-PARTICIPANT-117346	CTDC-EXPOSURE-618774	Radon Exposure	No	faber_est_suae_quisque_fortunae
+exposure	CTDC-PARTICIPANT-482899	CTDC-EXPOSURE-542506	Radiation Exposure	No	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-446227	CTDC-EXPOSURE-150789	Radon Exposure	Unknown	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-580128	CTDC-EXPOSURE-524693	Respirable Crystalline Silica Exposure	No	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-143698	CTDC-EXPOSURE-548820	Radiation Exposure	Yes	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-197270	CTDC-EXPOSURE-363469	Smokeless Tobacco Exposure	Yes	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-785681	CTDC-EXPOSURE-756106	Asbestos Exposure	Yes	scientia_et_labor
+exposure	CTDC-PARTICIPANT-988719	CTDC-EXPOSURE-530065	Smoke Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-105178	CTDC-EXPOSURE-718191	Chemical Exposure	Yes	Obedientia_civium_urbis_felicitas
+exposure	CTDC-PARTICIPANT-720001	CTDC-EXPOSURE-314534	Chemical Exposure	Yes	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-261239	CTDC-EXPOSURE-526501	Smoke Exposure	No	scientia_et_sapientia
+exposure	CTDC-PARTICIPANT-881273	CTDC-EXPOSURE-851748	Smoke Exposure	Unknown	nascentes_morimur_finisque_ab_origine_pendet
+exposure	CTDC-PARTICIPANT-262205	CTDC-EXPOSURE-313007	Asbestos Exposure	Unknown	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-944911	CTDC-EXPOSURE-217534	Smokeless Tobacco Exposure	Unknown	salus_in_arduis
+exposure	CTDC-PARTICIPANT-488616	CTDC-EXPOSURE-545623	Asbestos Exposure	No	labor_ipse_voluptas
+exposure	CTDC-PARTICIPANT-433621	CTDC-EXPOSURE-393382	Respirable Crystalline Silica Exposure	No	nanos_gigantum_humeris_insidentes
+exposure	CTDC-PARTICIPANT-286969	CTDC-EXPOSURE-960088	Radon Exposure	No	sapiens_qui_prospicit
+exposure	CTDC-PARTICIPANT-900563	CTDC-EXPOSURE-351983	Respirable Crystalline Silica Exposure	Yes	Obedientia_civium_urbis_felicitas
+exposure	CTDC-PARTICIPANT-793481	CTDC-EXPOSURE-769494	Respirable Crystalline Silica Exposure	No	scientia,_aere_perennius
+exposure	CTDC-PARTICIPANT-636487	CTDC-EXPOSURE-224819	Radiation Exposure	Unknown	haec_olim_meminisse_iuvabit
+exposure	CTDC-PARTICIPANT-289786	CTDC-EXPOSURE-391567	Smokeless Tobacco Exposure	Yes	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-465808	CTDC-EXPOSURE-448020	Smokeless Tobacco Exposure	Unknown	scientia_et_labor
+exposure	CTDC-PARTICIPANT-346202	CTDC-EXPOSURE-917692	Smoke Exposure	Unknown	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-690036	CTDC-EXPOSURE-185840	Tobacco Related Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-959881	CTDC-EXPOSURE-732172	Smokeless Tobacco Exposure	Unknown	nascentes_morimur_finisque_ab_origine_pendet
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-810022	Smokeless Tobacco Exposure	Yes	sapiens_qui_prospicit
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-391953	Asbestos Exposure	Unknown	haec_olim_meminisse_iuvabit
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-514182	Asbestos Exposure	Yes	haec_olim_meminisse_iuvabit
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-278097	Radon Exposure	Unknown	scientia_et_labor
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-466688	Radon Exposure	No	a_bene_placito
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-635501	Wood Dust Exposure	Unknown	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-433620	Smokeless Tobacco Exposure	No	sapiens_qui_prospicit
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-742796	Asbestos Exposure	No	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-959518	Asbestos Exposure	Yes	sapiens_qui_prospicit
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-624418	Wood Dust Exposure	No	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-484752	Smoke Exposure	No	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-646437	Radon Exposure	Unknown	pace_tua
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-386268	Radon Exposure	No	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-178678	Radon Exposure	Unknown	scientiae_cedit_mare
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-105701	Respirable Crystalline Silica Exposure	Yes	e_causa_ignota
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-396529	Respirable Crystalline Silica Exposure	Yes	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-326967	Wood Dust Exposure	Unknown	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-697228	Respirable Crystalline Silica Exposure	Yes	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-447080	Smokeless Tobacco Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-347924	Radon Exposure	Yes	Gallia_est_omnis_divisa_in_partes_tres
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-256117	Tobacco Related Exposure	No	e_causa_ignota
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-500886	Chemical Exposure	Unknown	scientia_et_labor
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-803446	Marijuana Smoke Exposure	Yes	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-965630	Smoke Exposure	Yes	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-622653	Tobacco Related Exposure	Yes	barba_crescit_caput_nescit
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-842452	Smokeless Tobacco Exposure	Unknown	scientia_et_labor
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-132859	Tobacco Related Exposure	No	scientia_et_sapientia
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-677776	Radon Exposure	Unknown	faber_est_suae_quisque_fortunae
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-415976	Smoke Exposure	Yes	salus_in_arduis
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-968898	Asbestos Exposure	Yes	pace_tua
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-579605	Chemical Exposure	Unknown	scientia_et_sapientia
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-848796	Chemical Exposure	No	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-668594	Smokeless Tobacco Exposure	Yes	scientia,_aere_perennius
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-369899	Wood Dust Exposure	Yes	faber_est_suae_quisque_fortunae
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-969577	Radiation Exposure	Unknown	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-822858	Chemical Exposure	Unknown	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-582245	Radon Exposure	Unknown	id_quod_plerumque_accidit
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-966446	Radon Exposure	Unknown	e_causa_ignota
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-610765	Chemical Exposure	No	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-245860	Smoke Exposure	Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-428701	Chemical Exposure	Unknown	Obedientia_civium_urbis_felicitas
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-426654	Tobacco Related Exposure	Unknown	faber_est_suae_quisque_fortunae
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-729598	Radiation Exposure	Unknown	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-466184	Smoke Exposure	Yes	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-666736	Chemical Exposure	No	sapiens_qui_prospicit
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-834244	Smoke Exposure	No	Gallia_est_omnis_divisa_in_partes_tres
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-205793	Chemical Exposure	No	scientia_imperii_decus_et_tutamen
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-473155	Radiation Exposure	No	damnant_quod_non_intellegunt
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-968626	Smokeless Tobacco Exposure	Yes	scientiae_et_patriae
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-344373	Radon Exposure	Yes	cacatum_non_est_pictum
+exposure	CTDC-PARTICIPANT-115675	CTDC-EXPOSURE-346956	Smokeless Tobacco Exposure	Unknown	scientia,_aere_perennius
