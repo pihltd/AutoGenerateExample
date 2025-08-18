@@ -26,9 +26,8 @@ jobs:
           repository: pihltd/AutoGenerateExample
           path: ./AutoGenerateExample
       - name: Run data generator
-        #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/configs/datagen_config_1.yml
-        run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/configs/datagen_config.yml
-
+        #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config_1.yml
+        run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config.yml
       - name: Commit and push
         run: |
           git config --global user.name 'Todd Pihl'
