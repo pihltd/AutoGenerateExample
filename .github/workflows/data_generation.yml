@@ -41,7 +41,7 @@ jobs:
           repository: CBIIT/bento-common
           path: ./bento-data-generator/bento
       - name: Checkout data model
-        uses: actions/checkout@${{ env.DATA_MODEL_BRANCH }}
+        uses: actions/checkout@$DATA_MODEL_BRANCH
         with:
           #repository: pihltd/AutoGenerateExample
           #path: ./AutoGenerateExample
