@@ -1,12 +1,20 @@
 name: DataGen
 on:
-  push: 
+  push:
+    # Be sure to set "branches" to the branch where a push will trigger the example file creation 
     branches: 
       - main
 env:
+  # CONFIG_DIR is the directory where the Bento Data Generator configuration file lives
   CONFIG_DIR: ./AutoGenerateExample/datagen_configs
+  # WORKING DIR is where GitHub Actions does its work.  This doesn't need to be changed, but can be
   WORKING_DIR: ./AutoGenerateExample
+  # DESTINATION_DIR is the repository directory where you want the completed example files placed
   DESTINATION_DIR: ./example_loadsheets
+  # REPOSITORY is the data model repository
+  REPOSITORY:  pihltd/AutoGenerateExample
+  # ZIPFILE is the name for the zip archive
+  ZIPFILE: ExampleSubmissionSheets
 
 jobs:
   build:
@@ -29,18 +37,22 @@ jobs:
       - name: Checkout data model
         uses: actions/checkout@main
         with:
-          repository: pihltd/AutoGenerateExample
+          #repository: pihltd/AutoGenerateExample
           #path: ./AutoGenerateExample
+          repository: ${{ env.REPOSITORY }}
           path: ${{ env.WORKING_DIR }}
       - name: Run data generator
         run: python ./bento-data-generator/bento-synthetic-data-generator.py $CONFIG_DIR/datagen_config_1.yml
         #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config_1.yml
         #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config.yml
+        # PUT ZIP STUFF HERE
+      - name:  Zip the generated files
+        run: zip -r ${{ ZIPFILE }}.zip  ${{ env.WORKING_DIR }}/*.tsv
       - name: Commit and push
         run: |
           git config --global user.name 'Todd Pihl'
           git config --global user.email 'todd.pihl@nih.gov'
-          git add $DESTINATION_DIR/*
+          git add $DESTINATION_DIR/*.zip
           git commit -m "Auto Data Generation" 
           git push
         #working-directory: ./AutoGenerateExample
