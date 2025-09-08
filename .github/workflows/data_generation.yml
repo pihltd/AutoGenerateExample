@@ -47,7 +47,7 @@ jobs:
         #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config.yml
         # PUT ZIP STUFF HERE
       - name:  Zip the generated files
-        run: zip -r $ZIP_FILE.zip . -i  $WORKING_DIR/*.tsv
+        run: zip -r $DESTINATION_DIR/$ZIP_FILE.zip . -i  $WORKING_DIR/*.tsv
       - name: Commit and push
         run: |
           git config --global user.name 'Todd Pihl'
