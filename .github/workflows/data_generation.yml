@@ -16,7 +16,7 @@ env:
   # ZIP_FILE is the name for the zip archive
   ZIP_FILE: ExampleSubmissionSheets
   # DATA_MODEL_BRANCH is the branch you wish to use to generate example files
-  DATA_MODEL_BRANCH: main
+  DATA_MODEL_BRANCH: 'actions/checkout@main'
   # The next two entries are the commiter name and email (Required by GitHub)
   USER_NAME: 'Todd Pihl'
   USER_EMAIL: 'todd.pihl@gmail.com'
@@ -36,12 +36,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r ./bento-data-generator/requirements.txt
       - name: Checkout bento common
-        uses: actions/checkout@master
+        #uses: actions/checkout@master
+        uses: ${{ env.DATA_MODEL_BRANCH }}
         with:
           repository: CBIIT/bento-common
           path: ./bento-data-generator/bento
       - name: Checkout data model
-        uses: actions/checkout@$DATA_MODEL_BRANCH
+        uses: actions/checkout@main
         with:
           #repository: pihltd/AutoGenerateExample
           #path: ./AutoGenerateExample
