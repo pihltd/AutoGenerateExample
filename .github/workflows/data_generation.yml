@@ -15,7 +15,18 @@ env:
   REPOSITORY:  pihltd/AutoGenerateExample
   # ZIP_FILE is the name for the zip archive
   ZIP_FILE: ExampleSubmissionSheets
-
+  # DATA_MODEL_BRANCH is the branch you wish to use to generate example files
+  DATA_MODEL_BRANCH: main
+  # The next two entries are the commiter name and email (Required by GitHub)
+  USER_NAME: Todd Pihl
+  USER_EMAIL: todd.pihl@gmail.com
+  # The commit message
+  COMMIT: Automated Submission Example Generation
+#
+#
+#  Nothing below should need to be changed
+#
+#
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -35,7 +46,7 @@ jobs:
           repository: CBIIT/bento-common
           path: ./bento-data-generator/bento
       - name: Checkout data model
-        uses: actions/checkout@main
+        uses: actions/checkout@${{ env.DATA_MODEL_BRANCH }}
         with:
           #repository: pihltd/AutoGenerateExample
           #path: ./AutoGenerateExample
@@ -50,10 +61,10 @@ jobs:
         run: zip -r $WORKING_DIR/$DESTINATION_DIR/$ZIP_FILE.zip . --junk-paths --include  $WORKING_DIR/*.tsv
       - name: Commit and push
         run: |
-          git config --global user.name 'Todd Pihl'
-          git config --global user.email 'todd.pihl@nih.gov'
+          git config --global user.name ${{ USER_NAME }}
+          git config --global user.email ${{ USER_EMAIL }}
           git add ./$DESTINATION_DIR/*.zip
-          git commit -m "Auto Data Generation" 
+          git commit -m $COMMIT
           git push
         #working-directory: ./AutoGenerateExample
         working-directory: ${{ env.WORKING_DIR }}
