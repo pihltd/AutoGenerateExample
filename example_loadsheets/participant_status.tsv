@@ -1,151 +1,151 @@
 type	participant.participant_id	participant_status_record_id	survival_status	primary_cause_of_death	off_study	off_study_reason	crdc_id
-participant_status	CTDC-PARTICIPANT-402119	CTDC-PARTICIPANT-STATUS-512783	Alive with No Evidence of Disease	labor_ipse_voluptas	Yes	PREGNANCY	Obedientia_civium_urbis_felicitas
-participant_status	CTDC-PARTICIPANT-151675	CTDC-PARTICIPANT-STATUS-285705	Alive with Disease	labor_ipse_voluptas	Yes	RANDOMIZED BY MISTAKE	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-629019	CTDC-PARTICIPANT-STATUS-429569	Alive with No Evidence of Disease	scientia_imperii_decus_et_tutamen	Unknown	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	pace_tua
-participant_status	CTDC-PARTICIPANT-365403	CTDC-PARTICIPANT-STATUS-226504	Alive with Disease	pace_tua	Unknown	DEATH	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-990203	CTDC-PARTICIPANT-STATUS-463414	Dead	labor_ipse_voluptas	Yes	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	sapiens_qui_prospicit
-participant_status	CTDC-PARTICIPANT-548731	CTDC-PARTICIPANT-STATUS-624990	UNKNOWN	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Yes	RANDOMIZED BY MISTAKE	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-441129	CTDC-PARTICIPANT-STATUS-419707	Alive, Disease Status Unknown	scientia,_aere_perennius	Yes	WITHDRAWAL OF ASSENT	imperium_in_imperio
-participant_status	CTDC-PARTICIPANT-890464	CTDC-PARTICIPANT-STATUS-152453	Alive with No Evidence of Disease	salus_in_arduis	No	WITHDRAWAL OF ASSENT	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-583339	CTDC-PARTICIPANT-STATUS-290828	Alive with Disease	labor_ipse_voluptas	Unknown	FAILURE TO MEET RANDOMIZATION CRITERIA	haec_olim_meminisse_iuvabit
-participant_status	CTDC-PARTICIPANT-940507	CTDC-PARTICIPANT-STATUS-945622	Alive, Disease Status Unknown	nanos_gigantum_humeris_insidentes	No	NON-COMPLIANCE WITH NON-STUDY DEVICE	e_causa_ignota
-participant_status	CTDC-PARTICIPANT-602460	CTDC-PARTICIPANT-STATUS-914979	Alive, Disease Status Unknown	Gallia_est_omnis_divisa_in_partes_tres	Yes	WITHDRAWAL BY PARENT/GUARDIAN	barba_crescit_caput_nescit
-participant_status	CTDC-PARTICIPANT-318257	CTDC-PARTICIPANT-STATUS-140985	ALIVE	saltus_in_demonstrando	Unknown	PARTNER PREGNANCY	haec_olim_meminisse_iuvabit
-participant_status	CTDC-PARTICIPANT-381281	CTDC-PARTICIPANT-STATUS-304253	UNKNOWN	cacatum_non_est_pictum	No	PROTOCOL VIOLATION	damnant_quod_non_intellegunt
-participant_status	CTDC-PARTICIPANT-782198	CTDC-PARTICIPANT-STATUS-462946	DEAD	id_quod_plerumque_accidit	Unknown	NO LONGER CLINICALLY BENEFITING	barba_crescit_caput_nescit
-participant_status	CTDC-PARTICIPANT-444671	CTDC-PARTICIPANT-STATUS-599784	Alive, Disease Status Unknown	sapiens_qui_prospicit	Yes	FAILURE TO MEET CONTINUATION CRITERIA	scientia_et_labor
-participant_status	CTDC-PARTICIPANT-687014	CTDC-PARTICIPANT-STATUS-727277	Dead	Macte_animo_Generose_puer_sic_itur_ad_astra	No	NON-COMPLIANCE WITH STUDY DEVICE	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-240062	CTDC-PARTICIPANT-STATUS-991476	ALIVE	scientia_et_labor	Yes	SITE TERMINATED BY SPONSOR	labor_ipse_voluptas
-participant_status	CTDC-PARTICIPANT-218804	CTDC-PARTICIPANT-STATUS-129889	DEAD	Macte_animo_Generose_puer_sic_itur_ad_astra	Yes	LOST TO FOLLOW-UP	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-220826	CTDC-PARTICIPANT-STATUS-375396	Alive with No Evidence of Disease	saltus_in_demonstrando	No	FAILURE TO MEET RANDOMIZATION CRITERIA	imperium_in_imperio
-participant_status	CTDC-PARTICIPANT-878381	CTDC-PARTICIPANT-STATUS-551184	UNKNOWN	nanos_gigantum_humeris_insidentes	No	SITE TERMINATED BY SPONSOR	a_bene_placito
-participant_status	CTDC-PARTICIPANT-805733	CTDC-PARTICIPANT-STATUS-248339	UNKNOWN	scientia,_aere_perennius	No	NON-COMPLIANCE WITH NON-STUDY DEVICE	pace_tua
-participant_status	CTDC-PARTICIPANT-288875	CTDC-PARTICIPANT-STATUS-176998	Alive with No Evidence of Disease	sapiens_qui_prospicit	No	REQUIRES PROHIBITED MEDICATION	salus_in_arduis
-participant_status	CTDC-PARTICIPANT-839393	CTDC-PARTICIPANT-STATUS-920007	Alive, Disease Status Unknown	barba_crescit_caput_nescit	Yes	PROGRESSIVE DISEASE	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-274019	CTDC-PARTICIPANT-STATUS-161146	ALIVE	scientia_et_labor	Yes	RANDOMIZED BY MISTAKE WITHOUT STUDY TREATMENT	imperium_in_imperio
-participant_status	CTDC-PARTICIPANT-460812	CTDC-PARTICIPANT-STATUS-231040	UNKNOWN	id_quod_plerumque_accidit	Unknown	STUDY TERMINATED BY SPONSOR	faber_est_suae_quisque_fortunae
-participant_status	CTDC-PARTICIPANT-369123	CTDC-PARTICIPANT-STATUS-474247	ALIVE	scientia,_aere_perennius	Unknown	RANDOMIZED BY MISTAKE	a_bene_placito
-participant_status	CTDC-PARTICIPANT-841081	CTDC-PARTICIPANT-STATUS-291078	Alive with Disease	Obedientia_civium_urbis_felicitas	Yes	NON-COMPLIANCE WITH NON-STUDY DEVICE	cacatum_non_est_pictum
-participant_status	CTDC-PARTICIPANT-140923	CTDC-PARTICIPANT-STATUS-702260	DEAD	imperium_in_imperio	No	PREGNANCY	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-553538	CTDC-PARTICIPANT-STATUS-578406	UNKNOWN	e_causa_ignota	No	PARTNER PREGNANCY	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-170639	CTDC-PARTICIPANT-STATUS-582929	ALIVE	e_causa_ignota	Unknown	NO LONGER CLINICALLY BENEFITING	a_bene_placito
-participant_status	CTDC-PARTICIPANT-325246	CTDC-PARTICIPANT-STATUS-286318	ALIVE	saltus_in_demonstrando	No	LOST TO FOLLOW-UP	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-571977	CTDC-PARTICIPANT-STATUS-717914	DEAD	Obedientia_civium_urbis_felicitas	No	NO LONGER CLINICALLY BENEFITING	sapiens_qui_prospicit
-participant_status	CTDC-PARTICIPANT-845102	CTDC-PARTICIPANT-STATUS-368773	Alive, Disease Status Unknown	saltus_in_demonstrando	Unknown	NEVER DOSED	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-850860	CTDC-PARTICIPANT-STATUS-550395	Alive with Disease	pace_tua	Unknown	PREGNANCY	saltus_in_demonstrando
-participant_status	CTDC-PARTICIPANT-867691	CTDC-PARTICIPANT-STATUS-189141	UNKNOWN	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Yes	OTHER	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-411607	CTDC-PARTICIPANT-STATUS-797439	Alive, Disease Status Unknown	sapiens_qui_prospicit	No	PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET	imperium_in_imperio
-participant_status	CTDC-PARTICIPANT-711902	CTDC-PARTICIPANT-STATUS-955581	UNKNOWN	scientia,_aere_perennius	No	DISEASE RELAPSE	e_causa_ignota
-participant_status	CTDC-PARTICIPANT-147587	CTDC-PARTICIPANT-STATUS-127703	Dead	saltus_in_demonstrando	Yes	DEATH	a_bene_placito
-participant_status	CTDC-PARTICIPANT-933280	CTDC-PARTICIPANT-STATUS-552209	Alive, Disease Status Unknown	faber_est_suae_quisque_fortunae	Yes	SCREEN FAILURE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-253412	CTDC-PARTICIPANT-STATUS-505991	DEAD	Obedientia_civium_urbis_felicitas	No	WITHDRAWAL BY SUBJECT	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-670919	CTDC-PARTICIPANT-STATUS-534863	Dead	sapiens_qui_prospicit	Yes	PROTOCOL VIOLATION	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-358553	CTDC-PARTICIPANT-STATUS-910027	Alive, Disease Status Unknown	scientia_imperii_decus_et_tutamen	No	PROTOCOL VIOLATION	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-622035	CTDC-PARTICIPANT-STATUS-839840	Alive, Disease Status Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Unknown	SCREEN FAILURE	e_causa_ignota
-participant_status	CTDC-PARTICIPANT-912931	CTDC-PARTICIPANT-STATUS-759827	UNKNOWN	nascentes_morimur_finisque_ab_origine_pendet	No	PREGNANCY	scientia_et_sapientia
-participant_status	CTDC-PARTICIPANT-867147	CTDC-PARTICIPANT-STATUS-770127	Alive with Disease	barba_crescit_caput_nescit	Unknown	RECOVERY	saltus_in_demonstrando
-participant_status	CTDC-PARTICIPANT-792285	CTDC-PARTICIPANT-STATUS-431940	Alive with No Evidence of Disease	barba_crescit_caput_nescit	Unknown	WITHDRAWAL BY SUBJECT	barba_crescit_caput_nescit
-participant_status	CTDC-PARTICIPANT-263539	CTDC-PARTICIPANT-STATUS-565532	ALIVE	scientia,_aere_perennius	Yes	WITHDRAWAL OF CONSENT	a_bene_placito
-participant_status	CTDC-PARTICIPANT-919487	CTDC-PARTICIPANT-STATUS-256870	Alive, Disease Status Unknown	salus_in_arduis	Unknown	SITE TERMINATED BY SPONSOR	sapiens_qui_prospicit
-participant_status	CTDC-PARTICIPANT-613174	CTDC-PARTICIPANT-STATUS-381831	UNKNOWN	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Unknown	PROTOCOL VIOLATION	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-683053	CTDC-PARTICIPANT-STATUS-933301	Alive with No Evidence of Disease	scientiae_et_patriae	No	OTHER	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-557005	CTDC-PARTICIPANT-STATUS-562188	UNKNOWN	scientia_imperii_decus_et_tutamen	Yes	PROTOCOL VIOLATION	nanos_gigantum_humeris_insidentes
-participant_status	CTDC-PARTICIPANT-749246	CTDC-PARTICIPANT-STATUS-277733	Dead	haec_olim_meminisse_iuvabit	No	WITHDRAWAL BY PARENT/GUARDIAN	labor_ipse_voluptas
-participant_status	CTDC-PARTICIPANT-760264	CTDC-PARTICIPANT-STATUS-600151	Alive with No Evidence of Disease	nanos_gigantum_humeris_insidentes	No	TECHNICAL PROBLEMS	haec_olim_meminisse_iuvabit
-participant_status	CTDC-PARTICIPANT-680193	CTDC-PARTICIPANT-STATUS-893388	DEAD	faber_est_suae_quisque_fortunae	Unknown	STUDY TERMINATED BY SPONSOR	barba_crescit_caput_nescit
-participant_status	CTDC-PARTICIPANT-468938	CTDC-PARTICIPANT-STATUS-134271	Alive with Disease	cacatum_non_est_pictum	Unknown	WITHDRAWAL BY SUBJECT	sapiens_qui_prospicit
-participant_status	CTDC-PARTICIPANT-529471	CTDC-PARTICIPANT-STATUS-511335	Alive, Disease Status Unknown	damnant_quod_non_intellegunt	Unknown	WITHDRAWAL BY SUBJECT	labor_ipse_voluptas
-participant_status	CTDC-PARTICIPANT-205308	CTDC-PARTICIPANT-STATUS-761180	DEAD	scientia_et_sapientia	No	NO LONGER CLINICALLY BENEFITING	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-950769	CTDC-PARTICIPANT-STATUS-208417	Alive with No Evidence of Disease	labor_ipse_voluptas	No	WITHDRAWAL BY SUBJECT	Gallia_est_omnis_divisa_in_partes_tres
-participant_status	CTDC-PARTICIPANT-401983	CTDC-PARTICIPANT-STATUS-641468	Alive with No Evidence of Disease	salus_in_arduis	No	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	scientia_et_labor
-participant_status	CTDC-PARTICIPANT-954648	CTDC-PARTICIPANT-STATUS-313694	ALIVE	cacatum_non_est_pictum	Unknown	LACK OF EFFICACY	scientia_et_sapientia
-participant_status	CTDC-PARTICIPANT-146813	CTDC-PARTICIPANT-STATUS-996341	UNKNOWN	e_causa_ignota	No	NON-COMPLIANCE WITH STUDY SCHEDULE	scientia_et_sapientia
-participant_status	CTDC-PARTICIPANT-671334	CTDC-PARTICIPANT-STATUS-700836	Alive, Disease Status Unknown	nascentes_morimur_finisque_ab_origine_pendet	No	LOGISTICAL PROBLEM	Gallia_est_omnis_divisa_in_partes_tres
-participant_status	CTDC-PARTICIPANT-444772	CTDC-PARTICIPANT-STATUS-604786	Dead	barba_crescit_caput_nescit	Unknown	FAILURE TO MEET CONTINUATION CRITERIA	damnant_quod_non_intellegunt
-participant_status	CTDC-PARTICIPANT-161959	CTDC-PARTICIPANT-STATUS-558591	DEAD	scientiae_cedit_mare	No	LOST TO FOLLOW-UP	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-247094	CTDC-PARTICIPANT-STATUS-790645	Dead	scientiae_et_patriae	Yes	NEVER DOSED	Macte_animo_Generose_puer_sic_itur_ad_astra
-participant_status	CTDC-PARTICIPANT-844544	CTDC-PARTICIPANT-STATUS-607760	Alive, Disease Status Unknown	labor_ipse_voluptas	Unknown	PROTOCOL DEVIATION	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-279777	CTDC-PARTICIPANT-STATUS-510920	Alive with No Evidence of Disease	labor_ipse_voluptas	No	RANDOMIZED BY MISTAKE WITH STUDY TREATMENT	barba_crescit_caput_nescit
-participant_status	CTDC-PARTICIPANT-895481	CTDC-PARTICIPANT-STATUS-188565	Dead	scientia_imperii_decus_et_tutamen	No	STUDY TERMINATED BY SPONSOR	Gallia_est_omnis_divisa_in_partes_tres
-participant_status	CTDC-PARTICIPANT-947821	CTDC-PARTICIPANT-STATUS-432469	Alive with Disease	imperium_in_imperio	Yes	RECOVERY	scientia,_aere_perennius
-participant_status	CTDC-PARTICIPANT-517558	CTDC-PARTICIPANT-STATUS-694660	ALIVE	haec_olim_meminisse_iuvabit	No	PREGNANCY	scientia_et_labor
-participant_status	CTDC-PARTICIPANT-796343	CTDC-PARTICIPANT-STATUS-744831	ALIVE	haec_olim_meminisse_iuvabit	Unknown	TECHNICAL PROBLEMS	labor_ipse_voluptas
-participant_status	CTDC-PARTICIPANT-852787	CTDC-PARTICIPANT-STATUS-912955	ALIVE	nanos_gigantum_humeris_insidentes	Unknown	RANDOMIZED BY MISTAKE WITH STUDY TREATMENT	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-112449	CTDC-PARTICIPANT-STATUS-453262	ALIVE	cacatum_non_est_pictum	No	PROTOCOL DEVIATION	scientia_et_sapientia
-participant_status	CTDC-PARTICIPANT-636609	CTDC-PARTICIPANT-STATUS-920960	Dead	scientiae_cedit_mare	No	WITHDRAWAL BY PARENT/GUARDIAN	Obedientia_civium_urbis_felicitas
-participant_status	CTDC-PARTICIPANT-259633	CTDC-PARTICIPANT-STATUS-189088	UNKNOWN	haec_olim_meminisse_iuvabit	Unknown	FAILURE TO MEET CONTINUATION CRITERIA	imperium_in_imperio
-participant_status	CTDC-PARTICIPANT-737063	CTDC-PARTICIPANT-STATUS-951103	Dead	cacatum_non_est_pictum	Yes	NON-COMPLIANCE WITH STUDY DRUG	a_bene_placito
-participant_status	CTDC-PARTICIPANT-586138	CTDC-PARTICIPANT-STATUS-193638	ALIVE	imperium_in_imperio	Unknown	WITHDRAWAL OF CONSENT	sapiens_qui_prospicit
-participant_status	CTDC-PARTICIPANT-262134	CTDC-PARTICIPANT-STATUS-516570	DEAD	scientia_et_sapientia	Yes	NON-COMPLIANCE WITH STUDY DRUG	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-473071	CTDC-PARTICIPANT-STATUS-860797	Alive with No Evidence of Disease	Gallia_est_omnis_divisa_in_partes_tres	Yes	PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-524700	CTDC-PARTICIPANT-STATUS-347920	DEAD	faber_est_suae_quisque_fortunae	Unknown	NON-COMPLIANCE WITH STUDY DEVICE	e_causa_ignota
-participant_status	CTDC-PARTICIPANT-759838	CTDC-PARTICIPANT-STATUS-760018	ALIVE	e_causa_ignota	Unknown	LOST TO FOLLOW-UP	id_quod_plerumque_accidit
-participant_status	CTDC-PARTICIPANT-696528	CTDC-PARTICIPANT-STATUS-317291	Alive, Disease Status Unknown	nanos_gigantum_humeris_insidentes	No	PREGNANCY	scientia_imperii_decus_et_tutamen
-participant_status	CTDC-PARTICIPANT-411940	CTDC-PARTICIPANT-STATUS-937409	UNKNOWN	Gallia_est_omnis_divisa_in_partes_tres	Unknown	PARTNER PREGNANCY	sapiens_qui_prospicit
-participant_status	CTDC-PARTICIPANT-530345	CTDC-PARTICIPANT-STATUS-488187	DEAD	scientiae_cedit_mare	Unknown	PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET	scientia,_aere_perennius
-participant_status	CTDC-PARTICIPANT-340526	CTDC-PARTICIPANT-STATUS-338475	DEAD	scientiae_cedit_mare	No	DISEASE RELAPSE	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-841882	CTDC-PARTICIPANT-STATUS-271107	ALIVE	cacatum_non_est_pictum	Unknown	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	labor_ipse_voluptas
-participant_status	CTDC-PARTICIPANT-488837	CTDC-PARTICIPANT-STATUS-836928	Alive with Disease	sapiens_qui_prospicit	No	NO LONGER CLINICALLY BENEFITING	scientia_et_sapientia
-participant_status	CTDC-PARTICIPANT-857224	CTDC-PARTICIPANT-STATUS-378072	Dead	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Unknown	TECHNICAL PROBLEMS	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-550727	CTDC-PARTICIPANT-STATUS-803610	ALIVE	imperium_in_imperio	Unknown	WITHDRAWAL OF ASSENT	scientia_et_sapientia
-participant_status	CTDC-PARTICIPANT-239708	CTDC-PARTICIPANT-STATUS-569997	UNKNOWN	cacatum_non_est_pictum	Unknown	REQUIRES PROHIBITED MEDICATION	a_bene_placito
-participant_status	CTDC-PARTICIPANT-166792	CTDC-PARTICIPANT-STATUS-568123	UNKNOWN	faber_est_suae_quisque_fortunae	No	RANDOMIZED BY MISTAKE WITH STUDY TREATMENT	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-369833	CTDC-PARTICIPANT-STATUS-936176	Alive, Disease Status Unknown	imperium_in_imperio	No	PROGRESSIVE DISEASE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-517174	CTDC-PARTICIPANT-STATUS-810875	ALIVE	saltus_in_demonstrando	Yes	LOGISTICAL PROBLEM	barba_crescit_caput_nescit
-participant_status	CTDC-PARTICIPANT-922763	CTDC-PARTICIPANT-STATUS-665829	DEAD	Macte_animo_Generose_puer_sic_itur_ad_astra	No	FAILURE TO MEET CONTINUATION CRITERIA	imperium_in_imperio
-participant_status	CTDC-PARTICIPANT-994222	CTDC-PARTICIPANT-STATUS-538211	Dead	cacatum_non_est_pictum	No	COMPLETED	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-434490	CTDC-PARTICIPANT-STATUS-225743	ALIVE	haec_olim_meminisse_iuvabit	Yes	SCREENING NOT COMPLETED	faber_est_suae_quisque_fortunae
-participant_status	CTDC-PARTICIPANT-938170	CTDC-PARTICIPANT-STATUS-324472	Alive with Disease	e_causa_ignota	Yes	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	Obedientia_civium_urbis_felicitas
-participant_status	CTDC-PARTICIPANT-628241	CTDC-PARTICIPANT-STATUS-568776	UNKNOWN	saltus_in_demonstrando	No	REQUIRES PROHIBITED MEDICATION	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-790208	CTDC-PARTICIPANT-STATUS-588019	UNKNOWN	cacatum_non_est_pictum	No	NEVER DOSED	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-920311	CTDC-PARTICIPANT-STATUS-139949	ALIVE	saltus_in_demonstrando	No	DISEASE RELAPSE	haec_olim_meminisse_iuvabit
-participant_status	CTDC-PARTICIPANT-868115	CTDC-PARTICIPANT-STATUS-757106	Alive with No Evidence of Disease	scientiae_et_patriae	Unknown	NON-COMPLIANCE WITH STUDY SCHEDULE	barba_crescit_caput_nescit
-participant_status	CTDC-PARTICIPANT-331010	CTDC-PARTICIPANT-STATUS-151401	Alive with No Evidence of Disease	e_causa_ignota	Yes	PHYSICIAN DECISION	Macte_animo_Generose_puer_sic_itur_ad_astra
-participant_status	CTDC-PARTICIPANT-754172	CTDC-PARTICIPANT-STATUS-351509	Alive with No Evidence of Disease	cacatum_non_est_pictum	No	NON-COMPLIANCE WITH STUDY DRUG	cacatum_non_est_pictum
-participant_status	CTDC-PARTICIPANT-729262	CTDC-PARTICIPANT-STATUS-414596	UNKNOWN	id_quod_plerumque_accidit	Unknown	COMPLETED	scientia_et_sapientia
-participant_status	CTDC-PARTICIPANT-399629	CTDC-PARTICIPANT-STATUS-650052	Alive with Disease	id_quod_plerumque_accidit	No	DISEASE RELAPSE	id_quod_plerumque_accidit
-participant_status	CTDC-PARTICIPANT-523004	CTDC-PARTICIPANT-STATUS-258219	Dead	barba_crescit_caput_nescit	Unknown	APPROVED DRUG AVAILABLE FOR INDICATION	id_quod_plerumque_accidit
-participant_status	CTDC-PARTICIPANT-350188	CTDC-PARTICIPANT-STATUS-987409	Alive with Disease	Macte_animo_Generose_puer_sic_itur_ad_astra	No	PROTOCOL DEVIATION	Macte_animo_Generose_puer_sic_itur_ad_astra
-participant_status	CTDC-PARTICIPANT-173922	CTDC-PARTICIPANT-STATUS-717796	Alive, Disease Status Unknown	damnant_quod_non_intellegunt	No	WITHDRAWAL BY PARENT/GUARDIAN	sapiens_qui_prospicit
-participant_status	CTDC-PARTICIPANT-166088	CTDC-PARTICIPANT-STATUS-154414	DEAD	scientiae_et_patriae	Yes	SCREEN FAILURE	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-606702	CTDC-PARTICIPANT-STATUS-329061	UNKNOWN	Gallia_est_omnis_divisa_in_partes_tres	No	ADVERSE EVENT	a_bene_placito
-participant_status	CTDC-PARTICIPANT-642851	CTDC-PARTICIPANT-STATUS-214176	UNKNOWN	scientia_imperii_decus_et_tutamen	Yes	NON-COMPLIANCE WITH NON-STUDY DEVICE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-177093	CTDC-PARTICIPANT-STATUS-103585	Dead	a_bene_placito	No	RANDOMIZED BY MISTAKE	nanos_gigantum_humeris_insidentes
-participant_status	CTDC-PARTICIPANT-556334	CTDC-PARTICIPANT-STATUS-580819	DEAD	scientia,_aere_perennius	Unknown	RANDOMIZED BY MISTAKE WITHOUT STUDY TREATMENT	faber_est_suae_quisque_fortunae
-participant_status	CTDC-PARTICIPANT-660544	CTDC-PARTICIPANT-STATUS-245381	UNKNOWN	imperium_in_imperio	No	PHYSICIAN DECISION	scientia,_aere_perennius
-participant_status	CTDC-PARTICIPANT-628790	CTDC-PARTICIPANT-STATUS-348727	DEAD	sapiens_qui_prospicit	No	FAILURE TO MEET CONTINUATION CRITERIA	damnant_quod_non_intellegunt
-participant_status	CTDC-PARTICIPANT-783949	CTDC-PARTICIPANT-STATUS-173761	DEAD	salus_in_arduis	Unknown	RANDOMIZED BY MISTAKE WITH STUDY TREATMENT	salus_in_arduis
-participant_status	CTDC-PARTICIPANT-822671	CTDC-PARTICIPANT-STATUS-392087	Alive, Disease Status Unknown	labor_ipse_voluptas	Unknown	STUDY TERMINATED BY SPONSOR	scientia,_aere_perennius
-participant_status	CTDC-PARTICIPANT-226125	CTDC-PARTICIPANT-STATUS-574006	Alive with Disease	scientia_et_labor	No	RANDOMIZED BY MISTAKE WITH STUDY TREATMENT	saltus_in_demonstrando
-participant_status	CTDC-PARTICIPANT-929623	CTDC-PARTICIPANT-STATUS-523065	Alive with No Evidence of Disease	cacatum_non_est_pictum	Yes	SCREEN FAILURE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-414247	CTDC-PARTICIPANT-STATUS-324961	DEAD	scientiae_et_patriae	No	COMPLETED	labor_ipse_voluptas
-participant_status	CTDC-PARTICIPANT-746252	CTDC-PARTICIPANT-STATUS-286274	ALIVE	Obedientia_civium_urbis_felicitas	No	COMPLETED	scientia_imperii_decus_et_tutamen
-participant_status	CTDC-PARTICIPANT-207875	CTDC-PARTICIPANT-STATUS-555852	DEAD	haec_olim_meminisse_iuvabit	No	NON-COMPLIANCE WITH STUDY DEVICE	imperium_in_imperio
-participant_status	CTDC-PARTICIPANT-534971	CTDC-PARTICIPANT-STATUS-716620	Alive, Disease Status Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra	Unknown	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	scientia_imperii_decus_et_tutamen
-participant_status	CTDC-PARTICIPANT-757252	CTDC-PARTICIPANT-STATUS-534245	Alive with No Evidence of Disease	pace_tua	Yes	RANDOMIZED BY MISTAKE	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-579854	CTDC-PARTICIPANT-STATUS-301521	DEAD	scientia_imperii_decus_et_tutamen	Unknown	SCREEN FAILURE	barba_crescit_caput_nescit
-participant_status	CTDC-PARTICIPANT-448128	CTDC-PARTICIPANT-STATUS-844569	Dead	scientiae_et_patriae	Yes	DISEASE RELAPSE	pace_tua
-participant_status	CTDC-PARTICIPANT-382045	CTDC-PARTICIPANT-STATUS-541223	Alive with Disease	pace_tua	Yes	PARTNER PREGNANCY	faber_est_suae_quisque_fortunae
-participant_status	CTDC-PARTICIPANT-104436	CTDC-PARTICIPANT-STATUS-122263	UNKNOWN	scientiae_et_patriae	No	WITHDRAWAL BY SUBJECT	Gallia_est_omnis_divisa_in_partes_tres
-participant_status	CTDC-PARTICIPANT-795313	CTDC-PARTICIPANT-STATUS-843369	Alive with Disease	salus_in_arduis	No	SCREENING NOT COMPLETED	saltus_in_demonstrando
-participant_status	CTDC-PARTICIPANT-208079	CTDC-PARTICIPANT-STATUS-352887	Dead	scientiae_cedit_mare	Yes	PROTOCOL DEVIATION	id_quod_plerumque_accidit
-participant_status	CTDC-PARTICIPANT-772800	CTDC-PARTICIPANT-STATUS-318964	Alive, Disease Status Unknown	sapiens_qui_prospicit	Unknown	SCREEN FAILURE	scientiae_et_patriae
-participant_status	CTDC-PARTICIPANT-367412	CTDC-PARTICIPANT-STATUS-974178	Alive, Disease Status Unknown	cacatum_non_est_pictum	Unknown	PHYSICIAN DECISION	haec_olim_meminisse_iuvabit
-participant_status	CTDC-PARTICIPANT-961683	CTDC-PARTICIPANT-STATUS-988095	Dead	labor_ipse_voluptas	No	PROTOCOL VIOLATION	damnant_quod_non_intellegunt
-participant_status	CTDC-PARTICIPANT-350925	CTDC-PARTICIPANT-STATUS-479440	Alive with Disease	scientia_imperii_decus_et_tutamen	Unknown	NON-COMPLIANCE WITH NON-STUDY DEVICE	cacatum_non_est_pictum
-participant_status	CTDC-PARTICIPANT-182493	CTDC-PARTICIPANT-STATUS-644910	Alive with Disease	nanos_gigantum_humeris_insidentes	No	RANDOMIZED BY MISTAKE	saltus_in_demonstrando
-participant_status	CTDC-PARTICIPANT-189913	CTDC-PARTICIPANT-STATUS-974099	ALIVE	nanos_gigantum_humeris_insidentes	Yes	SITE TERMINATED BY SPONSOR	cacatum_non_est_pictum
-participant_status	CTDC-PARTICIPANT-813889	CTDC-PARTICIPANT-STATUS-338050	UNKNOWN	salus_in_arduis	Unknown	PHYSICIAN DECISION	nanos_gigantum_humeris_insidentes
-participant_status	CTDC-PARTICIPANT-600730	CTDC-PARTICIPANT-STATUS-471353	DEAD	e_causa_ignota	Unknown	SCREEN FAILURE	Macte_animo_Generose_puer_sic_itur_ad_astra
-participant_status	CTDC-PARTICIPANT-882022	CTDC-PARTICIPANT-STATUS-342310	Alive, Disease Status Unknown	nascentes_morimur_finisque_ab_origine_pendet	No	ADVERSE EVENT	scientiae_cedit_mare
-participant_status	CTDC-PARTICIPANT-270592	CTDC-PARTICIPANT-STATUS-512634	Alive with No Evidence of Disease	labor_ipse_voluptas	No	LACK OF EFFICACY	scientia_et_sapientia
-participant_status	CTDC-PARTICIPANT-404910	CTDC-PARTICIPANT-STATUS-823489	ALIVE	saltus_in_demonstrando	Unknown	FAILURE TO MEET RANDOMIZATION CRITERIA	Macte_animo_Generose_puer_sic_itur_ad_astra
-participant_status	CTDC-PARTICIPANT-607690	CTDC-PARTICIPANT-STATUS-725786	ALIVE	faber_est_suae_quisque_fortunae	Unknown	SCREENING NOT COMPLETED	scientia_et_labor
-participant_status	CTDC-PARTICIPANT-839838	CTDC-PARTICIPANT-STATUS-107506	Dead	nascentes_morimur_finisque_ab_origine_pendet	No	NO LONGER CLINICALLY BENEFITING	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-469480	CTDC-PARTICIPANT-STATUS-383140	DEAD	scientiae_cedit_mare	No	WITHDRAWAL BY SUBJECT	a_bene_placito
-participant_status	CTDC-PARTICIPANT-522896	CTDC-PARTICIPANT-STATUS-729965	ALIVE	sapiens_qui_prospicit	Yes	NON-COMPLIANCE WITH STUDY DRUG	salus_in_arduis
-participant_status	CTDC-PARTICIPANT-922017	CTDC-PARTICIPANT-STATUS-722344	Dead	damnant_quod_non_intellegunt	No	PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET	nascentes_morimur_finisque_ab_origine_pendet
-participant_status	CTDC-PARTICIPANT-384597	CTDC-PARTICIPANT-STATUS-838378	Alive, Disease Status Unknown	cacatum_non_est_pictum	Unknown	NO LONGER CLINICALLY BENEFITING	sapiens_qui_prospicit
-participant_status	CTDC-PARTICIPANT-469994	CTDC-PARTICIPANT-STATUS-232644	DEAD	scientia_imperii_decus_et_tutamen	Unknown	WITHDRAWAL BY PARENT/GUARDIAN	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
-participant_status	CTDC-PARTICIPANT-831281	CTDC-PARTICIPANT-STATUS-646390	UNKNOWN	scientia_et_labor	Unknown	COMPLETED	scientia_imperii_decus_et_tutamen
-participant_status	CTDC-PARTICIPANT-665187	CTDC-PARTICIPANT-STATUS-744009	ALIVE	barba_crescit_caput_nescit	No	RECOVERY	a_bene_placito
+participant_status	CTDC-PARTICIPANT-538201	CTDC-PARTICIPANT-STATUS-796612	Alive, Disease Status Unknown	Macte_animo_Generose_puer_sic_itur_ad_astra	No	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	Macte_animo_Generose_puer_sic_itur_ad_astra
+participant_status	CTDC-PARTICIPANT-830291	CTDC-PARTICIPANT-STATUS-973258	Alive with Disease	labor_ipse_voluptas	No	LOST TO FOLLOW-UP	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-880255	CTDC-PARTICIPANT-STATUS-683619	Alive, Disease Status Unknown	damnant_quod_non_intellegunt	Yes	PROGRESSIVE DISEASE	saltus_in_demonstrando
+participant_status	CTDC-PARTICIPANT-647113	CTDC-PARTICIPANT-STATUS-408860	DEAD	id_quod_plerumque_accidit	No	SPONSOR REQUEST	e_causa_ignota
+participant_status	CTDC-PARTICIPANT-985316	CTDC-PARTICIPANT-STATUS-846806	Alive with No Evidence of Disease	cacatum_non_est_pictum	Unknown	PREGNANCY	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+participant_status	CTDC-PARTICIPANT-793781	CTDC-PARTICIPANT-STATUS-572499	Alive with No Evidence of Disease	id_quod_plerumque_accidit	Yes	PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET	cacatum_non_est_pictum
+participant_status	CTDC-PARTICIPANT-713763	CTDC-PARTICIPANT-STATUS-434010	DEAD	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Unknown	SITE TERMINATED BY SPONSOR	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-268244	CTDC-PARTICIPANT-STATUS-107067	Dead	nascentes_morimur_finisque_ab_origine_pendet	Unknown	PROGRESSIVE DISEASE	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-153370	CTDC-PARTICIPANT-STATUS-237562	Dead	scientia_imperii_decus_et_tutamen	Yes	PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-307221	CTDC-PARTICIPANT-STATUS-316039	Alive with Disease	saltus_in_demonstrando	Unknown	PROTOCOL VIOLATION	sapiens_qui_prospicit
+participant_status	CTDC-PARTICIPANT-953153	CTDC-PARTICIPANT-STATUS-942615	UNKNOWN	a_bene_placito	Yes	PROTOCOL VIOLATION	saltus_in_demonstrando
+participant_status	CTDC-PARTICIPANT-613409	CTDC-PARTICIPANT-STATUS-404853	ALIVE	scientia_et_labor	No	ADVERSE EVENT	Gallia_est_omnis_divisa_in_partes_tres
+participant_status	CTDC-PARTICIPANT-424514	CTDC-PARTICIPANT-STATUS-230398	Alive, Disease Status Unknown	salus_in_arduis	Unknown	DEATH	Gallia_est_omnis_divisa_in_partes_tres
+participant_status	CTDC-PARTICIPANT-705944	CTDC-PARTICIPANT-STATUS-852568	ALIVE	haec_olim_meminisse_iuvabit	No	WITHDRAWAL BY PARENT/GUARDIAN	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-886452	CTDC-PARTICIPANT-STATUS-445310	Dead	nanos_gigantum_humeris_insidentes	Yes	PROGRESSIVE DISEASE	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-830699	CTDC-PARTICIPANT-STATUS-949103	Dead	scientiae_et_patriae	Yes	OTHER	a_bene_placito
+participant_status	CTDC-PARTICIPANT-954236	CTDC-PARTICIPANT-STATUS-592359	Dead	cacatum_non_est_pictum	No	NON-COMPLIANCE WITH STUDY DRUG	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-527517	CTDC-PARTICIPANT-STATUS-402190	ALIVE	scientia,_aere_perennius	No	PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET	cacatum_non_est_pictum
+participant_status	CTDC-PARTICIPANT-857543	CTDC-PARTICIPANT-STATUS-711823	Alive with Disease	scientiae_et_patriae	Yes	APPROVED DRUG AVAILABLE FOR INDICATION	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-925965	CTDC-PARTICIPANT-STATUS-278951	Alive with No Evidence of Disease	saltus_in_demonstrando	Unknown	SPONSOR REQUEST	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-140967	CTDC-PARTICIPANT-STATUS-356422	Dead	saltus_in_demonstrando	Unknown	FAILURE TO MEET CONTINUATION CRITERIA	Gallia_est_omnis_divisa_in_partes_tres
+participant_status	CTDC-PARTICIPANT-112511	CTDC-PARTICIPANT-STATUS-759602	ALIVE	pace_tua	No	PREGNANCY	scientia_et_labor
+participant_status	CTDC-PARTICIPANT-416807	CTDC-PARTICIPANT-STATUS-761955	DEAD	cacatum_non_est_pictum	Yes	WITHDRAWAL BY PARENT/GUARDIAN	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-826966	CTDC-PARTICIPANT-STATUS-214495	ALIVE	faber_est_suae_quisque_fortunae	Unknown	SCREENING NOT COMPLETED	scientia_et_labor
+participant_status	CTDC-PARTICIPANT-314374	CTDC-PARTICIPANT-STATUS-724387	DEAD	imperium_in_imperio	Yes	DEATH	faber_est_suae_quisque_fortunae
+participant_status	CTDC-PARTICIPANT-798612	CTDC-PARTICIPANT-STATUS-756230	DEAD	nascentes_morimur_finisque_ab_origine_pendet	Unknown	PROTOCOL DEVIATION	e_causa_ignota
+participant_status	CTDC-PARTICIPANT-102944	CTDC-PARTICIPANT-STATUS-792816	UNKNOWN	imperium_in_imperio	Yes	ADVERSE EVENT	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+participant_status	CTDC-PARTICIPANT-807795	CTDC-PARTICIPANT-STATUS-559074	DEAD	nascentes_morimur_finisque_ab_origine_pendet	Yes	WITHDRAWAL BY PARENT/GUARDIAN	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-251446	CTDC-PARTICIPANT-STATUS-766999	Dead	nanos_gigantum_humeris_insidentes	Unknown	STUDY TERMINATED BY SPONSOR	scientia,_aere_perennius
+participant_status	CTDC-PARTICIPANT-570297	CTDC-PARTICIPANT-STATUS-997329	ALIVE	haec_olim_meminisse_iuvabit	Yes	RECOVERY	scientia,_aere_perennius
+participant_status	CTDC-PARTICIPANT-942560	CTDC-PARTICIPANT-STATUS-642160	UNKNOWN	Gallia_est_omnis_divisa_in_partes_tres	Unknown	PROTOCOL VIOLATION	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-642001	CTDC-PARTICIPANT-STATUS-683243	UNKNOWN	nanos_gigantum_humeris_insidentes	No	NO LONGER CLINICALLY BENEFITING	nascentes_morimur_finisque_ab_origine_pendet
+participant_status	CTDC-PARTICIPANT-563056	CTDC-PARTICIPANT-STATUS-212827	UNKNOWN	barba_crescit_caput_nescit	Yes	NEVER DOSED	Macte_animo_Generose_puer_sic_itur_ad_astra
+participant_status	CTDC-PARTICIPANT-158866	CTDC-PARTICIPANT-STATUS-907019	Dead	cacatum_non_est_pictum	No	APPROVED DRUG AVAILABLE FOR INDICATION	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-967654	CTDC-PARTICIPANT-STATUS-383303	ALIVE	scientiae_et_patriae	No	FAILURE TO MEET RANDOMIZATION CRITERIA	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-833395	CTDC-PARTICIPANT-STATUS-713017	Alive with No Evidence of Disease	cacatum_non_est_pictum	Unknown	NON-COMPLIANCE WITH STUDY SCHEDULE	damnant_quod_non_intellegunt
+participant_status	CTDC-PARTICIPANT-623121	CTDC-PARTICIPANT-STATUS-668141	DEAD	scientia_et_sapientia	Unknown	FAILURE TO MEET RANDOMIZATION CRITERIA	haec_olim_meminisse_iuvabit
+participant_status	CTDC-PARTICIPANT-116443	CTDC-PARTICIPANT-STATUS-664776	Dead	cacatum_non_est_pictum	Unknown	REQUIRES PROHIBITED MEDICATION	nascentes_morimur_finisque_ab_origine_pendet
+participant_status	CTDC-PARTICIPANT-717771	CTDC-PARTICIPANT-STATUS-237037	Alive with No Evidence of Disease	id_quod_plerumque_accidit	No	PHYSICIAN DECISION	labor_ipse_voluptas
+participant_status	CTDC-PARTICIPANT-475808	CTDC-PARTICIPANT-STATUS-285846	DEAD	nanos_gigantum_humeris_insidentes	No	SPONSOR REQUEST	cacatum_non_est_pictum
+participant_status	CTDC-PARTICIPANT-893227	CTDC-PARTICIPANT-STATUS-685916	DEAD	scientia,_aere_perennius	No	NEVER DOSED	sapiens_qui_prospicit
+participant_status	CTDC-PARTICIPANT-786997	CTDC-PARTICIPANT-STATUS-991741	Alive, Disease Status Unknown	scientia_et_labor	No	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-735347	CTDC-PARTICIPANT-STATUS-649551	DEAD	scientia_et_sapientia	Yes	WITHDRAWAL BY SUBJECT	cacatum_non_est_pictum
+participant_status	CTDC-PARTICIPANT-754876	CTDC-PARTICIPANT-STATUS-471239	Dead	scientia_et_labor	Yes	PREGNANCY	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-118617	CTDC-PARTICIPANT-STATUS-113249	Alive with Disease	scientia,_aere_perennius	Unknown	PROGRESSIVE DISEASE	scientia_et_labor
+participant_status	CTDC-PARTICIPANT-921429	CTDC-PARTICIPANT-STATUS-768265	UNKNOWN	labor_ipse_voluptas	No	RANDOMIZED BY MISTAKE WITHOUT STUDY TREATMENT	e_causa_ignota
+participant_status	CTDC-PARTICIPANT-501287	CTDC-PARTICIPANT-STATUS-114821	Alive, Disease Status Unknown	scientiae_cedit_mare	Unknown	PHYSICIAN DECISION	damnant_quod_non_intellegunt
+participant_status	CTDC-PARTICIPANT-228118	CTDC-PARTICIPANT-STATUS-477268	Alive with Disease	barba_crescit_caput_nescit	No	FAILURE TO MEET CONTINUATION CRITERIA	faber_est_suae_quisque_fortunae
+participant_status	CTDC-PARTICIPANT-256432	CTDC-PARTICIPANT-STATUS-943966	Alive, Disease Status Unknown	scientia,_aere_perennius	No	OTHER	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-138233	CTDC-PARTICIPANT-STATUS-769031	DEAD	scientia,_aere_perennius	No	NON-COMPLIANCE WITH STUDY SCHEDULE	saltus_in_demonstrando
+participant_status	CTDC-PARTICIPANT-995871	CTDC-PARTICIPANT-STATUS-445452	DEAD	sapiens_qui_prospicit	Unknown	RANDOMIZED BY MISTAKE WITH STUDY TREATMENT	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-452088	CTDC-PARTICIPANT-STATUS-715861	ALIVE	id_quod_plerumque_accidit	Yes	FAILURE TO MEET CONTINUATION CRITERIA	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-879239	CTDC-PARTICIPANT-STATUS-768372	UNKNOWN	scientiae_cedit_mare	Unknown	SCREEN FAILURE	scientia_et_sapientia
+participant_status	CTDC-PARTICIPANT-858408	CTDC-PARTICIPANT-STATUS-720380	Alive with No Evidence of Disease	haec_olim_meminisse_iuvabit	Unknown	APPROVED DRUG AVAILABLE FOR INDICATION	nascentes_morimur_finisque_ab_origine_pendet
+participant_status	CTDC-PARTICIPANT-885144	CTDC-PARTICIPANT-STATUS-511530	DEAD	haec_olim_meminisse_iuvabit	Yes	SPONSOR REQUEST	pace_tua
+participant_status	CTDC-PARTICIPANT-370658	CTDC-PARTICIPANT-STATUS-246718	ALIVE	Obedientia_civium_urbis_felicitas	No	PROTOCOL VIOLATION	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-306826	CTDC-PARTICIPANT-STATUS-472818	Alive with Disease	saltus_in_demonstrando	Yes	PROTOCOL DEVIATION	labor_ipse_voluptas
+participant_status	CTDC-PARTICIPANT-125056	CTDC-PARTICIPANT-STATUS-977027	DEAD	sapiens_qui_prospicit	Unknown	LACK OF EFFICACY	faber_est_suae_quisque_fortunae
+participant_status	CTDC-PARTICIPANT-833203	CTDC-PARTICIPANT-STATUS-843424	ALIVE	nanos_gigantum_humeris_insidentes	Unknown	PROGRESSIVE DISEASE	labor_ipse_voluptas
+participant_status	CTDC-PARTICIPANT-473024	CTDC-PARTICIPANT-STATUS-661365	UNKNOWN	scientia_et_labor	Unknown	PROTOCOL DEVIATION	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-178338	CTDC-PARTICIPANT-STATUS-866577	Alive, Disease Status Unknown	haec_olim_meminisse_iuvabit	Unknown	RECOVERY	saltus_in_demonstrando
+participant_status	CTDC-PARTICIPANT-409708	CTDC-PARTICIPANT-STATUS-180503	UNKNOWN	labor_ipse_voluptas	Yes	FAILURE TO MEET CONTINUATION CRITERIA	haec_olim_meminisse_iuvabit
+participant_status	CTDC-PARTICIPANT-342585	CTDC-PARTICIPANT-STATUS-887525	Alive with No Evidence of Disease	scientia,_aere_perennius	No	PROGRESSIVE DISEASE	scientiae_cedit_mare
+participant_status	CTDC-PARTICIPANT-340067	CTDC-PARTICIPANT-STATUS-194535	ALIVE	barba_crescit_caput_nescit	Unknown	SITE TERMINATED BY SPONSOR	scientia_et_sapientia
+participant_status	CTDC-PARTICIPANT-410325	CTDC-PARTICIPANT-STATUS-532371	Alive, Disease Status Unknown	imperium_in_imperio	Unknown	SPONSOR REQUEST	Macte_animo_Generose_puer_sic_itur_ad_astra
+participant_status	CTDC-PARTICIPANT-171170	CTDC-PARTICIPANT-STATUS-180971	DEAD	sapiens_qui_prospicit	No	COMPLETED	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-806149	CTDC-PARTICIPANT-STATUS-326765	Alive, Disease Status Unknown	faber_est_suae_quisque_fortunae	No	PROGRESSIVE DISEASE	e_causa_ignota
+participant_status	CTDC-PARTICIPANT-367444	CTDC-PARTICIPANT-STATUS-976973	Dead	saltus_in_demonstrando	No	NON-COMPLIANCE WITH STUDY DRUG	scientia,_aere_perennius
+participant_status	CTDC-PARTICIPANT-291834	CTDC-PARTICIPANT-STATUS-328084	Alive, Disease Status Unknown	saltus_in_demonstrando	Yes	PROGRESSIVE DISEASE	salus_in_arduis
+participant_status	CTDC-PARTICIPANT-331301	CTDC-PARTICIPANT-STATUS-633056	DEAD	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Yes	SITE TERMINATED BY SPONSOR	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-416026	CTDC-PARTICIPANT-STATUS-368534	Alive, Disease Status Unknown	sapiens_qui_prospicit	No	PARTNER PREGNANCY	pace_tua
+participant_status	CTDC-PARTICIPANT-589668	CTDC-PARTICIPANT-STATUS-364602	DEAD	imperium_in_imperio	Unknown	LOST TO FOLLOW-UP	scientia,_aere_perennius
+participant_status	CTDC-PARTICIPANT-643728	CTDC-PARTICIPANT-STATUS-158120	UNKNOWN	barba_crescit_caput_nescit	Unknown	REQUIRES PROHIBITED MEDICATION	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-736111	CTDC-PARTICIPANT-STATUS-823224	Alive, Disease Status Unknown	nascentes_morimur_finisque_ab_origine_pendet	Unknown	PROTOCOL VIOLATION	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-719226	CTDC-PARTICIPANT-STATUS-181334	Alive with No Evidence of Disease	scientia_et_labor	No	SCREEN FAILURE	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-463196	CTDC-PARTICIPANT-STATUS-313741	UNKNOWN	e_causa_ignota	Yes	PREGNANCY	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-328520	CTDC-PARTICIPANT-STATUS-921216	UNKNOWN	scientia_et_labor	Unknown	REQUIRES PROHIBITED MEDICATION	saltus_in_demonstrando
+participant_status	CTDC-PARTICIPANT-177489	CTDC-PARTICIPANT-STATUS-834438	Alive with Disease	nanos_gigantum_humeris_insidentes	Unknown	NON-COMPLIANCE WITH STUDY DRUG	scientia_imperii_decus_et_tutamen
+participant_status	CTDC-PARTICIPANT-781163	CTDC-PARTICIPANT-STATUS-373000	Alive with No Evidence of Disease	cacatum_non_est_pictum	No	LACK OF EFFICACY	a_bene_placito
+participant_status	CTDC-PARTICIPANT-324352	CTDC-PARTICIPANT-STATUS-549713	DEAD	cacatum_non_est_pictum	No	SCREEN FAILURE	saltus_in_demonstrando
+participant_status	CTDC-PARTICIPANT-256665	CTDC-PARTICIPANT-STATUS-865404	Alive with No Evidence of Disease	scientia_et_sapientia	No	PROTOCOL VIOLATION	a_bene_placito
+participant_status	CTDC-PARTICIPANT-476383	CTDC-PARTICIPANT-STATUS-927047	DEAD	e_causa_ignota	No	RECOVERY	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+participant_status	CTDC-PARTICIPANT-276381	CTDC-PARTICIPANT-STATUS-181058	Alive with No Evidence of Disease	scientia_et_sapientia	No	TECHNICAL PROBLEMS	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-611280	CTDC-PARTICIPANT-STATUS-710385	Alive with Disease	faber_est_suae_quisque_fortunae	Unknown	PROGRESSIVE DISEASE	scientia_et_sapientia
+participant_status	CTDC-PARTICIPANT-719089	CTDC-PARTICIPANT-STATUS-584696	Alive, Disease Status Unknown	pace_tua	No	PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-842455	CTDC-PARTICIPANT-STATUS-425348	DEAD	cacatum_non_est_pictum	Yes	RECOVERY	Gallia_est_omnis_divisa_in_partes_tres
+participant_status	CTDC-PARTICIPANT-131548	CTDC-PARTICIPANT-STATUS-158983	Alive with No Evidence of Disease	barba_crescit_caput_nescit	Yes	ADVERSE EVENT	sapiens_qui_prospicit
+participant_status	CTDC-PARTICIPANT-853367	CTDC-PARTICIPANT-STATUS-907303	Dead	damnant_quod_non_intellegunt	Yes	TECHNICAL PROBLEMS	Macte_animo_Generose_puer_sic_itur_ad_astra
+participant_status	CTDC-PARTICIPANT-767124	CTDC-PARTICIPANT-STATUS-237537	Alive with Disease	Macte_animo_Generose_puer_sic_itur_ad_astra	Yes	FAILURE TO MEET CONTINUATION CRITERIA	sapiens_qui_prospicit
+participant_status	CTDC-PARTICIPANT-845588	CTDC-PARTICIPANT-STATUS-386124	Dead	a_bene_placito	Yes	ADVERSE EVENT	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-707731	CTDC-PARTICIPANT-STATUS-707928	Dead	Obedientia_civium_urbis_felicitas	Yes	PROGRESSIVE DISEASE	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-411536	CTDC-PARTICIPANT-STATUS-361349	DEAD	scientia_et_sapientia	Yes	WITHDRAWAL OF CONSENT	scientia,_aere_perennius
+participant_status	CTDC-PARTICIPANT-309279	CTDC-PARTICIPANT-STATUS-495436	DEAD	damnant_quod_non_intellegunt	No	PROTOCOL DEVIATION	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-485822	CTDC-PARTICIPANT-STATUS-382027	DEAD	imperium_in_imperio	No	RANDOMIZED BY MISTAKE WITHOUT STUDY TREATMENT	scientia,_aere_perennius
+participant_status	CTDC-PARTICIPANT-454962	CTDC-PARTICIPANT-STATUS-654649	Alive with Disease	sapiens_qui_prospicit	Yes	PROGRESSIVE DISEASE	scientia_imperii_decus_et_tutamen
+participant_status	CTDC-PARTICIPANT-530348	CTDC-PARTICIPANT-STATUS-560593	ALIVE	pace_tua	No	SPONSOR REQUEST	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+participant_status	CTDC-PARTICIPANT-184987	CTDC-PARTICIPANT-STATUS-942295	Dead	a_bene_placito	Yes	FAILURE TO MEET CONTINUATION CRITERIA	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-875008	CTDC-PARTICIPANT-STATUS-972368	Alive, Disease Status Unknown	scientia_et_sapientia	No	NON-COMPLIANCE WITH STUDY DEVICE	scientiae_cedit_mare
+participant_status	CTDC-PARTICIPANT-851222	CTDC-PARTICIPANT-STATUS-628443	DEAD	Macte_animo_Generose_puer_sic_itur_ad_astra	No	SCREEN FAILURE	sapiens_qui_prospicit
+participant_status	CTDC-PARTICIPANT-252964	CTDC-PARTICIPANT-STATUS-562177	Dead	scientia_et_labor	Yes	WITHDRAWAL OF ASSENT	e_causa_ignota
+participant_status	CTDC-PARTICIPANT-930092	CTDC-PARTICIPANT-STATUS-261480	Dead	scientia_et_labor	No	NEVER DOSED	scientia_imperii_decus_et_tutamen
+participant_status	CTDC-PARTICIPANT-956778	CTDC-PARTICIPANT-STATUS-440098	UNKNOWN	Gallia_est_omnis_divisa_in_partes_tres	Unknown	RECOVERY	damnant_quod_non_intellegunt
+participant_status	CTDC-PARTICIPANT-727182	CTDC-PARTICIPANT-STATUS-252745	Alive, Disease Status Unknown	damnant_quod_non_intellegunt	Yes	NON-COMPLIANCE WITH STUDY DEVICE	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-694278	CTDC-PARTICIPANT-STATUS-311725	Alive with Disease	Macte_animo_Generose_puer_sic_itur_ad_astra	Yes	NON-COMPLIANCE WITH STUDY SCHEDULE	damnant_quod_non_intellegunt
+participant_status	CTDC-PARTICIPANT-970015	CTDC-PARTICIPANT-STATUS-921904	Alive, Disease Status Unknown	scientia_et_labor	Unknown	NO LONGER CLINICALLY BENEFITING	scientiae_et_patriae
+participant_status	CTDC-PARTICIPANT-225008	CTDC-PARTICIPANT-STATUS-167531	UNKNOWN	Gallia_est_omnis_divisa_in_partes_tres	Unknown	COMPLETED	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-920054	CTDC-PARTICIPANT-STATUS-185104	Alive with No Evidence of Disease	scientia_imperii_decus_et_tutamen	Yes	REQUIRES PROHIBITED MEDICATION	scientia_et_labor
+participant_status	CTDC-PARTICIPANT-151140	CTDC-PARTICIPANT-STATUS-404421	Alive with Disease	damnant_quod_non_intellegunt	Unknown	NEVER DOSED	e_causa_ignota
+participant_status	CTDC-PARTICIPANT-825884	CTDC-PARTICIPANT-STATUS-435778	Alive, Disease Status Unknown	imperium_in_imperio	No	TECHNICAL PROBLEMS	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-431802	CTDC-PARTICIPANT-STATUS-248078	UNKNOWN	nanos_gigantum_humeris_insidentes	No	TECHNICAL PROBLEMS	haec_olim_meminisse_iuvabit
+participant_status	CTDC-PARTICIPANT-106564	CTDC-PARTICIPANT-STATUS-996727	Dead	cacatum_non_est_pictum	Unknown	DEATH	nascentes_morimur_finisque_ab_origine_pendet
+participant_status	CTDC-PARTICIPANT-424698	CTDC-PARTICIPANT-STATUS-726327	UNKNOWN	id_quod_plerumque_accidit	Yes	PROTOCOL VIOLATION	scientia,_aere_perennius
+participant_status	CTDC-PARTICIPANT-530455	CTDC-PARTICIPANT-STATUS-735703	Alive, Disease Status Unknown	sapiens_qui_prospicit	Yes	RANDOMIZED BY MISTAKE WITHOUT STUDY TREATMENT	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-843895	CTDC-PARTICIPANT-STATUS-500919	UNKNOWN	e_causa_ignota	Yes	RECOVERY	salus_in_arduis
+participant_status	CTDC-PARTICIPANT-623266	CTDC-PARTICIPANT-STATUS-476267	ALIVE	e_causa_ignota	Unknown	RECOVERY	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti
+participant_status	CTDC-PARTICIPANT-124982	CTDC-PARTICIPANT-STATUS-808146	Alive with Disease	id_quod_plerumque_accidit	Yes	MET ELIGIBILITY CRITERIA BUT NOT NEEDED	cacatum_non_est_pictum
+participant_status	CTDC-PARTICIPANT-514742	CTDC-PARTICIPANT-STATUS-474757	Alive, Disease Status Unknown	id_quod_plerumque_accidit	Yes	ADVERSE EVENT	barba_crescit_caput_nescit
+participant_status	CTDC-PARTICIPANT-260124	CTDC-PARTICIPANT-STATUS-358748	UNKNOWN	barba_crescit_caput_nescit	No	APPROVED DRUG AVAILABLE FOR INDICATION	faber_est_suae_quisque_fortunae
+participant_status	CTDC-PARTICIPANT-412399	CTDC-PARTICIPANT-STATUS-608265	Alive with Disease	scientia_et_sapientia	Yes	NON-COMPLIANCE WITH NON-STUDY DEVICE	scientiae_et_patriae
+participant_status	CTDC-PARTICIPANT-948159	CTDC-PARTICIPANT-STATUS-619180	Alive with Disease	scientiae_cedit_mare	Unknown	ADVERSE EVENT	scientiae_cedit_mare
+participant_status	CTDC-PARTICIPANT-150916	CTDC-PARTICIPANT-STATUS-161300	UNKNOWN	labor_ipse_voluptas	Yes	SITE TERMINATED BY SPONSOR	faber_est_suae_quisque_fortunae
+participant_status	CTDC-PARTICIPANT-348197	CTDC-PARTICIPANT-STATUS-939769	ALIVE	salus_in_arduis	No	NON-COMPLIANCE WITH STUDY DRUG	sapiens_qui_prospicit
+participant_status	CTDC-PARTICIPANT-892010	CTDC-PARTICIPANT-STATUS-992805	UNKNOWN	Macte_animo_Generose_puer_sic_itur_ad_astra	Unknown	LOGISTICAL PROBLEM	damnant_quod_non_intellegunt
+participant_status	CTDC-PARTICIPANT-109867	CTDC-PARTICIPANT-STATUS-860190	UNKNOWN	e_causa_ignota	Unknown	PHYSICIAN DECISION	pace_tua
+participant_status	CTDC-PARTICIPANT-935094	CTDC-PARTICIPANT-STATUS-698017	Alive, Disease Status Unknown	scientia_imperii_decus_et_tutamen	Unknown	WITHDRAWAL OF CONSENT	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-860974	CTDC-PARTICIPANT-STATUS-757950	ALIVE	Obedientia_civium_urbis_felicitas	Unknown	PROGRESSIVE DISEASE	scientia_et_labor
+participant_status	CTDC-PARTICIPANT-927446	CTDC-PARTICIPANT-STATUS-603725	ALIVE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	No	NON-COMPLIANCE WITH STUDY DRUG	scientia_et_sapientia
+participant_status	CTDC-PARTICIPANT-246268	CTDC-PARTICIPANT-STATUS-745133	Alive with Disease	salus_in_arduis	Yes	LACK OF EFFICACY	scientia_et_labor
+participant_status	CTDC-PARTICIPANT-981144	CTDC-PARTICIPANT-STATUS-579898	Alive, Disease Status Unknown	scientia,_aere_perennius	No	RECOVERY	pace_tua
+participant_status	CTDC-PARTICIPANT-712191	CTDC-PARTICIPANT-STATUS-971098	Alive, Disease Status Unknown	salus_in_arduis	No	PREGNANCY	scientiae_et_patriae
+participant_status	CTDC-PARTICIPANT-233946	CTDC-PARTICIPANT-STATUS-282994	ALIVE	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Yes	SPONSOR REQUEST	scientia_et_labor
+participant_status	CTDC-PARTICIPANT-470803	CTDC-PARTICIPANT-STATUS-262406	DEAD	id_quod_plerumque_accidit	Unknown	NON-COMPLIANCE WITH STUDY DRUG	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-342790	CTDC-PARTICIPANT-STATUS-927558	ALIVE	a_bene_placito	Unknown	SPONSOR REQUEST	salus_in_arduis
+participant_status	CTDC-PARTICIPANT-657767	CTDC-PARTICIPANT-STATUS-677024	Alive, Disease Status Unknown	scientia_imperii_decus_et_tutamen	Yes	FAILURE TO MEET RANDOMIZATION CRITERIA	nanos_gigantum_humeris_insidentes
+participant_status	CTDC-PARTICIPANT-602249	CTDC-PARTICIPANT-STATUS-135335	Dead	barba_crescit_caput_nescit	Unknown	SCREEN FAILURE	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-685233	CTDC-PARTICIPANT-STATUS-224566	ALIVE	salus_in_arduis	Unknown	DISEASE RELAPSE	id_quod_plerumque_accidit
+participant_status	CTDC-PARTICIPANT-158948	CTDC-PARTICIPANT-STATUS-897813	ALIVE	a_bene_placito	Yes	NEVER DOSED	scientia_et_labor
+participant_status	CTDC-PARTICIPANT-230862	CTDC-PARTICIPANT-STATUS-862672	DEAD	Macte_animo_Generose_puer_sic_itur_ad_astra	Yes	FAILURE TO MEET RANDOMIZATION CRITERIA	Obedientia_civium_urbis_felicitas
+participant_status	CTDC-PARTICIPANT-332796	CTDC-PARTICIPANT-STATUS-464165	DEAD	Obedientia_civium_urbis_felicitas	Unknown	LACK OF EFFICACY	scientia_imperii_decus_et_tutamen
+participant_status	CTDC-PARTICIPANT-307462	CTDC-PARTICIPANT-STATUS-996835	Alive, Disease Status Unknown	O_Tite_tute_Tati_tibi_tanta_tyranne_tulisti	Yes	LACK OF EFFICACY	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-177467	CTDC-PARTICIPANT-STATUS-805305	Dead	haec_olim_meminisse_iuvabit	No	NO LONGER CLINICALLY BENEFITING	haec_olim_meminisse_iuvabit
+participant_status	CTDC-PARTICIPANT-512782	CTDC-PARTICIPANT-STATUS-688177	Alive with No Evidence of Disease	haec_olim_meminisse_iuvabit	Yes	WITHDRAWAL OF ASSENT	e_causa_ignota
+participant_status	CTDC-PARTICIPANT-406675	CTDC-PARTICIPANT-STATUS-823013	ALIVE	a_bene_placito	Yes	ADVERSE EVENT	scientiae_et_patriae
+participant_status	CTDC-PARTICIPANT-894398	CTDC-PARTICIPANT-STATUS-769473	UNKNOWN	barba_crescit_caput_nescit	Yes	PROTOCOL VIOLATION	scientia_imperii_decus_et_tutamen
+participant_status	CTDC-PARTICIPANT-215088	CTDC-PARTICIPANT-STATUS-745060	ALIVE	pace_tua	Yes	LOST TO FOLLOW-UP	scientia_imperii_decus_et_tutamen
+participant_status	CTDC-PARTICIPANT-120277	CTDC-PARTICIPANT-STATUS-544184	Alive, Disease Status Unknown	scientiae_cedit_mare	Unknown	LOGISTICAL PROBLEM	imperium_in_imperio
+participant_status	CTDC-PARTICIPANT-483417	CTDC-PARTICIPANT-STATUS-357310	Alive, Disease Status Unknown	sapiens_qui_prospicit	Unknown	LOST TO FOLLOW-UP	Macte_animo_Generose_puer_sic_itur_ad_astra
+participant_status	CTDC-PARTICIPANT-383578	CTDC-PARTICIPANT-STATUS-496789	Alive with Disease	Obedientia_civium_urbis_felicitas	Unknown	DISEASE RELAPSE	Macte_animo_Generose_puer_sic_itur_ad_astra
+participant_status	CTDC-PARTICIPANT-245262	CTDC-PARTICIPANT-STATUS-135235	ALIVE	scientiae_cedit_mare	Unknown	NON-COMPLIANCE WITH STUDY DRUG	pace_tua
+participant_status	CTDC-PARTICIPANT-400358	CTDC-PARTICIPANT-STATUS-271525	ALIVE	saltus_in_demonstrando	Unknown	NEVER DOSED	sapiens_qui_prospicit
