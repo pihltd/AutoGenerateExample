@@ -13,8 +13,8 @@ env:
   DESTINATION_DIR: ./example_loadsheets
   # REPOSITORY is the data model repository
   REPOSITORY:  pihltd/AutoGenerateExample
-  # ZIPFILE is the name for the zip archive
-  ZIPFILE: ExampleSubmissionSheets
+  # ZIP_FILE is the name for the zip archive
+  ZIP_FILE: ExampleSubmissionSheets
 
 jobs:
   build:
@@ -47,7 +47,7 @@ jobs:
         #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config.yml
         # PUT ZIP STUFF HERE
       - name:  Zip the generated files
-        run: zip -r ${{ ZIPFILE }}.zip  ${{ env.WORKING_DIR }}/*.tsv
+        run: zip -r $ZIPFILE.zip  $WORKING_DIR/*.tsv
       - name: Commit and push
         run: |
           git config --global user.name 'Todd Pihl'
