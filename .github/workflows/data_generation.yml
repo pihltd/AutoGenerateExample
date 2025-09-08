@@ -10,7 +10,7 @@ env:
   # WORKING DIR is where GitHub Actions does its work.  This doesn't need to be changed, but can be
   WORKING_DIR: ./AutoGenerateExample
   # DESTINATION_DIR is the repository directory where you want the completed example files placed
-  DESTINATION_DIR: ./example_loadsheets
+  DESTINATION_DIR: example_loadsheets
   # REPOSITORY is the data model repository
   REPOSITORY:  pihltd/AutoGenerateExample
   # ZIP_FILE is the name for the zip archive
@@ -47,12 +47,12 @@ jobs:
         #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config.yml
         # PUT ZIP STUFF HERE
       - name:  Zip the generated files
-        run: zip -r $WORKING_DIR/example_loadsheets/$ZIP_FILE.zip . -i  $WORKING_DIR/*.tsv
+        run: zip -r $WORKING_DIR/$DESTINATION_DIR/$ZIP_FILE.zip . --no-dir-entries --include  $WORKING_DIR/*.tsv
       - name: Commit and push
         run: |
           git config --global user.name 'Todd Pihl'
           git config --global user.email 'todd.pihl@nih.gov'
-          git add $DESTINATION_DIR/*.zip
+          git add ./$DESTINATION_DIR/*.zip
           git commit -m "Auto Data Generation" 
           git push
         #working-directory: ./AutoGenerateExample
