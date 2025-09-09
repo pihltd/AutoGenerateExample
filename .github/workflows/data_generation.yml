@@ -57,8 +57,8 @@ jobs:
         run: zip -r $WORKING_DIR/$DESTINATION_DIR/$ZIP_FILE.zip . --junk-paths --include  $WORKING_DIR/*.tsv
       - name: Commit and push
         run: |
-          git config --global user.name 'Todd Pihl'
-          git config --global user.email 'todd.pihl@gmail.com'
+          git config --global user.name Todd Pihl
+          git config --global user.email todd.pihl@gmail.com
           git add ./$DESTINATION_DIR/*.zip
           git commit -m $COMMIT
           git push
