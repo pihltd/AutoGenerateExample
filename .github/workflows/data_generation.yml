@@ -21,7 +21,7 @@ env:
   USER_NAME: 'Todd Pihl'
   USER_EMAIL: 'todd.pihl@gmail.com'
   # The commit message
-  COMMIT: 'Automated Submission Example Generation'
+  COMMIT: "Automated Submission Example Generation"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -61,7 +61,7 @@ jobs:
           git config --global user.email todd.pihl@gmail.com
           ls ./$DESTINATION_DIR/
           git add ./$DESTINATION_DIR/$ZIP_FILE.zip
-          git commit -m 'Automated Submission Example Generation'
+          git commit -m $COMMIT
           git push
         #working-directory: ./AutoGenerateExample
         working-directory: ${{ env.WORKING_DIR }}
