@@ -15,8 +15,6 @@ env:
   REPOSITORY:  pihltd/AutoGenerateExample
   # ZIP_FILE is the name for the zip archive
   ZIP_FILE: ExampleSubmissionSheets
-  # DATA_MODEL_BRANCH is the branch you wish to use to generate example files
-  DATA_MODEL_BRANCH: 'actions/checkout@main'
   # The next two entries are the commiter name and email (Required by GitHub)
   USER_NAME: 'Todd Pihl'
   USER_EMAIL: 'todd.pihl@gmail.com'
@@ -36,18 +34,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r ./bento-data-generator/requirements.txt
       - name: Checkout bento common
-        #uses: actions/checkout@master
-        uses: ${{ env.DATA_MODEL_BRANCH }}
+        uses: actions/checkout@master
         with:
           repository: CBIIT/bento-common
           path: ./bento-data-generator/bento
       - name: Checkout data model
         uses: actions/checkout@main
         with:
-          #repository: pihltd/AutoGenerateExample
-          #path: ./AutoGenerateExample
           repository: ${{ env.REPOSITORY }}
           path: ${{ env.WORKING_DIR }}
+      - name: Delete everything in the destination directory
+        run: rm ./$DESTINATION_DIR/* && ls -al ./$DESTINATION_DIR/
       - name: Run data generator
         run: python ./bento-data-generator/bento-synthetic-data-generator.py $CONFIG_DIR/datagen_config_1.yml
         #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config_1.yml
