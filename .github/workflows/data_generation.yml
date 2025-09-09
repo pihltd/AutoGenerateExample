@@ -59,6 +59,7 @@ jobs:
         run: |
           git config --global user.name Todd Pihl
           git config --global user.email todd.pihl@gmail.com
+          ls ./$DESTINATION_DIR/
           git add ./$DESTINATION_DIR/*.zip
           git commit -m $COMMIT
           git push
