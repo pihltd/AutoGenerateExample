@@ -21,7 +21,7 @@ env:
   USER_NAME: 'Todd Pihl'
   USER_EMAIL: 'todd.pihl@gmail.com'
   # The commit message
-  COMMIT: "Automated Submission Example Generation"
+  COMMIT: "Automated\ Submission\ Example\ Generation"
 jobs:
   build:
     runs-on: ubuntu-latest
