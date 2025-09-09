@@ -61,7 +61,7 @@ jobs:
           git config --global user.email todd.pihl@gmail.com
           ls ./$DESTINATION_DIR/
           git add ./$DESTINATION_DIR/$ZIP_FILE.zip
-          git commit -m ${{ env.COMMIT }}
+          git commit -m "$COMMIT"
           git push
         #working-directory: ./AutoGenerateExample
         working-directory: ${{ env.WORKING_DIR }}
