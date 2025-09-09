@@ -37,7 +37,7 @@ jobs:
           pip install -r ./bento-data-generator/requirements.txt
       - name: Checkout bento common
         #uses: actions/checkout@master
-        uses: "$DATA_MODEL_BRANCH"
+        uses: ${{ env.DATA_MODEL_BRANCH }}
         with:
           repository: CBIIT/bento-common
           path: ./bento-data-generator/bento
