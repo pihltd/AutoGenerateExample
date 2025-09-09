@@ -7,6 +7,8 @@ on:
 env:
   # CONFIG_DIR is the directory where the Bento Data Generator configuration file lives
   CONFIG_DIR: ./AutoGenerateExample/datagen_configs
+  # CONFIG_FILE is the Bento Data Generator configuration file name
+  CONFIG_FILE: datagen_config_1.yml
   # WORKING DIR is where GitHub Actions does its work.  This doesn't need to be changed, but can be
   WORKING_DIR: ./AutoGenerateExample
   # DESTINATION_DIR is the repository directory where you want the completed example files placed
@@ -20,6 +22,13 @@ env:
   USER_EMAIL: 'todd.pihl@gmail.com'
   # The commit message
   COMMIT: "Automated Submission Example Generation"
+  ############################################################################
+  #
+  # Below this point you only need to change the "uses" for Checkout data model.
+  # And then, only if you are using a branch other than @main (line 51)
+  #
+  ############################################################################
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -46,10 +55,7 @@ jobs:
       - name: Delete everything in the destination directory
         run: rm $WORKING_DIR/$DESTINATION_DIR/* && ls -al ./$WORKING_DIR/$DESTINATION_DIR/
       - name: Run data generator
-        run: python ./bento-data-generator/bento-synthetic-data-generator.py $CONFIG_DIR/datagen_config_1.yml
-        #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config_1.yml
-        #run: python ./bento-data-generator/bento-synthetic-data-generator.py ./AutoGenerateExample/datagen_configs/datagen_config.yml
-        # PUT ZIP STUFF HERE
+        run: python ./bento-data-generator/bento-synthetic-data-generator.py $CONFIG_DIR/$CONFIG_FILE
       - name:  Zip the generated files
         run: zip -r $WORKING_DIR/$DESTINATION_DIR/$ZIP_FILE.zip . --junk-paths --include  $WORKING_DIR/*.tsv
       - name: Commit and push
@@ -60,7 +66,5 @@ jobs:
           git add ./$DESTINATION_DIR/$ZIP_FILE.zip
           git commit -m "$COMMIT"
           git push
-        #working-directory: ./AutoGenerateExample
         working-directory: ${{ env.WORKING_DIR }}
-        # # git add ./example_loadsheets/*  Original Line 43.
     
