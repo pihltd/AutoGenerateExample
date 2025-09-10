@@ -5,11 +5,11 @@ on:
     branches: 
       - main
 env:
-  # CONFIG_DIR is the directory where the Bento Data Generator configuration file lives
+  # CONFIG_DIR is the directory where the Bento Data Generator configuration files lives
   CONFIG_DIR: ./AutoGenerateExample/datagen_configs
   # CONFIG_FILE is the Bento Data Generator configuration file name
   CONFIG_FILE: datagen_config_1.yml
-  # WORKING DIR is where GitHub Actions does its work.  This doesn't need to be changed, but can be
+  # WORKING DIR is where GitHub Actions does its work. I think this name needs to be the same as the repository name
   WORKING_DIR: ./AutoGenerateExample
   # DESTINATION_DIR is the repository directory where you want the completed example files placed
   DESTINATION_DIR: example_loadsheets
