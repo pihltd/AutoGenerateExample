@@ -11,8 +11,10 @@ env:
   CONFIG_FILE: datagen_config_1.yml
   # WORKING DIR is where GitHub Actions does its work. I think this name needs to be the same as the repository name
   WORKING_DIR: ./AutoGenerateExample
+  # TEMP_DIR is a temp working directory
+  #TEMP_DIR: example_loadsheets
+  TEMP_DIR: model-navigator-resources
   # DESTINATION_DIR is the repository directory where you want the completed example files placed
-  DESTINATION_DIR: example_loadsheets
   # REPOSITORY is the data model repository
   REPOSITORY:  pihltd/AutoGenerateExample
   # ZIP_FILE is the name for the zip archive
@@ -52,18 +54,18 @@ jobs:
         with:
           repository: ${{ env.REPOSITORY }}
           path: ${{ env.WORKING_DIR }}
-      - name: Delete everything in the destination directory
-        run: rm $WORKING_DIR/$DESTINATION_DIR/* && ls -al ./$WORKING_DIR/$DESTINATION_DIR/
+      - name: Delete everything in the TEMP directory
+        run: rm $WORKING_DIR/$TEMP_DIR/* && ls -al ./$WORKING_DIR/$TEMP_DIR/
       - name: Run data generator
         run: python ./bento-data-generator/bento-synthetic-data-generator.py $CONFIG_DIR/$CONFIG_FILE
       - name:  Zip the generated files
-        run: zip -r $WORKING_DIR/$DESTINATION_DIR/$ZIP_FILE.zip . --junk-paths --include  $WORKING_DIR/*.tsv
+        run: zip -r $WORKING_DIR/$TEMP_DIR/$ZIP_FILE.zip . --junk-paths --include  $WORKING_DIR/*.tsv
       - name: Commit and push
         run: |
           git config --global user.name "$USER_NAME"
           git config --global user.email "$USER_EMAIL"
-          ls ./$DESTINATION_DIR/
-          git add ./$DESTINATION_DIR/$ZIP_FILE.zip
+          ls ./$TEMP_DIR/
+          git add ./$TEMP_DIR/$ZIP_FILE.zip
           git commit -m "$COMMIT"
           git push
         working-directory: ${{ env.WORKING_DIR }}
