@@ -1,6 +1,6 @@
 NODE_FILE: ./AutoGenerateExample/model-desc/cds-model.yml
 PROP_FILE: ./AutoGenerateExample/model-desc/cds-model-props.yml
-SYNTHETIC_DATA_FILE: ./AutoGenerateExample/cds_configuration_files_10.0.0/cds-synthetic_data_values_test.xlsx
+SYNTHETIC_DATA_FILE: ./AutoGenerateExample/cds_configuration_files_10.0.0/cds-synthetic_data_values.xlsx
 DATA_SPEC_FILE: ./AutoGenerateExample/cds_configuration_files_10.0.0/cds-mock-data-specs.yaml
 ID_FILE: ./AutoGenerateExample/cds_configuration_files_10.0.0/props-cds.yml
 OUTPUT_FOLDER: ./AutoGenerateExample/cds_data_files_10.0.0/
