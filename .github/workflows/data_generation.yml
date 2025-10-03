@@ -6,9 +6,11 @@ on:
       - main
 env:
   # CONFIG_DIR is the directory where the Bento Data Generator configuration files lives
-  CONFIG_DIR: ./AutoGenerateExample/datagen_configs
+  #CONFIG_DIR: ./AutoGenerateExample/datagen_configs
+  CONFIG_DIR: ./AutoGenerateExample/cds_configuration_files_10.0.0
   # CONFIG_FILE is the Bento Data Generator configuration file name
-  CONFIG_FILE: datagen_config_1.yml
+  #CONFIG_FILE: datagen_config_1.yml
+  CONFIG_FILE: configuration_files_cds_10.0.0.yaml
   # WORKING DIR is where GitHub Actions does its work. I think this name needs to be the same as the repository name
   WORKING_DIR: ./AutoGenerateExample
   # TEMP_DIR is a temp working directory
@@ -19,12 +21,12 @@ env:
   # REPOSITORY is the data model repository
   REPOSITORY:  pihltd/AutoGenerateExample
   # ZIP_FILE is the name for the zip archive
-  ZIP_FILE: ExampleSubmissionSheets
+  ZIP_FILE: GC_10_ExampleSubmissionSheets
   # The next two entries are the commiter name and email (Required by GitHub)
   USER_NAME: 'Todd Pihl'
   USER_EMAIL: 'todd.pihl@gmail.com'
   # The commit message
-  COMMIT: "Automated Submission Example Generation"
+  COMMIT: "GC Automated Submission Example Generation"
   ############################################################################
   #
   # Below this point you only need to change the "uses" for Checkout data model.
