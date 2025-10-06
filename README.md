@@ -20,3 +20,8 @@ There are a number of variables in the **env** section of the *data_generation.y
 - **USER_NAME**: This is a git requirement and is the committer's name.
 - **USER_EMAIL**: This is also a git requirement and is the email of the committer.
 - **COMMIT**: This is the commit statement that will show in GitHub.
+
+
+## Support scripts
+### MDF2DataGenExcel
+The Bento Data Generation program supports getting values from CDEs rather than providing them in the Excel sheet.  If using an Excel sheet is preferred, this script will create one with the permissible values from the model filled into the approprate columns.
